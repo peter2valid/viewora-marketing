@@ -220,6 +220,7 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon-light.ico' },
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicon-light-180.png' },
         { rel: 'manifest', href: '/site.webmanifest' },
+        { rel: 'preload', as: 'image', href: '/globe-icon.png' },
         { rel: 'dns-prefetch', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
       ],

@@ -1,8 +1,17 @@
 <template>
   <header class="nav">
     <div class="container">
-      <NuxtLink to="/" class="logo">
-        <img src="/globe-icon.png" alt="Viewora" class="logo-icon" />
+      <NuxtLink to="/" class="logo" aria-label="Viewora home">
+        <span v-if="!logoLoaded" class="logo-skeleton" aria-hidden="true"></span>
+        <img
+          ref="logoRef"
+          src="/globe-icon.png"
+          alt=""
+          class="logo-icon"
+          fetchpriority="high"
+          :style="{ opacity: logoLoaded ? 1 : 0, position: logoLoaded ? 'static' : 'absolute' }"
+          @load="logoLoaded = true"
+        />
         <span style="line-height: 1; align-self: center;">Viewora</span>
       </NuxtLink>
       
@@ -44,10 +53,16 @@
   </header>
 </template>
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, onMounted } from 'vue';
 import { useRoute } from '#imports';
 
 const isMobileMenuOpen = ref(false);
+const logoLoaded = ref(false);
+const logoRef = ref<HTMLImageElement | null>(null);
+
+onMounted(() => {
+  if (logoRef.value?.complete) logoLoaded.value = true;
+});
 
 // Body scroll lock
 if (process.client) {
@@ -64,6 +79,22 @@ watch(() => route.path, () => {
 </script>
 
 <style scoped>
+.logo-skeleton {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+  margin-bottom: 0.2rem;
+  margin-left:0.2rem;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #e0e0e0 25%, #f0f0f0 50%, #e0e0e0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+  flex-shrink: 0;
+}
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
 .mobile-menu-enter-active,
 .mobile-menu-leave-active {
   transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.25, 1, 0.5, 1);
