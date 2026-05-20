@@ -39,10 +39,10 @@
               </div>
               <div style="width: 45px;"></div>
             </div>
-            <!-- 360° demo iframe -->
+            <!-- 360° demo iframe — src injected after page load to protect LCP -->
             <div style="flex: 1; width: 100%; height: 100%; position: relative;">
               <iframe
-                src="https://www.marzipano.net/demos/sample-tour/"
+                ref="demoIframe"
                 style="width: 100%; height: 260px; border: none; display: block;"
                 allowfullscreen
                 allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
@@ -127,7 +127,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">Hotspot Navigation</h4>
+              <h3 class="font-bold mb-2">Hotspot Navigation</h3>
               <p class="text-muted text-sm">Place clickable hotspots to guide viewers from room to room with smooth transitions.</p>
             </div>
           </div>
@@ -136,7 +136,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect><line x1="12" y1="18" x2="12.01" y2="18"></line></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">Mobile & Gyroscope</h4>
+              <h3 class="font-bold mb-2">Mobile & Gyroscope</h3>
               <p class="text-muted text-sm">Tours automatically scale and use gyroscopic sensors for immersive navigation on iOS and Android.</p>
             </div>
           </div>
@@ -145,7 +145,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">White-Label & Branding</h4>
+              <h3 class="font-bold mb-2">White-Label & Branding</h3>
               <p class="text-muted text-sm">Remove Viewora branding and replace with your own agency logo for a fully branded experience.</p>
             </div>
           </div>
@@ -154,7 +154,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">Lead Capture Forms</h4>
+              <h3 class="font-bold mb-2">Lead Capture Forms</h3>
               <p class="text-muted text-sm">Collect buyer and renter enquiries directly inside the tour — turn viewers into leads automatically.</p>
             </div>
           </div>
@@ -163,7 +163,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">Instant Public Link</h4>
+              <h3 class="font-bold mb-2">Instant Public Link</h3>
               <p class="text-muted text-sm">No app needed for viewers. Share a simple URL via WhatsApp, email, or social media — it just works.</p>
             </div>
           </div>
@@ -172,7 +172,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line></svg>
             </div>
             <div>
-              <h4 class="font-bold mb-2">8K High-Resolution</h4>
+              <h3 class="font-bold mb-2">8K High-Resolution</h3>
               <p class="text-muted text-sm">Upload multi-megapixel panoramas without quality loss. Every tile, fixture, and finish stays crystal clear.</p>
             </div>
           </div>
@@ -245,28 +245,28 @@
             <div style="display: flex; gap: 1rem;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></div>
               <div>
-                <h4 class="font-bold mb-1">Airbnb Hosts</h4>
+                <h3 class="font-bold mb-1">Airbnb Hosts</h3>
                 <p class="text-muted text-sm">Boost listing credibility and reduce guest queries about layout.</p>
               </div>
             </div>
             <div style="display: flex; gap: 1rem;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg></div>
               <div>
-                <h4 class="font-bold mb-1">Real Estate Agents</h4>
+                <h3 class="font-bold mb-1">Real Estate Agents</h3>
                 <p class="text-muted text-sm">Pre-qualify buyers and save time on unnecessary physical viewings.</p>
               </div>
             </div>
             <div style="display: flex; gap: 1rem;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg></div>
               <div>
-                <h4 class="font-bold mb-1">Property Developers</h4>
+                <h3 class="font-bold mb-1">Property Developers</h3>
                 <p class="text-muted text-sm">Showcase show houses and model layouts to off-plan investors.</p>
               </div>
             </div>
             <div style="display: flex; gap: 1rem;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle><line x1="12" y1="2" x2="12" y2="9"></line><line x1="22" y1="12" x2="15" y2="12"></line><line x1="12" y1="22" x2="12" y2="15"></line><line x1="2" y1="12" x2="9" y2="12"></line></svg></div>
               <div>
-                <h4 class="font-bold mb-1">Car Dealerships</h4>
+                <h3 class="font-bold mb-1">Car Dealerships</h3>
                 <p class="text-muted text-sm">Sell cars faster by putting buyers behind the wheel from their phone.</p>
               </div>
             </div>
@@ -293,7 +293,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 useSeoMeta({
   title: '360° Virtual Tour Software — Free to Start | Viewora',
   description: 'Create immersive 360° virtual tours for real estate, hotels, Airbnb, dealerships, tourism, and retail businesses across Africa.',
@@ -408,5 +408,18 @@ useHead({
   ]
 })
 
+const demoIframe = ref<HTMLIFrameElement | null>(null)
 
+onMounted(() => {
+  const load = () => {
+    if (demoIframe.value) {
+      demoIframe.value.src = 'https://www.marzipano.net/demos/sample-tour/'
+    }
+  }
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(load, { timeout: 3000 })
+  } else {
+    setTimeout(load, 2000)
+  }
+})
 </script>

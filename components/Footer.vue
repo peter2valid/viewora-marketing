@@ -28,7 +28,7 @@
 
         <!-- Platform -->
         <div>
-          <h4 class="footer-heading">Platform</h4>
+          <p class="footer-heading">Platform</p>
           <ul class="footer-links">
             <li><NuxtLink to="/product">How It Works</NuxtLink></li>
             <li><NuxtLink to="/pricing">Pricing</NuxtLink></li>
@@ -43,7 +43,7 @@
 
         <!-- Industries -->
         <div>
-          <h4 class="footer-heading">Industries</h4>
+          <p class="footer-heading">Industries</p>
           <ul class="footer-links">
             <li><NuxtLink to="/real-estate-virtual-tours-kenya">Real Estate</NuxtLink></li>
             <li><NuxtLink to="/airbnb-virtual-tours-kenya">Airbnb Hosting</NuxtLink></li>
@@ -58,7 +58,7 @@
 
         <!-- Locations -->
         <div>
-          <h4 class="footer-heading">Locations</h4>
+          <p class="footer-heading">Locations</p>
           <ul class="footer-links">
             <li><NuxtLink to="/virtual-tours-kenya">Kenya</NuxtLink></li>
             <li><NuxtLink to="/virtual-tours-nairobi">Nairobi</NuxtLink></li>
@@ -73,14 +73,14 @@
 
         <!-- Company + Legal -->
         <div>
-          <h4 class="footer-heading">Company</h4>
+          <p class="footer-heading">Company</p>
           <ul class="footer-links">
             <li><NuxtLink to="/about">About Us</NuxtLink></li>
             <li><NuxtLink to="/contact">Contact</NuxtLink></li>
             <li><NuxtLink to="https://app.viewora.software/login">Sign In</NuxtLink></li>
             <li><NuxtLink to="https://app.viewora.software/register">Create Account</NuxtLink></li>
           </ul>
-          <h4 class="footer-heading" style="margin-top: 1.5rem;">Legal</h4>
+          <p class="footer-heading" style="margin-top: 1.5rem;">Legal</p>
           <ul class="footer-links">
             <li><NuxtLink to="/legal/terms">Terms of Service</NuxtLink></li>
             <li><NuxtLink to="/legal/privacy">Privacy Policy</NuxtLink></li>
