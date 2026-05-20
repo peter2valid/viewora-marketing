@@ -39,27 +39,15 @@
               </div>
               <div style="width: 45px;"></div>
             </div>
-            <!-- Deferred iframe: only loads after user clicks -->
-            <div style="flex: 1; width: 100%; height: 100%; position: relative; cursor: pointer;" @click="showDemo = true">
-              <div v-if="showDemo" style="width: 100%; height: 100%; position: relative;">
-                <!-- Loading Spinner -->
-                <div v-if="demoLoading" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: var(--bg-surface); z-index: 5;">
-                  <div class="spinner"></div>
-                </div>
-                <iframe
-                  src="https://www.marzipano.net/demos/sample-tour/"
-                  style="width: 100%; height: 100%; border: none;"
-                  allowfullscreen
-                  title="Sample 360 Virtual Tour"
-                  @load="demoLoading = false"
-                ></iframe>
-              </div>
-              <div v-else style="width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);">
-                <div style="width: 64px; height: 64px; border-radius: 50%; background: rgba(255,255,255,0.1); backdrop-filter: blur(8px); display: flex; align-items: center; justify-content: center; border: 1px solid rgba(255,255,255,0.15); transition: transform 0.2s;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="white" stroke="none"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-                </div>
-                <p style="color: rgba(255,255,255,0.7); font-size: 0.85rem; letter-spacing: 0.04em; font-family: var(--font-mono);">Click to launch 360° demo</p>
-              </div>
+            <!-- 360° demo iframe -->
+            <div style="flex: 1; width: 100%; height: 100%; position: relative;">
+              <iframe
+                src="https://www.marzipano.net/demos/sample-tour/"
+                style="width: 100%; height: 260px; border: none; display: block;"
+                allowfullscreen
+                allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
+                title="Sample 360 Virtual Tour"
+              ></iframe>
             </div>
           </div>
         </div>
@@ -420,8 +408,5 @@ useHead({
   ]
 })
 
-// Defer demo iframe load until user clicks — prevents iframe from blocking LCP
-const showDemo = ref(false)
-const demoLoading = ref(true)
 
 </script>
