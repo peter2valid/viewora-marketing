@@ -9,6 +9,9 @@ export default defineNuxtConfig({
     smtpPort: process.env.SMTP_PORT || '587',
     smtpUser: process.env.SMTP_USER,
     smtpPass: process.env.SMTP_PASS,
+    public: {
+      posthogKey: process.env.NUXT_PUBLIC_POSTHOG_KEY || '',
+    },
   },
 
   modules: [
@@ -159,6 +162,7 @@ export default defineNuxtConfig({
 
   routeRules: {
     '/**': { prerender: true },
+    '/ingest/**': { cache: false },
     '/features': { redirect: { to: '/product', statusCode: 301 } },
     '/real-estate-virtual-tours': { redirect: { to: '/real-estate-virtual-tours-kenya', statusCode: 301 } },
     '/hotel-virtual-tours': { redirect: { to: '/hotel-virtual-tours-kenya', statusCode: 301 } },

@@ -26,7 +26,7 @@
 
         <div class="nav-actions">
           <NuxtLink to="https://app.viewora.software/login" class="nav-link">Log in</NuxtLink>
-          <NuxtLink to="https://app.viewora.software/register" class="btn btn-dark" style="padding: 0.5rem 1rem; font-size: 0.875rem;">Start Free</NuxtLink>
+          <NuxtLink to="https://app.viewora.software/register" class="btn btn-dark" style="padding: 0.5rem 1rem; font-size: 0.875rem;" @click="trackCta('nav_start_free')">Start Free</NuxtLink>
         </div>
 
       <!-- Mobile Menu Button -->
@@ -46,7 +46,7 @@
           <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0.5rem 0;" />
           
           <NuxtLink to="https://app.viewora.software/login" class="nav-link" @click="isMobileMenuOpen = false">Log in</NuxtLink>
-          <NuxtLink to="https://app.viewora.software/register" class="btn btn-dark btn-block" @click="isMobileMenuOpen = false">Start Free</NuxtLink>
+          <NuxtLink to="https://app.viewora.software/register" class="btn btn-dark btn-block" @click="isMobileMenuOpen = false; trackCta('nav_start_free_mobile')">Start Free</NuxtLink>
         </div>
       </div>
     </Transition>
@@ -54,9 +54,14 @@
 </template>
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue';
-import { useRoute } from '#imports';
+import { useRoute, useNuxtApp } from '#imports';
 
 const isMobileMenuOpen = ref(false);
+const { $posthog } = useNuxtApp() as any
+
+function trackCta(button: string) {
+  $posthog?.capture('nav_cta_clicked', { button })
+}
 const logoLoaded = ref(false);
 const logoRef = ref<HTMLImageElement | null>(null);
 
