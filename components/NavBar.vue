@@ -3,9 +3,12 @@
     <div class="container">
       <NuxtLink to="/" class="logo" aria-label="Viewora home">
         <span v-if="!logoLoaded" class="logo-skeleton" aria-hidden="true"></span>
-        <img
+        <NuxtImg
           ref="logoRef"
           src="/globe-icon.png"
+          width="48"
+          height="48"
+          format="webp"
           alt=""
           class="logo-icon"
           fetchpriority="high"
