@@ -56,7 +56,7 @@
   </header>
 </template>
 <script setup lang="ts">
-import { ref, watch, onMounted } from 'vue';
+import { ref, watch, onMounted, onBeforeUnmount } from 'vue';
 import { useRoute, useNuxtApp } from '#imports';
 
 const isMobileMenuOpen = ref(false);
@@ -72,17 +72,24 @@ onMounted(() => {
   if (logoRef.value?.complete) logoLoaded.value = true;
 });
 
-// Body scroll lock
+// Body scroll lock — keep reactive for direct toggle
 if (process.client) {
   watch(isMobileMenuOpen, (val) => {
     document.body.style.overflow = val ? 'hidden' : '';
   });
 }
 
-// Close on route change
+// Reset scroll directly on navigation — don't rely on the watcher chain
+// (Nuxt's page transition can interrupt Vue's watcher queue before overflow is cleared)
 const route = useRoute();
 watch(() => route.path, () => {
   isMobileMenuOpen.value = false;
+  if (process.client) document.body.style.overflow = '';
+});
+
+// Safety net: ensure scroll is always restored if component is destroyed
+onBeforeUnmount(() => {
+  if (process.client) document.body.style.overflow = '';
 });
 </script>
 
