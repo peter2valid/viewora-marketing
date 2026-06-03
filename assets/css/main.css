@@ -596,6 +596,7 @@ header.nav {
 
 /* ── Footer ── */
 .footer {
+  position: relative;
   background-color: var(--ink);
   border-top: 1px solid var(--border-dark);
   padding: 5rem 0 2.5rem;

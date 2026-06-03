@@ -55,7 +55,7 @@
     </section>
 
     <!-- Stats Bar -->
-    <section style="background: var(--ink); padding: 2.5rem 0; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
+    <section style="background: var(--ink); padding: 2.5rem 0; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark); position: relative;">
       <div class="container">
         <div class="stats-grid">
           <div style="color: var(--paper);">
