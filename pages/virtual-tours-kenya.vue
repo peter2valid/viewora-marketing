@@ -41,10 +41,33 @@
         Trust is everything in short-term rentals. A 360° tour provides potential guests with a transparent, honest view of your space, reducing bad reviews and increasing repeated bookings. Viewora is the preferred choice for <strong>Airbnb marketing in Kenya</strong>.
       </p>
 
-      <h2>Start Your SEO Domination with Viewora</h2>
+      <h2>Virtual Tours by City in Kenya</h2>
       <p>
-        Join hundreds of Kenyan property professionals who are already using Viewora to dominate search results and win more clients. Our platform is optimized for performance, ensuring your tours load instantly on Kenyan mobile networks.
+        Viewora is used by property professionals across Kenya. Explore city-specific guides:
       </p>
+      <ul>
+        <li><NuxtLink to="/virtual-tours-nairobi" class="highlight">Virtual Tours Nairobi</NuxtLink> — Westlands, Kilimani, Karen, Upper Hill, Thika Road</li>
+        <li><NuxtLink to="/virtual-tours-mombasa" class="highlight">Virtual Tours Mombasa</NuxtLink> — Nyali, Diani, Old Town, North Coast</li>
+        <li><NuxtLink to="/virtual-tours-kisumu" class="highlight">Virtual Tours Kisumu</NuxtLink> — Milimani, CBD, Riat Hills</li>
+        <li><NuxtLink to="/virtual-tours-nakuru" class="highlight">Virtual Tours Nakuru</NuxtLink> — Milimani, Flamingo</li>
+        <li><NuxtLink to="/virtual-tours-eldoret" class="highlight">Virtual Tours Eldoret</NuxtLink> — Elgon View, Pioneer</li>
+      </ul>
+
+      <h2>Virtual Tours by Property Type</h2>
+      <ul>
+        <li><NuxtLink to="/real-estate-virtual-tours-kenya" class="highlight">Real Estate Virtual Tours Kenya</NuxtLink> — residential and commercial property marketing</li>
+        <li><NuxtLink to="/airbnb-virtual-tours-kenya" class="highlight">Airbnb Virtual Tours Kenya</NuxtLink> — short-let listings and holiday rentals</li>
+        <li><NuxtLink to="/hotel-virtual-tours-kenya" class="highlight">Hotel Virtual Tours Kenya</NuxtLink> — hospitality and lodge marketing</li>
+        <li><NuxtLink to="/school-virtual-tours-kenya" class="highlight">School Virtual Tours Kenya</NuxtLink> — campus tours and institutional marketing</li>
+      </ul>
+
+      <h2>Software Guides</h2>
+      <ul>
+        <li><NuxtLink to="/virtual-tour-software-kenya" class="highlight">Virtual Tour Software Kenya</NuxtLink> — full guide to creating tours yourself</li>
+        <li><NuxtLink to="/360-virtual-tour-software" class="highlight">360° Virtual Tour Software</NuxtLink> — platform features and comparison</li>
+        <li><NuxtLink to="/free-virtual-tour-software" class="highlight">Free Virtual Tour Software</NuxtLink> — what is included at no cost</li>
+        <li><NuxtLink to="/matterport-alternative" class="highlight">Matterport Alternative</NuxtLink> — why Viewora beats Matterport for African markets</li>
+      </ul>
     </SeoContent>
 
     <SeoFAQ
