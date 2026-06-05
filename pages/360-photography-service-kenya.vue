@@ -133,10 +133,62 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Service Kenya | Professional Virtual Tour Capture | Viewora',
-  description: 'No camera? No problem. Viewora dispatches certified photographers to your property — apartments, hotels, restaurants, schools, showrooms and more — from KES 5,000. Nairobi, Mombasa, Kisumu.',
-  ogTitle: '360° Photography Capture Service Kenya — From KES 5,000',
-  ogDescription: 'Professional 360° virtual tour photography for 25 property types across Kenya. Delivered to your Viewora space within 48 hours.',
+  title: '360° Photography Service Kenya | Virtual Tour Photographer Nairobi | Viewora',
+  description: 'Hire a professional 360° photographer in Kenya — real estate, hotels, restaurants, Airbnbs, schools & 25 more property types. From KES 5,000. Nairobi, Mombasa, Kisumu. 48-hr delivery.',
+  ogTitle: '360° Photography Service Kenya — From KES 5,000 | Viewora',
+  ogDescription: 'Professional virtual tour photographer in Kenya. 25 property types covered. Delivered to your Viewora space in 48 hours.',
+  robots: 'index, follow',
+  keywords: '360 photography service Kenya, virtual tour photographer Kenya, 360 photographer Nairobi, professional 360 photography Kenya, virtual tour photography service Kenya, 360 degree photography Kenya, property photographer Kenya',
+})
+
+useHead({
+  link: [{ rel: 'canonical', href: 'https://viewora.software/360-photography-service-kenya' }],
+  script: [{
+    type: 'application/ld+json',
+    children: JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Service',
+          '@id': 'https://viewora.software/360-photography-service-kenya#service',
+          name: '360° Virtual Tour Photography Service Kenya',
+          description: 'Professional 360° photography and virtual tour creation service for properties across Kenya. We dispatch certified photographers to capture any property type and deliver the tour to your Viewora space within 48 hours.',
+          provider: {
+            '@type': 'Organization',
+            '@id': 'https://viewora.software/#organization',
+            name: 'Viewora',
+            url: 'https://viewora.software',
+          },
+          areaServed: [
+            { '@type': 'City', name: 'Nairobi', containedInPlace: { '@type': 'Country', name: 'Kenya' } },
+            { '@type': 'City', name: 'Mombasa', containedInPlace: { '@type': 'Country', name: 'Kenya' } },
+            { '@type': 'City', name: 'Kisumu',  containedInPlace: { '@type': 'Country', name: 'Kenya' } },
+          ],
+          hasOfferCatalog: {
+            '@type': 'OfferCatalog',
+            name: 'Capture Packages',
+            itemListElement: [
+              { '@type': 'Offer', name: 'Mini',     price: '5000',  priceCurrency: 'KES', description: 'Small room, shop, salon or studio' },
+              { '@type': 'Offer', name: 'Starter',  price: '7500',  priceCurrency: 'KES', description: '1BR Airbnb, small office, boutique' },
+              { '@type': 'Offer', name: 'Standard', price: '10000', priceCurrency: 'KES', description: '2BR apartment, clinic, gym' },
+              { '@type': 'Offer', name: 'Pro',      price: '15000', priceCurrency: 'KES', description: '3BR house, showroom' },
+              { '@type': 'Offer', name: 'Business', price: '25000', priceCurrency: 'KES', description: 'Hotel, school, event venue' },
+              { '@type': 'Offer', name: 'Premium',  price: '40000', priceCurrency: 'KES', description: 'Resort, factory, campus' },
+            ],
+          },
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            { '@type': 'Question', name: 'Do I need my own 360° camera?', acceptedAnswer: { '@type': 'Answer', text: 'No. We bring all equipment including a 360° camera, DSLR, tripod, and lighting. You just need to be at the property.' } },
+            { '@type': 'Question', name: 'How much does a 360° photography shoot cost in Kenya?', acceptedAnswer: { '@type': 'Answer', text: 'Pricing starts from KES 5,000 for a Mini package (small room, shop, or studio) up to KES 40,000+ for Premium packages covering large institutions, resorts, or factories.' } },
+            { '@type': 'Question', name: 'Which cities in Kenya do you cover?', acceptedAnswer: { '@type': 'Answer', text: 'We currently dispatch photographers to Nairobi, Mombasa, and Kisumu. Contact us for other locations.' } },
+            { '@type': 'Question', name: 'How long until my virtual tour is ready?', acceptedAnswer: { '@type': 'Answer', text: 'Standard packages are delivered within 48 hours. Mini and Starter shoots are delivered within 24 hours.' } },
+          ],
+        },
+      ],
+    }),
+  }],
 })
 
 const packages = [

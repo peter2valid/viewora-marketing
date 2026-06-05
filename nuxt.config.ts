@@ -135,6 +135,37 @@ export default defineNuxtConfig({
         loc: '/virtual-tours-vs-photos',
         images: [{ loc: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80', title: 'Virtual Tours vs Photos — Which Sells Faster?' }],
       },
+      // ── Capture Service pages ──────────────────────────────────────────────
+      {
+        loc: '/360-photography-service-kenya',
+        priority: 0.9,
+        images: [{ loc: 'https://images.unsplash.com/photo-1582408921715-18e7806365c1?w=1200&q=80', title: '360° Photography Service Kenya — Professional Virtual Tour Capture' }],
+      },
+      {
+        loc: '/virtual-tour-photographer-kenya',
+        priority: 0.9,
+        images: [{ loc: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80', title: 'Virtual Tour Photographer Kenya — Hire a 360° Pro Near You' }],
+      },
+      {
+        loc: '/360-photography-nairobi',
+        priority: 0.85,
+        images: [{ loc: 'https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1200&q=80', title: '360° Photography Nairobi — Virtual Tour Photographer' }],
+      },
+      {
+        loc: '/360-photography-mombasa',
+        priority: 0.85,
+        images: [{ loc: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200&q=80', title: '360° Photography Mombasa & Diani — Virtual Tour Photographer' }],
+      },
+      {
+        loc: '/real-estate-photography-kenya',
+        priority: 0.85,
+        images: [{ loc: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80', title: 'Real Estate Photography Kenya — 360° Property Photographer' }],
+      },
+      {
+        loc: '/airbnb-photography-kenya',
+        priority: 0.85,
+        images: [{ loc: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80', title: 'Airbnb Photography Kenya — 360° Virtual Tour for Short-Let' }],
+      },
     ],
   },
 
