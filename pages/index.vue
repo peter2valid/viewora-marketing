@@ -275,6 +275,38 @@
       </div>
     </section>
 
+    <!-- Capture Service Section -->
+    <section style="background: var(--ink); padding: 5rem 0; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark); overflow: hidden; position: relative;">
+      <div style="position: absolute; top: -30%; left: -10%; width: 50%; height: 150%; background: radial-gradient(circle at 20% 50%, rgba(37,211,102,0.08) 0%, transparent 60%); pointer-events: none;" />
+      <div class="container" style="position: relative; z-index: 2;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
+          <div>
+            <div style="display: inline-flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; color: #25d366; margin-bottom: 1.25rem;">
+              <span style="width: 7px; height: 7px; border-radius: 50%; background: #25d366; box-shadow: 0 0 10px rgba(37,211,102,0.8); flex-shrink: 0;" />
+              Professional Capture Service
+            </div>
+            <h2 style="font-size: clamp(1.75rem, 4vw, 2.75rem); font-weight: 900; letter-spacing: -0.04em; line-height: 1.1; color: var(--paper); margin-bottom: 1rem;">
+              No 360° camera?<br><span style="color: #25d366;">We'll shoot it for you.</span>
+            </h2>
+            <p style="font-size: 1rem; color: var(--slate-light); line-height: 1.7; margin-bottom: 1.5rem;">
+              Our certified photographers cover <strong style="color: var(--paper);">25 property types</strong> across Kenya — from a single-room Airbnb to a full hotel or school campus. Delivered to your Viewora space within 48 hours.
+            </p>
+            <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+              <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">From <strong style="color: var(--paper);">KES 5,000</strong></span>
+              <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">48-hr delivery</span>
+              <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">Nairobi · Mombasa · Kisumu</span>
+            </div>
+            <NuxtLink to="/360-photography-service-kenya" style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: 12px; font-size: 15px; font-weight: 800; text-decoration: none; background: #25d366; color: #0a0a0a; transition: background 140ms ease;">
+              View Packages & Book a Shoot →
+            </NuxtLink>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+            <div v-for="dept in homeDepts" :key="dept" style="padding: 10px 14px; border-radius: 10px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); font-size: 12px; font-weight: 700; color: var(--slate-light);">{{ dept }}</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Final CTA -->
     <section style="background: var(--ink); padding: 6rem 0; text-align: center; border-top: 1px solid var(--border-dark); position: relative; overflow: hidden;">
       <!-- blueprint grid overlay for dark section -->
@@ -409,6 +441,14 @@ useHead({
 })
 
 const demoIframe = ref<HTMLIFrameElement | null>(null)
+
+const homeDepts = [
+  'Real Estate', 'Airbnb & Furnished', 'Hotels', 'Restaurants & Bars',
+  'Schools & Colleges', 'Clinics & Hospitals', 'Car Showrooms', 'Event Venues',
+  'Gyms & Spas', 'Retail & Showrooms', 'Offices', 'Churches',
+  'Tourism & Safari', 'Factories & Warehouses', 'Agriculture',
+  'Entertainment', 'Sports Facilities', 'Creative Studios',
+]
 
 onMounted(() => {
   const load = () => {

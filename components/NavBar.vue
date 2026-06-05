@@ -21,6 +21,7 @@
       <!-- Desktop Navigation -->
       <nav class="nav-links">
         <NuxtLink to="/product" class="nav-link">Product</NuxtLink>
+        <NuxtLink to="/360-photography-service-kenya" class="nav-link nav-link--capture">📸 Capture</NuxtLink>
         <NuxtLink to="/blog" class="nav-link">Blog</NuxtLink>
         <NuxtLink to="/pricing" class="nav-link">Pricing</NuxtLink>
         <NuxtLink to="/about" class="nav-link">About</NuxtLink>
@@ -43,6 +44,7 @@
       <div v-show="isMobileMenuOpen" class="mobile-menu-overlay" style="position: absolute; top: 100%; left: 0; right: 0; background: var(--paper); padding: 1.25rem; border-bottom: 1px solid var(--border); box-shadow: var(--shadow-float); z-index: 99; transform-origin: top;">
         <div style="display: flex; flex-direction: column; gap: 1rem;">
           <NuxtLink to="/product" class="nav-link" @click="isMobileMenuOpen = false">Product</NuxtLink>
+          <NuxtLink to="/360-photography-service-kenya" class="nav-link" style="color: #25d366; font-weight: 700;" @click="isMobileMenuOpen = false">📸 Capture Service</NuxtLink>
           <NuxtLink to="/pricing" class="nav-link" @click="isMobileMenuOpen = false">Pricing</NuxtLink>
           <NuxtLink to="/about" class="nav-link" @click="isMobileMenuOpen = false">About</NuxtLink>
           <NuxtLink to="/contact" class="nav-link" @click="isMobileMenuOpen = false">Contact</NuxtLink>
@@ -94,6 +96,13 @@ onBeforeUnmount(() => {
 </script>
 
 <style scoped>
+.nav-link--capture {
+  color: #25d366 !important;
+  font-weight: 700;
+}
+.nav-link--capture:hover {
+  color: #20bd5a !important;
+}
 .logo-skeleton {
   width: 3rem;
   height: 3rem;
