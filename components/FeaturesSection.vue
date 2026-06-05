@@ -64,10 +64,77 @@
           </ul>
         </div>
       </div>
+
+      <!-- Capture CTA block -->
+      <div class="capture-block">
+        <div class="capture-block__left">
+          <div class="capture-block__badge">
+            <span class="capture-block__dot" />
+            Professional Capture Service
+          </div>
+          <h3 class="capture-block__title">Don't have a 360° camera? We'll shoot it for you.</h3>
+          <p class="capture-block__sub">Our certified photographers cover all 25 property types across Kenya — apartments, hotels, restaurants, schools, showrooms and more. Delivered to your Viewora space within 48 hours.</p>
+          <div class="capture-block__prices">
+            <span>From <strong>KES 5,000</strong></span>
+            <span>•</span>
+            <span>Nairobi, Mombasa, Kisumu</span>
+            <span>•</span>
+            <span>48-hr delivery</span>
+          </div>
+          <NuxtLink to="https://app.viewora.software/app/capture" class="capture-block__btn">
+            View All Packages & Book →
+          </NuxtLink>
+        </div>
+        <div class="capture-block__right">
+          <div class="capture-block__grid">
+            <span v-for="dept in captureDepts" :key="dept" class="capture-block__tag">{{ dept }}</span>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </template>
 
 <script setup lang="ts">
-// Presentational component
+const captureDepts = [
+  'Real Estate','Airbnb','Hotels','Restaurants','Schools',
+  'Clinics','Gyms','Car Showrooms','Offices','Retail',
+  'Churches','Tourism','Agriculture','Factories','Warehouses',
+]
 </script>
+
+<style scoped>
+.capture-block {
+  margin-top: 3rem; padding: 2.5rem; border-radius: 1.5rem;
+  background: linear-gradient(135deg, rgba(37,211,102,0.06) 0%, rgba(59,130,246,0.06) 100%);
+  border: 1px solid rgba(37,211,102,0.18);
+  display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; align-items: center;
+}
+@media (max-width: 768px) { .capture-block { grid-template-columns: 1fr; } }
+.capture-block__badge {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 11px; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
+  color: #25d366; margin-bottom: 1rem;
+}
+.capture-block__dot {
+  width: 7px; height: 7px; border-radius: 50%; background: #25d366;
+  box-shadow: 0 0 8px rgba(37,211,102,0.8); flex-shrink: 0;
+}
+.capture-block__title { font-size: 1.5rem; font-weight: 900; line-height: 1.25; margin-bottom: 0.75rem; color: var(--ink); letter-spacing: -0.02em; }
+.capture-block__sub { font-size: 0.9rem; color: var(--slate); line-height: 1.7; margin-bottom: 1.25rem; }
+.capture-block__prices { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 12px; color: var(--slate); margin-bottom: 1.5rem; }
+.capture-block__prices strong { color: var(--ink); font-weight: 900; }
+.capture-block__prices span:nth-child(2n) { opacity: 0.35; }
+.capture-block__btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 12px 22px; border-radius: 12px; font-size: 13px; font-weight: 800; text-decoration: none;
+  background: #25d366; color: #0a0a0a; transition: background 140ms ease, transform 140ms ease;
+}
+.capture-block__btn:hover { background: #20bd5a; transform: translateY(-1px); }
+.capture-block__grid { display: flex; flex-wrap: wrap; gap: 8px; }
+.capture-block__tag {
+  padding: 5px 12px; border-radius: 999px; font-size: 12px; font-weight: 700;
+  background: rgba(37,211,102,0.08); border: 1px solid rgba(37,211,102,0.18);
+  color: var(--slate);
+}
+</style>

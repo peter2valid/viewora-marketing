@@ -15,6 +15,11 @@
             <NuxtLink to="/product" class="btn btn-outline btn-lg">See How It Works →</NuxtLink>
           </slot>
         </div>
+        <div class="hero-capture-pill">
+          <span class="hero-capture-pill__dot" />
+          No 360° camera? <strong>We'll shoot your property from KES 5,000</strong>
+          <NuxtLink to="https://app.viewora.software/app/capture" class="hero-capture-pill__link">Book a Shoot →</NuxtLink>
+        </div>
       </div>
     </div>
     <!-- Grid Overlay to match index.vue -->
@@ -94,6 +99,27 @@ defineProps<{
   z-index: 0;
   pointer-events: none;
 }
+
+/* Capture pill */
+.hero-capture-pill {
+  display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  margin-top: 1.5rem; padding: 8px 14px; border-radius: 999px;
+  background: rgba(37,211,102,0.08); border: 1px solid rgba(37,211,102,0.22);
+  font-size: 13px; color: var(--slate);
+}
+.hero-capture-pill strong { color: var(--ink); font-weight: 800; }
+.hero-capture-pill__dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: #25d366; box-shadow: 0 0 8px rgba(37,211,102,0.8);
+  flex-shrink: 0; animation: dot-pulse 2s ease-in-out infinite;
+}
+@keyframes dot-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+.hero-capture-pill__link {
+  color: #25d366; font-weight: 800; font-size: 12px; text-decoration: none;
+  border: 1px solid rgba(37,211,102,0.35); padding: 3px 10px; border-radius: 999px;
+  transition: background 140ms ease;
+}
+.hero-capture-pill__link:hover { background: rgba(37,211,102,0.15); }
 
 /* For pages that still want a bit of darkness */
 .hero-dark {
