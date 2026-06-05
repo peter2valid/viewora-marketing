@@ -17,8 +17,8 @@
         </div>
         <div class="hero-capture-pill">
           <span class="hero-capture-pill__dot" />
-          No 360° camera? <strong>We'll shoot your property from KES 5,000</strong>
-          <NuxtLink to="https://app.viewora.software/app/capture" class="hero-capture-pill__link">Book a Shoot →</NuxtLink>
+          🎁 <strong>Claim your free demo shoot</strong> — we come to your property, no camera needed
+          <NuxtLink to="https://app.viewora.software/app/capture" class="hero-capture-pill__link">Claim Free →</NuxtLink>
         </div>
       </div>
     </div>
