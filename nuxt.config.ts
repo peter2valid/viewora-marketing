@@ -226,6 +226,7 @@ export default defineNuxtConfig({
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { name: 'facebook-domain-verification', content: 'pr6h49xvj98hgvtbuaid982l6uvku3' },
         {
           name: 'description',
           content: 'Create, host, and share interactive 360° virtual tours in minutes. The professional platform for real estate, hospitality, automotive, and retail spaces.',
