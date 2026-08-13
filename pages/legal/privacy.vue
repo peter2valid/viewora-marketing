@@ -38,7 +38,40 @@
         Viewora may integrate with trusted third-party services to enhance your marketing (e.g., analytics or social sharing). We ensure these partners adhere to high standards of <strong>data privacy in Africa</strong>.
       </p>
 
-      <h2>4. Updates to This Policy</h2>
+      <h2>4. WhatsApp Communications</h2>
+      <p>
+        Viewora offers an optional WhatsApp bot feature that allows clients to submit property information and receive professionally curated WhatsApp posters for their listings. This feature is powered by the <strong>WhatsApp Business API</strong>, provided by <strong>Meta Platforms, Inc.</strong>, which acts as a data processor for messages sent and received through this feature.
+      </p>
+
+      <h3>What We Collect</h3>
+      <ul>
+        <li><strong>Phone number:</strong> used to identify and communicate with you via WhatsApp.</li>
+        <li><strong>Message content:</strong> the text of conversations exchanged with the bot.</li>
+        <li><strong>Message metadata:</strong> including timestamps, delivery status, and read receipts.</li>
+        <li><strong>Images and documents:</strong> primarily photos of rental properties that you submit, used to generate your professional property poster.</li>
+      </ul>
+
+      <h3>How We Use This Data</h3>
+      <p>
+        We use WhatsApp conversation data solely to curate and generate professional WhatsApp posters and property presentations on your behalf, respond to inquiries and provide support through the WhatsApp bot, and improve the quality and accuracy of the poster generation feature. We do not sell WhatsApp conversation data to third parties.
+      </p>
+
+      <h3>Data Retention and Access</h3>
+      <p>
+        WhatsApp conversation data is retained and made accessible to you directly through your <strong>Viewora dashboard</strong>, where you can review your conversation history at any time. You may delete individual conversations at your discretion — this option is available directly within your dashboard.
+      </p>
+
+      <h3>Opting Out</h3>
+      <p>
+        If you no longer wish to use the WhatsApp bot feature or have your data processed through it, you may delete your Viewora profile at any time via your <strong>account settings</strong>. Profile deletion can be performed at your convenience and will remove associated WhatsApp conversation data tied to your account.
+      </p>
+
+      <h3>Compliance</h3>
+      <p>
+        Our use of the WhatsApp Business API complies with <strong>Meta's WhatsApp Business Messaging Policy</strong> and <strong>Meta's Platform Terms</strong>. As the underlying infrastructure provider for this feature, Meta Platforms, Inc. processes WhatsApp message data on our behalf in accordance with its own data processing terms.
+      </p>
+
+      <h2>5. Updates to This Policy</h2>
       <p>
         As we continue to lead the way in <strong>property technology in Africa</strong>, we may update this policy. We will notify you of any significant changes via the platform or email.
       </p>
