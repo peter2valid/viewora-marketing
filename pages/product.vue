@@ -150,10 +150,7 @@ useHead({
         applicationCategory: 'BusinessApplication',
         operatingSystem: 'Web Browser',
         url: 'https://viewora.software',
-        offers: [
-          { '@type': 'Offer', price: '0', priceCurrency: 'KES', name: 'Free', description: 'Create and publish your first virtual tour at no cost.' },
-          { '@type': 'Offer', price: '8500', priceCurrency: 'KES', name: 'Pro', description: '40 active tours, white-label branding, Google Street View publishing.' }
-        ],
+        offers: buildPricingOffers(),
         description: 'Viewora lets you create, host, and share interactive 360° virtual tours for real estate, hotels, Airbnb, dealerships, schools, and tourism in Kenya and Africa.'
       })
     },

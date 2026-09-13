@@ -198,7 +198,7 @@ useHead({
           applicationCategory: 'BusinessApplication',
           operatingSystem: 'Web',
           url: 'https://viewora.software',
-          offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+          offers: buildPricingOffers(),
         },
       }),
     },

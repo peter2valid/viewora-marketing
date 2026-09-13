@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     smtpPass: process.env.SMTP_PASS,
     public: {
       posthogKey: process.env.NUXT_PUBLIC_POSTHOG_KEY || '',
+      apiBaseUrl: process.env.NUXT_PUBLIC_API_BASE_URL || '',
     },
   },
 
@@ -37,7 +38,7 @@ export default defineNuxtConfig({
       },
       {
         loc: '/pricing',
-        images: [{ loc: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80', title: 'Viewora Pricing Plans — Free, Basic, Plus, Pro, Elite' }],
+        images: [{ loc: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80', title: 'Viewora Pricing Plans — Free, Creator, Professional, Business' }],
       },
       {
         loc: '/virtual-tours-kenya',

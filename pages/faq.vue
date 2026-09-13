@@ -78,12 +78,12 @@ const general = [
 ]
 
 const pricing = [
-  { q: 'How much does Viewora cost in Kenya?', a: 'Plans start at KES 1,500/month and go up to KES 18,000/month for enterprise. All plans are billed in Kenyan Shillings via Paystack. Visit our <a href="/pricing" style="color:#00dc82">pricing page</a> for current rates.' },
-  { q: 'Can I pay monthly or yearly?', a: 'Yes. Viewora offers both monthly and yearly billing. Yearly plans include approximately 20% savings compared to monthly billing. Payments are processed securely by Paystack in KES.' },
+  { q: 'How much does Viewora cost in Kenya?', a: 'Viewora has a free plan, and paid plans from KES 999/month up to KES 4,999/month, plus custom Enterprise pricing for large organizations. All plans are billed in Kenyan Shillings via Paystack. Visit our <a href="/pricing" style="color:#00dc82">pricing page</a> for current rates.' },
+  { q: 'Can I pay monthly or yearly?', a: 'Yes. Viewora offers both monthly and yearly billing. Yearly plans include approximately 17% savings compared to monthly billing. Payments are processed securely by Paystack in KES.' },
   { q: 'What payment methods are accepted?', a: 'Viewora accepts M-Pesa, Visa, Mastercard, and other cards through Paystack. M-Pesa support makes it easy for Kenyan businesses to subscribe and pay locally without the need for a credit card.' },
   { q: 'Can I cancel my subscription anytime?', a: 'Yes. Viewora subscriptions can be cancelled at any time from your billing settings. You will retain access to your plan features until the end of your current billing period. No long-term contracts or cancellation fees.' },
-  { q: 'How many active tours can I have per plan?', a: 'The number of active tours depends on your plan: Basic allows 2 active tours, Plus allows 15, Pro allows 40, and Elite allows 120. You can also purchase additional tour slots as an add-on on any paid plan.' },
-  { q: 'How much storage does each plan include?', a: 'Storage per plan: Basic includes 2 GB, Plus includes 8 GB, Pro includes 20 GB with priority hosting, and Elite includes 50 GB. Storage covers all your uploaded panoramic images across active and archived tours.' },
+  { q: 'How many active tours can I have per plan?', a: 'The number of active tours depends on your plan: Free allows 2 active tours, Creator allows 5, Professional allows 25, and Business allows 100. Enterprise plans have custom limits. Each plan also caps the number of scenes per tour — 5 on Free, 25 on Creator, 75 on Professional, and 150 on Business.' },
+  { q: 'Is there a free plan?', a: 'Yes. The Free plan lets you create up to 2 active tours with up to 5 scenes per tour, at no cost — ideal for trying Viewora before upgrading. Paid plans unlock more tours, more scenes per tour, and additional features like custom branding, advanced analytics, and lead capture.' },
 ]
 
 const technical = [

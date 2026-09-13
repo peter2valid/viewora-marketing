@@ -88,7 +88,7 @@
 
       <h3>How much does a virtual tour cost for a Nakuru property?</h3>
       <p>
-        Viewora offers a free tier that lets you create and publish your first virtual tour at no cost. Paid plans starting at KES 1,500 per month unlock unlimited tours, custom branding, analytics, and lead capture — making it accessible for individual agents as well as large developers managing multiple Nakuru listings simultaneously.
+        Viewora offers a free tier that lets you create and publish your first virtual tours at no cost. Paid plans starting at KES 999 per month unlock more tours, custom branding, analytics, and lead capture — making it accessible for individual agents as well as large developers managing multiple Nakuru listings simultaneously.
       </p>
 
       <h3>Do I need special equipment to create a virtual tour in Nakuru?</h3>

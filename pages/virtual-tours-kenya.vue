@@ -133,12 +133,7 @@ useHead({
         name: 'Viewora',
         applicationCategory: 'BusinessApplication',
         operatingSystem: 'Web',
-        offers: [
-          { '@type': 'Offer', name: 'Free', price: '0', priceCurrency: 'KES', description: 'Create and publish your first tours at no cost.' },
-          { '@type': 'Offer', name: 'Starter', price: '1500', priceCurrency: 'KES', description: 'Up to 5 spaces with basic analytics.' },
-          { '@type': 'Offer', name: 'Pro', price: '3500', priceCurrency: 'KES', description: 'Unlimited spaces, white-label, priority support.' },
-          { '@type': 'Offer', name: 'Agency', price: '7000', priceCurrency: 'KES', description: 'Multi-user, API access, custom domain.' },
-        ],
+        offers: buildPricingOffers(),
         description: 'The leading 360° virtual tour software for the Kenyan real estate and hospitality market.',
         url: 'https://viewora.software'
       })

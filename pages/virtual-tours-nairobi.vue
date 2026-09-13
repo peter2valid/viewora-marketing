@@ -93,7 +93,7 @@ const faqs = [
   },
   {
     q: 'How much does a virtual tour cost for a Nairobi property?',
-    a: 'With Viewora software, the main cost is the 360° camera — a one-time purchase from KSh 30,000. After that, you can create unlimited tours. This is far lower cost than hiring a virtual tour agency in Nairobi at KSh 15,000–50,000 per property. Viewora has a free plan to get started.',
+    a: 'With Viewora software, the main cost is the 360° camera — a one-time purchase from KSh 30,000. After that, you can create tours on any plan, from a free tier up to 100 active tours on Business. This is far lower cost than hiring a virtual tour agency in Nairobi at KSh 15,000–50,000 per property. Viewora has a free plan to get started.',
   },
   {
     q: 'Do virtual tours work on Safaricom and Airtel data in Nairobi?',

@@ -99,11 +99,7 @@ useHead({
         "applicationCategory": "MarketingApplication",
         "operatingSystem": "Web",
         "description": "Pan-African 360° virtual tour platform serving real estate, tourism, hospitality, and education sectors across the African continent.",
-        "offers": {
-          "@type": "Offer",
-          "price": "0.00",
-          "priceCurrency": "USD"
-        },
+        "offers": buildPricingOffers(),
         "areaServed": { "@type": "Continent", "name": "Africa" }
       })
     }

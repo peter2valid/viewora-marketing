@@ -407,12 +407,7 @@ useHead({
         applicationCategory: 'BusinessApplication',
         operatingSystem: 'Web, iOS, Android',
         url: 'https://viewora.software',
-        offers: [
-          { '@type': 'Offer', name: 'Basic', price: '1500', priceCurrency: 'KES', description: '2 active tours, shareable link and QR code' },
-          { '@type': 'Offer', name: 'Plus', price: '4000', priceCurrency: 'KES', description: '15 active tours, HD panoramas, lead capture' },
-          { '@type': 'Offer', name: 'Pro', price: '8500', priceCurrency: 'KES', description: '40 active tours, white-label branding' },
-          { '@type': 'Offer', name: 'Elite', price: '18000', priceCurrency: 'KES', description: '120 active tours, custom domain, team accounts' }
-        ],
+        offers: buildPricingOffers(),
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: '4.8',

@@ -94,11 +94,7 @@ useHead({
         "applicationCategory": "MarketingApplication",
         "operatingSystem": "Web",
         "description": "360° virtual tour platform serving the entire East African market including Kenya, Uganda, Tanzania, Rwanda, and Ethiopia.",
-        "offers": {
-          "@type": "Offer",
-          "price": "0.00",
-          "priceCurrency": "USD"
-        },
+        "offers": buildPricingOffers(),
         "areaServed": [
           { "@type": "Country", "name": "Kenya" },
           { "@type": "Country", "name": "Uganda" },

@@ -237,12 +237,7 @@ useHead({
           'Embeddable tours',
           'Mobile optimised',
         ],
-        offers: {
-          '@type': 'Offer',
-          price: '0',
-          priceCurrency: 'USD',
-          description: 'Free tier available. Paid plans from affordable monthly pricing.',
-        },
+        offers: buildPricingOffers(),
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: '4.8',
