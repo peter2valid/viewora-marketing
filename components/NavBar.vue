@@ -21,6 +21,7 @@
       <!-- Desktop Navigation -->
       <nav class="nav-links">
         <div
+          ref="productMenuRef"
           class="nav-dropdown"
           @mouseenter="isProductMenuOpen = true"
           @mouseleave="isProductMenuOpen = false"
@@ -99,7 +100,20 @@ import { useRoute, useNuxtApp } from '#imports';
 
 const isMobileMenuOpen = ref(false);
 const isProductMenuOpen = ref(false);
+const productMenuRef = ref<HTMLElement | null>(null);
 const { $posthog } = useNuxtApp() as any
+
+// Close the Product dropdown on an outside click — needed for tablet/touch
+// users where :hover never fires, so @click is the only way to open it.
+function handleClickOutside(e: MouseEvent) {
+  if (isProductMenuOpen.value && productMenuRef.value && !productMenuRef.value.contains(e.target as Node)) {
+    isProductMenuOpen.value = false;
+  }
+}
+if (process.client) {
+  onMounted(() => document.addEventListener('click', handleClickOutside));
+  onBeforeUnmount(() => document.removeEventListener('click', handleClickOutside));
+}
 
 function trackCta(button: string) {
   $posthog?.capture('nav_cta_clicked', { button })

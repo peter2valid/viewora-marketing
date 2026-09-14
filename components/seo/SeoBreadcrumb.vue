@@ -47,7 +47,7 @@ useHead({
 .breadcrumb-nav {
   padding: 0.75rem 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-  background: #0a0a0a;
+  background: var(--ink);
 }
 .breadcrumb-list {
   display: flex;
@@ -58,18 +58,18 @@ useHead({
   margin: 0;
   padding: 0;
   font-size: 0.8rem;
-  color: #6b7280;
+  color: var(--slate);
   font-family: var(--font-mono, monospace);
 }
 .breadcrumb-list a {
-  color: #9ca3af;
+  color: var(--slate-light);
   text-decoration: none;
   transition: color 0.15s;
 }
 .breadcrumb-list a:hover {
-  color: #00dc82;
+  color: var(--accent);
 }
 .breadcrumb-list [aria-current="page"] {
-  color: #ffffff;
+  color: var(--paper);
 }
 </style>

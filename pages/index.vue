@@ -163,57 +163,6 @@
       </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section section-bg">
-      <div class="container">
-        <div class="section-header">
-          <h2 class="section-title">Trusted by Thousands Across Industries</h2>
-          <p class="section-subtitle">From solo agents to luxury resorts — Viewora powers the spaces people love.</p>
-        </div>
-        <div class="grid-3">
-          <div class="card">
-            <div style="display: flex; gap: 0.25rem; margin-bottom: 1rem;">
-              <span style="color: #f59e0b;">★★★★★</span>
-            </div>
-            <p class="text-muted" style="line-height: 1.7; margin-bottom: 1.5rem;">"Since adding Viewora tours to my listings, I've had 40% fewer calls asking about the layout. Buyers come pre-qualified and ready to make an offer."</p>
-            <div style="display: flex; align-items: center; gap: 0.75rem;">
-              <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, var(--primary), var(--secondary)); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9rem;">SN</div>
-              <div>
-                <div class="font-bold" style="font-size: 0.9rem;">Sarah Ngugi</div>
-                <div class="text-muted" style="font-size: 0.8rem;">Real Estate Agent, Nairobi</div>
-              </div>
-            </div>
-          </div>
-          <div class="card" style="border: 2px solid var(--primary);">
-            <div style="display: flex; gap: 0.25rem; margin-bottom: 1rem;">
-              <span style="color: #f59e0b;">★★★★★</span>
-            </div>
-            <p class="text-muted" style="line-height: 1.7; margin-bottom: 1.5rem;">"My Airbnb bookings went up the week I added a virtual tour to my listing. Guests feel like they already know the place before they arrive."</p>
-            <div style="display: flex; align-items: center; gap: 0.75rem;">
-              <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, var(--primary), var(--secondary)); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9rem;">JO</div>
-              <div>
-                <div class="font-bold" style="font-size: 0.9rem;">James Omondi</div>
-                <div class="text-muted" style="font-size: 0.8rem;">Airbnb Superhost, Mombasa</div>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div style="display: flex; gap: 0.25rem; margin-bottom: 1rem;">
-              <span style="color: #f59e0b;">★★★★★</span>
-            </div>
-            <p class="text-muted" style="line-height: 1.7; margin-bottom: 1.5rem;">"We use Viewora to show off-plan apartments to international investors. The white-label feature keeps our brand front and center. Absolutely worth it."</p>
-            <div style="display: flex; align-items: center; gap: 0.75rem;">
-              <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, var(--primary), var(--secondary)); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 0.9rem;">AK</div>
-              <div>
-                <div class="font-bold" style="font-size: 0.9rem;">Amina Kamau</div>
-                <div class="text-muted" style="font-size: 0.8rem;">Property Developer, Kampala</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Who It's For -->
     <section class="section">
       <div class="container grid-2" style="align-items: center;">
@@ -279,7 +228,7 @@
               <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">48-hr delivery</span>
               <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">Nairobi · Mombasa · Kisumu</span>
             </div>
-            <NuxtLink to="/360-photography-service-kenya" style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: 12px; font-size: 15px; font-weight: 800; text-decoration: none; background: #25d366; color: #0a0a0a; transition: background 140ms ease;">
+            <NuxtLink to="/360-photography-service-kenya" style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: 12px; font-size: 15px; font-weight: 800; text-decoration: none; background: #25d366; color: var(--ink); transition: background 140ms ease;">
               View Packages & Book a Shoot →
             </NuxtLink>
           </div>
@@ -297,7 +246,7 @@
       <div class="container" style="max-width: 650px; position: relative;">
         <div class="mono" style="color: var(--accent); margin-bottom: 1.25rem;">↗ Start today</div>
         <h2 style="font-size: 3rem; font-weight: 900; color: var(--paper); margin-bottom: 1rem; letter-spacing: -0.04em; line-height: 1.0;">Ready to Showcase<br>Your Spaces?</h2>
-        <p style="color: #6b7280; font-size: 1.05rem; margin-bottom: 3rem; line-height: 1.7;">Join the growing community of professionals closing more deals and driving traffic with Viewora. Your first tour is on us.</p>
+        <p style="color: var(--slate); font-size: 1.05rem; margin-bottom: 3rem; line-height: 1.7;">Join the growing community of professionals closing more deals and driving traffic with Viewora. Your first tour is on us.</p>
         <NuxtLink to="https://app.viewora.software/register" class="btn btn-primary btn-lg btn-float">
           Start Your Free Tour Now →
         </NuxtLink>

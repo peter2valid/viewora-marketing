@@ -78,7 +78,7 @@ defineProps<{
   border-radius: 9999px;
   background: rgba(0, 220, 130, 0.18);
   border: 1px solid rgba(0, 220, 130, 0.4);
-  color: #00dc82;
+  color: var(--accent);
   font-size: 0.75rem;
   font-weight: 600;
   font-family: var(--font-mono, monospace);

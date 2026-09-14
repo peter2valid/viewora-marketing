@@ -160,6 +160,6 @@
 
 .footer-social a:hover {
   background: rgba(0, 220, 130, 0.15);
-  color: #00dc82;
+  color: var(--accent);
 }
 </style>

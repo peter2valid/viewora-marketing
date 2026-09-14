@@ -78,7 +78,7 @@ const general = [
 ]
 
 const pricing = [
-  { q: 'How much does Viewora cost in Kenya?', a: 'Viewora has a free plan, and paid plans from KES 999/month up to KES 4,999/month, plus custom Enterprise pricing for large organizations. All plans are billed in Kenyan Shillings via Paystack. Visit our <a href="/pricing" style="color:#00dc82">pricing page</a> for current rates.' },
+  { q: 'How much does Viewora cost in Kenya?', a: 'Viewora has a free plan, and paid plans from KES 999/month up to KES 4,999/month, plus custom Enterprise pricing for large organizations. All plans are billed in Kenyan Shillings via Paystack. Visit our <a href="/pricing" style="color:var(--accent)">pricing page</a> for current rates.' },
   { q: 'Can I pay monthly or yearly?', a: 'Yes. Viewora offers both monthly and yearly billing. Yearly plans include approximately 17% savings compared to monthly billing. Payments are processed securely by Paystack in KES.' },
   { q: 'What payment methods are accepted?', a: 'Viewora accepts M-Pesa, Visa, Mastercard, and other cards through Paystack. M-Pesa support makes it easy for Kenyan businesses to subscribe and pay locally without the need for a credit card.' },
   { q: 'Can I cancel my subscription anytime?', a: 'Yes. Viewora subscriptions can be cancelled at any time from your billing settings. You will retain access to your plan features until the end of your current billing period. No long-term contracts or cancellation fees.' },
@@ -105,7 +105,7 @@ const integrations = [
 ]
 
 const industries = [
-  { q: 'How do real estate agents in Kenya use virtual tours?', a: 'Kenyan real estate agents use Viewora to give buyers and renters a full property inspection remotely. This pre-qualifies enquiries, eliminates wasted site visits, reaches diaspora buyers, and significantly reduces the average time-to-sale. See our <a href="/real-estate-virtual-tours-kenya" style="color:#00dc82">real estate virtual tours</a> page.' },
+  { q: 'How do real estate agents in Kenya use virtual tours?', a: 'Kenyan real estate agents use Viewora to give buyers and renters a full property inspection remotely. This pre-qualifies enquiries, eliminates wasted site visits, reaches diaspora buyers, and significantly reduces the average time-to-sale. See our <a href="/real-estate-virtual-tours-kenya" style="color:var(--accent)">real estate virtual tours</a> page.' },
   { q: 'Can Airbnb hosts in Kenya add a virtual tour to their listing?', a: 'Yes. Airbnb hosts share their Viewora tour link in their listing description or send it directly to enquiring guests on WhatsApp. Hosts in Nairobi, Mombasa, and Diani consistently report more bookings and fewer negative reviews after implementing virtual tours.' },
   { q: 'Do hotels in Kenya use virtual tours to get more direct bookings?', a: 'Yes. Hotels use Viewora tours on their own website to reduce OTA dependency and drive direct bookings. When a guest has already toured the property virtually on the hotel\'s website, they book directly — saving the hotel 15–25% in OTA commission fees.' },
   { q: 'Can car dealerships in Kenya use virtual tours to sell more cars?', a: 'Yes. Viewora\'s virtual showroom tours let car buyers inspect every vehicle in 360° detail from their phone. Dealerships in Nairobi report significantly higher conversion rates from physical viewings after buyers have toured vehicles virtually first.' },

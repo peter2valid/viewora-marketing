@@ -87,8 +87,8 @@
           While 360° tours provide context and trust, high-quality 2D "hero shots" capture emotion and detail.
           Viewora allows you to showcase both in one unified platform — see how <NuxtLink to="/photo-gallery-software" class="highlight">photo gallery hosting</NuxtLink> works on Viewora.
         </p>
-        <div style="height: 600px; position: relative;">
-          <CircularGallery 
+        <div class="circular-gallery-box" style="position: relative;">
+          <CircularGallery
             :items="[
               { image: '/images/gallery/luxury-living-room.png', text: 'Luxury Living Room' },
               { image: '/images/gallery/modern-kitchen.png', text: 'Modern Kitchen' },
@@ -159,3 +159,15 @@ useHead({
   ]
 })
 </script>
+
+<style scoped>
+.circular-gallery-box {
+  height: 600px;
+}
+
+@media (max-width: 640px) {
+  .circular-gallery-box {
+    height: 380px;
+  }
+}
+</style>
