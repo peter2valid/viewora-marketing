@@ -12,7 +12,7 @@
         Africa is the world's fastest-growing continent—economically, demographically, and digitally. Its real estate, tourism, and hospitality sectors are attracting unprecedented levels of international interest and investment. Yet African businesses have historically been underserved by the premium digital marketing tools available to their counterparts in Europe and North America. <strong>Viewora</strong> is changing that.
       </p>
       <p>
-        Built by Africans, for Africa, Viewora is the <span class="highlight">most trusted 360° virtual tour platform on the continent</span>—giving businesses from Nairobi to Lagos, Cape Town to Accra the immersive marketing tools they need to compete globally and dominate locally.
+        Built by Africans, for Africa, Viewora is a <span class="highlight">360° virtual tour platform built for the continent</span>—giving businesses from Nairobi to Lagos, Cape Town to Accra the immersive marketing tools they need to compete globally and win locally.
       </p>
 
       <h3>Key African Markets Served by Viewora</h3>

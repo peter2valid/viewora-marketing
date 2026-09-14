@@ -289,7 +289,7 @@
               No 360° camera?<br><span style="color: #25d366;">We'll shoot it for you.</span>
             </h2>
             <p style="font-size: 1rem; color: var(--slate-light); line-height: 1.7; margin-bottom: 1.5rem;">
-              Our certified photographers cover <strong style="color: var(--paper);">25 property types</strong> across Kenya — from a single-room Airbnb to a full hotel or school campus. Delivered to your Viewora space within 48 hours.
+              Our photographers cover <strong style="color: var(--paper);">25 property types</strong> across Kenya — from a single-room Airbnb to a full hotel or school campus. Delivered to your Viewora space within 48 hours.
             </p>
             <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
               <span style="font-size: 13px; color: var(--slate); padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);">From <strong style="color: var(--paper);">KES 5,000</strong></span>
@@ -327,7 +327,7 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 useSeoMeta({
-  title: '360° Virtual Tour & Photo Gallery Software — Free to Start | Viewora',
+  title: '360° Virtual Tour Software — Free to Start | Viewora',
   description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and retail businesses worldwide.',
   ogTitle: 'Viewora — The #1 Immersive 360° Space Showcase Platform',
   ogDescription: 'Upload panoramas, connect rooms and publish stunning virtual tours in minutes. Free to start. No credit card required.',

@@ -98,7 +98,7 @@ function trackPricingCta(plan: string) {
 
 useSeoMeta({
   title: 'Viewora Pricing — Plans from KES 0/month',
-  description: 'Plans from KES 0/month, scaling to KES 4,999/month, plus custom Enterprise pricing. Transparent pricing for real estate agents, Airbnb hosts, and businesses in Kenya. Cancel anytime.',
+  description: 'Plans from KES 0/month, scaling to KES 4,999/month, plus custom Enterprise pricing. Transparent pricing for agents, hosts, and businesses. Cancel anytime.',
   ogTitle: 'Viewora Pricing — Plans from KES 0/mo',
   ogDescription: 'Start free, scale as you grow. Free, Creator, Professional and Business plans for solo agents, active sellers and agencies, plus custom Enterprise pricing.',
   ogUrl: 'https://viewora.software/pricing',

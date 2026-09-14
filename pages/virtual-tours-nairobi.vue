@@ -110,8 +110,8 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tours Nairobi — 360° Property Tours for Nairobi Agents | Viewora',
-  description: 'Create professional 360° virtual tours for Nairobi properties. Works on WhatsApp and Safaricom mobile data. Used by agents in Westlands, Kilimani, Karen. Free to start.',
+  title: 'Virtual Tours Nairobi | Viewora',
+  description: 'Create professional 360° virtual tours for Nairobi properties. Works great on WhatsApp and mobile data. Used by agents in Westlands, Kilimani, Karen. Free to start.',
   ogTitle: 'Virtual Tours Nairobi | Viewora',
   ogDescription: 'Create and share 360° virtual tours for Nairobi real estate. Optimised for WhatsApp and Kenyan mobile data. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',

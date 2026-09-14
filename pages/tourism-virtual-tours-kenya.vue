@@ -58,7 +58,7 @@
 
       <h2>Start Attracting More Visitors to Kenya Today</h2>
       <p>
-        Join the leading safari lodges, beach resorts, and tourism operators across Kenya who are already using Viewora to dominate their market segment. Transform your digital presence, attract serious travelers, and drive the direct bookings that maximize your revenue.
+        Join safari lodges, beach resorts, and tourism operators across Kenya using Viewora to strengthen their digital presence. Attract serious travelers and drive more direct bookings.
       </p>
     </SeoContent>
 

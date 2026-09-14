@@ -2,14 +2,14 @@
   <div>
     <SeoHero
       title="360° Photography Nairobi | Virtual Tour Photographer Near You"
-      subtitle="Nairobi's most affordable professional 360° photography service. We dispatch a certified photographer to your property anywhere in Nairobi — Westlands, Karen, Kilimani, CBD, Kasarani, Ngong Road and beyond. From KES 5,000."
+      subtitle="An affordable professional 360° photography service in Nairobi. We dispatch a photographer to your property anywhere in Nairobi — Westlands, Karen, Kilimani, CBD, Kasarani, Ngong Road and beyond. From KES 5,000."
       badge="Nairobi 360° Photographer"
     />
 
     <SeoContent>
       <h2>Professional 360° Photography Service in Nairobi</h2>
       <p>
-        Viewora provides the best <strong>360° photography service in Nairobi</strong>. Whether you own an apartment in Westlands, a restaurant in Kilimani, a showroom along Ngong Road, or a hotel in the CBD — our certified photographers will come to you, capture your space in stunning 360°, and deliver a fully interactive virtual tour within 24–48 hours.
+        Viewora provides a professional <strong>360° photography service in Nairobi</strong>. Whether you own an apartment in Westlands, a restaurant in Kilimani, a showroom along Ngong Road, or a hotel in the CBD — our photographers will come to you, capture your space in stunning 360°, and deliver a fully interactive virtual tour within 24–48 hours.
       </p>
 
       <h3>Areas We Cover in Nairobi</h3>
@@ -70,8 +70,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Nairobi | Virtual Tour Photographer — From KES 5,000 | Viewora',
-  description: 'Professional 360° photography anywhere in Nairobi. Apartments, Airbnbs, restaurants, offices, hotels & showrooms. From KES 5,000. Confirmed in 24hrs, delivered in 48hrs.',
+  title: '360° Photography Nairobi — From KES 5,000 | Viewora',
+  description: 'Professional 360° photography anywhere in Nairobi. Apartments, Airbnbs, restaurants, offices & hotels. From KES 5,000, delivered in 48hrs.',
   robots: 'index, follow',
   keywords: '360 photography Nairobi, 360 photographer Nairobi, virtual tour photographer Nairobi, 360 photography service Nairobi, virtual tour photography Nairobi, property photographer Nairobi',
 })

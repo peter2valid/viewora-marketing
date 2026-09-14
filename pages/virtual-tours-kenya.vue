@@ -96,7 +96,7 @@ const faqs = [
   },
   {
     q: 'Can I use Viewora virtual tours for Airbnb listings in Kenya?',
-    a: 'Yes. Viewora is the preferred virtual tour platform for Airbnb hosts in Kenya. You can embed your tour link directly in your Airbnb listing description or share it with potential guests on WhatsApp. Hosts in Nairobi, Mombasa, and Diani report up to 40% more bookings after adding a virtual tour.'
+    a: 'Yes. Many Airbnb hosts in Kenya use Viewora. You can embed your tour link directly in your Airbnb listing description or share it with potential guests on WhatsApp. Hosts in Nairobi, Mombasa, and Diani report a noticeable lift in bookings after adding a virtual tour.'
   },
   {
     q: 'Do virtual tours work on mobile phones in Kenya?',

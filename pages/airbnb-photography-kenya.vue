@@ -2,14 +2,14 @@
   <div>
     <SeoHero
       title="Airbnb Photography Kenya | 360° Virtual Tour for Your Short-Let Property"
-      subtitle="Professional Airbnb photography and 360° virtual tours for short-let properties across Kenya. Boost your bookings by up to 40% with immersive visual content. From KES 5,000. Nairobi, Mombasa & Kisumu."
+      subtitle="Professional Airbnb photography and 360° virtual tours for short-let properties across Kenya. Boost your bookings with immersive visual content. From KES 5,000. Nairobi, Mombasa & Kisumu."
       badge="Kenya's Airbnb Photographer"
     />
 
     <SeoContent>
       <h2>Professional Airbnb Photography Service in Kenya</h2>
       <p>
-        <strong>Airbnb photography in Kenya</strong> is no longer optional — it's the single most impactful investment a host can make. Listings with professional 360° virtual tours see up to 40% more bookings than those with standard photos alone. Viewora provides Kenya's most affordable Airbnb photography service, covering studios, 1BR, 2BR, and 4BR+ properties across Nairobi, Mombasa, and Kisumu.
+        <strong>Airbnb photography in Kenya</strong> is one of the highest-impact investments a host can make. Listings with professional 360° virtual tours tend to see more bookings than those with standard photos alone, since guests can explore the space before committing. Viewora provides an affordable Airbnb photography service, covering studios, 1BR, 2BR, and 4BR+ properties across Nairobi, Mombasa, and Kisumu.
       </p>
 
       <h3>What Makes a Great Airbnb Virtual Tour?</h3>
@@ -62,8 +62,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Airbnb Photography Kenya | 360° Virtual Tour for Short-Let — From KES 5,000 | Viewora',
-  description: 'Professional Airbnb photography and 360° virtual tours for short-let properties in Kenya. Studios to 4BR villas. From KES 5,000. Nairobi, Mombasa, Kisumu. Boost bookings by 40%.',
+  title: 'Airbnb Photography Kenya — From KES 5,000 | Viewora',
+  description: 'Professional Airbnb photography and 360° virtual tours for short-let properties in Kenya. Studios to 4BR villas. From KES 5,000. Nairobi, Mombasa, Kisumu.',
   robots: 'index, follow',
   keywords: 'Airbnb photography Kenya, Airbnb photographer Nairobi, Airbnb virtual tour Kenya, short let photography Kenya, vacation rental photographer Kenya, 360 Airbnb photography Kenya',
 })
@@ -83,7 +83,7 @@ useHead({
   }],
 })
 const faqs = [
-  { q: 'Will a virtual tour actually improve my Airbnb bookings?', a: 'Yes. Airbnb listings with virtual tours and professional photography receive up to 40% more bookings on average. Guests can explore the full space before booking, increasing conversion and reducing last-minute cancellations.' },
+  { q: 'Will a virtual tour actually improve my Airbnb bookings?', a: 'Many hosts see a meaningful lift in bookings after adding virtual tours and professional photography. Guests can explore the full space before booking, which tends to increase conversion and reduce last-minute cancellations.' },
   { q: 'How do I add a virtual tour to my Airbnb listing?', a: 'After your shoot, you\'ll receive a Viewora tour link. Paste this link into your Airbnb listing description under "About this space." Guests can click it to explore the full 360° tour.' },
   { q: 'How long does an Airbnb photography shoot take?', a: 'A 1BR apartment typically takes 1 hour. A 3BR villa may take 2–3 hours. We work efficiently to minimize disruption to your guests or tenants.' },
   { q: 'Do you offer bulk pricing for multiple Airbnb units?', a: 'Yes. If you manage 3 or more units, contact us for a bulk package starting from KES 20,000 for the full set. Airbnb management companies can arrange monthly packages.' },

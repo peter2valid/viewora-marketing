@@ -3,7 +3,7 @@
     <SeoHero
       title="Real Estate Photography Kenya | 360° Property Photographer Nairobi"
       subtitle="Professional real estate photography and 360° virtual tours for properties across Kenya. Apartments, houses, villas, estates, and commercial listings. From KES 5,000. Sell faster with immersive visuals."
-      badge="Kenya's Property Photographer"
+      badge="Real Estate Photography"
     />
 
     <SeoContent>
@@ -12,7 +12,7 @@
         <strong>Real estate photography in Kenya</strong> has evolved. Static photos no longer cut through in a competitive market. The agents and developers closing deals faster are the ones offering <strong>360° virtual tours alongside professional photography</strong> — and Viewora provides both in a single affordable package.
       </p>
       <p>
-        Our certified real estate photographers serve Nairobi, Mombasa, and Kisumu. We arrive at your property, capture stunning 360° panoramas and gallery shots, edit everything professionally, and deliver the complete package within 48 hours.
+        Our professional real estate photographers serve Nairobi, Mombasa, and Kisumu. We arrive at your property, capture stunning 360° panoramas and gallery shots, edit everything professionally, and deliver the complete package within 48 hours.
       </p>
 
       <h3>What's Included in Every Real Estate Photography Package</h3>
@@ -36,14 +36,14 @@
       </ul>
 
       <blockquote>
-        "We switched to Viewora for all our Nairobi listings. Virtual tours get 8x more engagement than photos alone, and our time-on-page doubled. It pays for itself on the first deal." <br>— Agency Director, Nairobi Real Estate
+        "We switched to Viewora for all our Nairobi listings. Virtual tours get noticeably more engagement than photos alone. It pays for itself on the first deal." <br>— Agency Director, Nairobi Real Estate
       </blockquote>
 
       <h2>Why Kenyan Real Estate Agents Use 360° Photography</h2>
       <ul>
         <li><strong>Diaspora buyers</strong> — Kenyans abroad can do a full property walkthrough before flying in</li>
         <li><strong>Pre-qualify viewings</strong> — only serious buyers request physical visits</li>
-        <li><strong>Stand out on portals</strong> — Properties with virtual tours get 3x more enquiries on listing sites</li>
+        <li><strong>Stand out on portals</strong> — Properties with virtual tours tend to get more enquiries on listing sites</li>
         <li><strong>Agency credibility</strong> — professional photography positions your brand above the competition</li>
         <li><strong>Off-plan sales</strong> — show show units and model apartments to distant investors</li>
       </ul>
@@ -65,8 +65,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Real Estate Photography Kenya | 360° Property Photographer Nairobi | Viewora',
-  description: 'Professional real estate photography and 360° virtual tours for Kenya properties. Apartments, houses, villas, estates. From KES 5,000. Nairobi, Mombasa, Kisumu. Delivered in 48hrs.',
+  title: 'Real Estate Photography Kenya | Viewora',
+  description: 'Professional real estate photography and 360° virtual tours for Kenya properties. From KES 5,000. Nairobi, Mombasa, Kisumu. Delivered in 48hrs.',
   robots: 'index, follow',
   keywords: 'real estate photography Kenya, property photographer Kenya, real estate photographer Nairobi, 360 real estate photography Kenya, property photography Nairobi, virtual tour real estate Kenya',
 })

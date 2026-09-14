@@ -28,7 +28,7 @@
 
       <h2>Innovative Solutions for African Hospitality</h2>
       <p>
-        Viewora is the leading provider for <span class="highlight">hospitality virtual tours in Africa</span>. We understand that hotels need more than just images; they need to sell an experience. Our platform is the choice for <strong>360° hotel marketing in Kenya</strong>.
+        Viewora provides <span class="highlight">hospitality virtual tours across Africa</span>. We understand that hotels need more than just images; they need to sell an experience. Our platform is built for <strong>360° hotel marketing in Kenya</strong>.
       </p>
 
       <h3>Superior Performance Across the Continent</h3>

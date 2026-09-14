@@ -205,8 +205,8 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Free Virtual Tour Software — Create 360° Tours Free | Viewora',
-  description: 'Viewora offers genuinely free virtual tour software. Create professional 360° tours with multi-scene navigation, hotspots, and sharing. No credit card. No trial.',
+  title: 'Free Virtual Tour Software | Viewora',
+  description: 'Viewora offers genuinely free virtual tour software. Create 360° tours with multi-scene navigation and hotspots. No credit card, no trial period.',
   ogTitle: 'Free Virtual Tour Software | Viewora',
   ogDescription: 'Create professional 360° virtual tours for free. No credit card. No time limit. Full interactive features included.',
   ogImage: 'https://viewora.software/og-image.jpg',

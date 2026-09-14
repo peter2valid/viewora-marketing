@@ -55,7 +55,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Viewora Company | Our Mission',
-  description: 'Meet the team behind Viewora, a 360° virtual tour and photo gallery platform founded in Kenya, making immersive spatial marketing accessible to businesses worldwide.',
+  description: 'Meet the team behind Viewora, a 360° virtual tour and photo gallery platform founded in Kenya, making spatial marketing accessible worldwide.',
   ogTitle: 'Viewora Company | Our Mission',
   ogDescription: 'Meet the team behind Viewora and the mission driving our virtual tour and photo gallery software.',
   ogImage: 'https://viewora.software/og-image.jpg',

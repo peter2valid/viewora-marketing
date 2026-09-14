@@ -173,7 +173,7 @@ const faqs = [
 
 useSeoMeta({
   title: 'Matterport Alternative — Better Value, Any Camera | Viewora',
-  description: 'Looking for a Matterport alternative? Viewora creates professional 360° virtual tours with any camera. No $4,000 scanner. No $65/month subscription. Free to start.',
+  description: 'Looking for a Matterport alternative? Viewora creates professional 360° tours with any camera. No $4,000 scanner, no $65/month subscription. Free to start.',
   ogTitle: 'Matterport Alternative | Viewora Virtual Tours',
   ogDescription: 'Professional 360° virtual tours without the Matterport price tag. Works with any 360° camera, anywhere in the world. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',

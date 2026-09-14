@@ -13,7 +13,7 @@
             <span class="capture-hero__accent">We'll shoot it for you.</span>
           </h1>
           <p class="capture-hero__sub">
-            Our certified photographers visit your property, capture it in immersive 360°,
+            Our photographers visit your property, capture it in immersive 360°,
             and upload it directly to your Viewora space — ready to publish within 48 hours.
             Available in Nairobi, Mombasa, and Kisumu.
           </p>
@@ -133,8 +133,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Service Kenya | Virtual Tour Photographer Nairobi | Viewora',
-  description: 'Hire a professional 360° photographer in Kenya — real estate, hotels, restaurants, Airbnbs, schools & 25 more property types. From KES 5,000. Nairobi, Mombasa, Kisumu. 48-hr delivery.',
+  title: '360° Photography Service Kenya | Viewora',
+  description: 'Hire a professional 360° photographer in Kenya — real estate, hotels, restaurants, Airbnbs & more. From KES 5,000. Nairobi, Mombasa, Kisumu.',
   ogTitle: '360° Photography Service Kenya — From KES 5,000 | Viewora',
   ogDescription: 'Professional virtual tour photographer in Kenya. 25 property types covered. Delivered to your Viewora space in 48 hours.',
   robots: 'index, follow',
@@ -152,7 +152,7 @@ useHead({
           '@type': 'Service',
           '@id': 'https://viewora.software/360-photography-service-kenya#service',
           name: '360° Virtual Tour Photography Service Kenya',
-          description: 'Professional 360° photography and virtual tour creation service for properties across Kenya. We dispatch certified photographers to capture any property type and deliver the tour to your Viewora space within 48 hours.',
+          description: 'Professional 360° photography and virtual tour creation service for properties across Kenya. We dispatch professional photographers to capture any property type and deliver the tour to your Viewora space within 48 hours.',
           provider: {
             '@type': 'Organization',
             '@id': 'https://viewora.software/#organization',
@@ -266,7 +266,7 @@ const departments = [
 
 const steps = [
   { title: 'Book online in 2 minutes', body: 'Pick your package, fill in your property address and preferred date. We confirm within 24 hours.' },
-  { title: 'Photographer dispatched to you', body: 'A certified 360° photographer arrives on your chosen date with full equipment. No setup required on your end.' },
+  { title: 'Photographer dispatched to you', body: 'A professional 360° photographer arrives on your chosen date with full equipment. No setup required on your end.' },
   { title: 'Tour live within 48 hours', body: 'Edited panoramas and gallery photos are uploaded directly to your Viewora space, ready to publish and share.' },
 ]
 

@@ -78,7 +78,7 @@
 
       <h2>Contact Our Privacy Team</h2>
       <p>
-        If you have any questions about our privacy practices, please contact us at privacy@viewora.software. We are committed to maintaining your trust as the leading provider of <NuxtLink to="/virtual-tours-kenya" class="highlight">360 virtual tours Kenya</NuxtLink>.
+        If you have any questions about our privacy practices, please contact us at privacy@viewora.software. We are committed to maintaining your trust as a provider of <NuxtLink to="/virtual-tours-kenya" class="highlight">360 virtual tours in Kenya</NuxtLink>.
       </p>
     </SeoContent>
 

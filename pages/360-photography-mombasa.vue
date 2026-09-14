@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>360° Photography Service in Mombasa and the Kenyan Coast</h2>
       <p>
-        Viewora provides professional <strong>360° photography in Mombasa</strong> and across the Kenyan coast. Our certified photographers cover Mombasa Island, Nyali, Bamburi, Diani Beach, Malindi, Watamu, and surrounding areas. We capture your coastal property in stunning 360° panoramas and deliver a fully interactive virtual tour within 48 hours.
+        Viewora provides professional <strong>360° photography in Mombasa</strong> and across the Kenyan coast. Our photographers cover Mombasa Island, Nyali, Bamburi, Diani Beach, Malindi, Watamu, and surrounding areas. We capture your coastal property in stunning 360° panoramas and deliver a fully interactive virtual tour within 48 hours.
       </p>
 
       <h3>Areas We Cover Along the Kenyan Coast</h3>
@@ -33,7 +33,7 @@
       </ul>
 
       <blockquote>
-        "Our Diani Beach villa had over 60% more enquiries after we published the Viewora virtual tour. International tourists can now explore the property from Europe before booking." <br>— Villa Owner, Diani Beach
+        "Our Diani Beach villa saw noticeably more enquiries after we published the Viewora virtual tour. International tourists can now explore the property from Europe before booking." <br>— Villa Owner, Diani Beach
       </blockquote>
 
       <h2>360° Photography Prices in Mombasa</h2>
@@ -52,7 +52,7 @@
         Over 70% of international visitors to Kenya's coast research accommodation online before booking. A professional 360° virtual tour lets your hotel, villa, or restaurant appear in Google search results, on Airbnb, and on your own website — with a fully immersive preview that photos alone can't match.
       </p>
       <p>
-        Viewora is the leading <strong>virtual tour platform for coastal Kenya properties</strong>. Our Mombasa photographers understand the coastal hospitality market and are trained to capture the unique textures, light, and atmosphere of coastal spaces.
+        Viewora is a <strong>virtual tour platform built for coastal Kenya properties</strong>. Our Mombasa photographers understand the coastal hospitality market and are trained to capture the unique textures, light, and atmosphere of coastal spaces.
       </p>
     </SeoContent>
 
@@ -63,7 +63,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Mombasa & Diani | Virtual Tour Photographer Coast Kenya | Viewora',
+  title: '360° Photography Mombasa & Diani | Viewora',
   description: 'Professional 360° photography in Mombasa, Diani Beach, Malindi & Watamu. Hotels, Airbnbs, villas & restaurants. From KES 5,000. 48-hr delivery.',
   robots: 'index, follow',
   keywords: '360 photography Mombasa, 360 photographer Mombasa, virtual tour photographer Mombasa, 360 photography Diani, virtual tour photography coastal Kenya, hotel photographer Mombasa',
