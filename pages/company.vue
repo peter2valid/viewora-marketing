@@ -74,7 +74,7 @@ useHead({
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "Viewora Company",
-        "description": "Leading African PropTech company based in Nairobi, Kenya, providing the #1 360 virtual tour platform for the continent."
+        "description": "African PropTech company based in Nairobi, Kenya, providing a 360 virtual tour platform for the continent."
       })
     }
   ]

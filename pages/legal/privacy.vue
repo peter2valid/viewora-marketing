@@ -92,7 +92,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Privacy Policy | Viewora #1 PropTech Africa',
+  title: 'Privacy Policy | Viewora',
   description: 'Learn how Viewora protects your data and property information. Our high standards for privacy and security in the African real estate tech market.',
   ogTitle: 'Privacy Policy | Viewora Africa Data Protection',
   ogDescription: 'Your trust and privacy are our top priorities. Professional PropTech standards.',

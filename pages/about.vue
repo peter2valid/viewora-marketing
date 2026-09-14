@@ -56,7 +56,7 @@ useSeoMeta({
   ogImage: 'https://viewora.software/og-image.jpg',
   twitterCard: 'summary_large_image',
   twitterTitle: 'About Viewora',
-  twitterDescription: 'The story behind the #1 immersive space showcase platform built in Kenya for the world.',
+  twitterDescription: 'The story behind an immersive space showcase platform built in Kenya for the world.',
 })
 
 useBreadcrumb('About', '/about')

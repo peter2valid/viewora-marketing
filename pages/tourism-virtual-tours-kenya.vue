@@ -2,7 +2,7 @@
   <div>
     <SeoHero
       title="Tourism Virtual Tours Kenya | Attract More Visitors Online"
-      subtitle="Bring Kenya's iconic national parks, beaches, lodges, and attractions to life with immersive 360° virtual tours. The #1 digital marketing tool for Kenya's tourism industry."
+      subtitle="Bring Kenya's iconic national parks, beaches, lodges, and attractions to life with immersive 360° virtual tours — a digital marketing tool built for Kenya's tourism industry."
       badge="Tourism Excellence"
     />
 

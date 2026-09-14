@@ -51,7 +51,7 @@ definePageMeta({
   layout: 'default'
 })
 useSeoMeta({
-  title: '360 Virtual Tour Software Africa | #1 Property Tech Platform',
+  title: '360 Virtual Tour Software Africa | Viewora',
   description: 'Virtual tour software for businesses across Africa. Showcase Kenyan, Nigerian, and South African properties with professional 360° tours on Viewora.',
   ogTitle: '360 Virtual Tour Software Africa | Leading ProTech',
   ogDescription: 'Experience the future of African property marketing. Immersive 360° tours for a global audience.',

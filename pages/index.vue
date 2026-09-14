@@ -5,7 +5,7 @@
     <section class="hero section-bg has-plus-markers">
       <div class="container grid-2" style="align-items: center;">
         <div>
-          <div class="badge">↗ The #1 Immersive Showcase Platform</div>
+          <div class="badge">↗ Immersive 360° Showcase Platform</div>
           <h1 class="hero-title">
             Showcase Any Space with <span class="highlight">Interactive 360° Tours</span>
           </h1>
@@ -14,9 +14,12 @@
           </p>
           <div class="hero-actions">
             <NuxtLink to="https://app.viewora.software/register" class="btn btn-primary btn-lg btn-float">Start Free — No Card Needed</NuxtLink>
-            <NuxtLink to="/product" class="btn btn-outline btn-lg">See How It Works →</NuxtLink>
+            <NuxtLink to="/demo" class="btn btn-outline btn-lg">See a Live Demo →</NuxtLink>
           </div>
           <p style="margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);">✓ Free forever plan &nbsp;&nbsp; ✓ No credit card &nbsp;&nbsp; ✓ Publish in 5 minutes</p>
+          <p style="margin-top: 0.75rem; font-size: 0.85rem; color: var(--text-muted);">
+            Just need photos taken, not the software? <NuxtLink to="/360-photography-service-kenya" style="color: var(--accent); font-weight: 600;">Book a photo shoot →</NuxtLink>
+          </p>
         </div>
         <div style="position: relative; display: flex; align-items: center; justify-content: center; padding: 1rem 0;">
           <!-- Background Glow Effect -->
@@ -261,7 +264,7 @@ import { ref, onMounted } from 'vue';
 useSeoMeta({
   title: '360° Virtual Tour Software — Free to Start | Viewora',
   description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and retail businesses worldwide.',
-  ogTitle: 'Viewora — The #1 Immersive 360° Space Showcase Platform',
+  ogTitle: 'Viewora — Immersive 360° Space Showcase Platform',
   ogDescription: 'Upload panoramas, connect rooms and publish stunning virtual tours in minutes. Free to start. No credit card required.',
   ogUrl: 'https://viewora.software',
   ogImage: 'https://viewora.software/og-image.jpg',

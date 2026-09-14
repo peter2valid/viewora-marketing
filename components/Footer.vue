@@ -8,7 +8,7 @@
         <div class="footer-brand">
           <div class="footer-logo">Viewora</div>
           <p class="footer-desc">
-            The #1 immersive 360° virtual tour platform for real estate, hospitality, automotive, education, healthcare, and tourism in Kenya and across Africa.
+            An immersive 360° virtual tour platform for real estate, hospitality, automotive, education, healthcare, and tourism — built in Kenya, used worldwide.
           </p>
           <div class="footer-social">
             <!-- X / Twitter — commented out until account is active

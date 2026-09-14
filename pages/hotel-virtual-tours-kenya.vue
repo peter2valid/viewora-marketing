@@ -2,7 +2,7 @@
   <div>
     <SeoHero 
       title="Hotel Virtual Tours Kenya | Increase Direct Bookings"
-      subtitle="Immerse your guests in your luxury hospitality experience before they arrive. The #1 360° virtual tour software for hotels, lodges, and resorts in Africa."
+      subtitle="Immerse your guests in your luxury hospitality experience before they arrive. 360° virtual tour software for hotels, lodges, and resorts in Africa."
       badge="Hospitality Excellence"
     />
 

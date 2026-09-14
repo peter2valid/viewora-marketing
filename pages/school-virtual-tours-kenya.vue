@@ -2,7 +2,7 @@
   <div>
     <SeoHero
       title="School Virtual Tours Kenya | Attract More Students & Parents"
-      subtitle="Give prospective students and parents an immersive 360° walkthrough of your campus, classrooms, labs, and facilities. The #1 education virtual tour platform in Africa."
+      subtitle="Give prospective students and parents an immersive 360° walkthrough of your campus, classrooms, labs, and facilities. An education virtual tour platform built for Africa."
       badge="Education Excellence"
     />
 

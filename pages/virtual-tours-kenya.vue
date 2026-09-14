@@ -115,7 +115,7 @@ const faqs = [
 useSeoMeta({
   title: 'Virtual Tours Kenya — Create & Share | Viewora',
   description: 'Create professional 360° virtual tours for properties in Nairobi, Mombasa, and Kisumu. Boost real estate sales and Airbnb bookings in Kenya.',
-  ogTitle: 'Virtual Tours Kenya | #1 360° Property Marketing Software',
+  ogTitle: 'Virtual Tours Kenya | 360° Property Marketing Software',
   ogDescription: 'Experience the power of immersive property marketing in Kenya. Viewora helps you sell and rent faster.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/virtual-tours-kenya',

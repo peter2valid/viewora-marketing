@@ -2,7 +2,7 @@
   <div>
     <SeoHero 
       title="Virtual Tours Mombasa | Coastal Property Marketing"
-      subtitle="Elevate your beachside villas, resorts, and apartments in Mombasa with stunning 360° tours. The #1 choice for coastal real estate marketing in Kenya."
+      subtitle="Elevate your beachside villas, resorts, and apartments in Mombasa with stunning 360° tours — built for coastal real estate marketing in Kenya."
       badge="Coastal Expertise"
     />
 
@@ -53,7 +53,7 @@ definePageMeta({
 })
 useSeoMeta({
   title: 'Virtual Tours Mombasa | Coastal Property Marketing Kenya',
-  description: 'Showcase your Mombasa villas and hotels with Viewora. The #1 360° virtual tour software for Nyali, Diani, and coastal real estate marketing in Kenya.',
+  description: 'Showcase your Mombasa villas and hotels with Viewora. 360° virtual tour software for Nyali, Diani, and coastal real estate marketing in Kenya.',
   ogTitle: 'Virtual Tours Mombasa | Coastal Property Marketing',
   ogDescription: 'Experience coastal properties in Mombasa like never before. The best 360° tours for Kenya.',
   ogImage: 'https://viewora.software/og-image.jpg',

@@ -33,7 +33,7 @@
 
       <h3>The Hospitality Tech Advantage in Africa</h3>
       <p>
-        Our platform is built for performance across the continent, ensuring a smooth experience for international guests viewing your space. Viewora is the #1 tool for <strong>hospitality virtual tours in Africa</strong>.
+        Our platform is built for performance across the continent, ensuring a smooth experience for international guests viewing your space — a strong choice for <strong>hospitality virtual tours in Africa</strong>.
       </p>
 
       <h2>Join Kenya’s Elite Airbnb Hosts</h2>

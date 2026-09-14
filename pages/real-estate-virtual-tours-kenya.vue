@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>The Future of Real Estate Marketing in Kenya</h2>
       <p>
-        The Kenyan real estate market is undergoing a digital transformation. From residential developments in Nairobi to commercial spaces in Eldoret, <strong>Viewora</strong> is the <span class="highlight">#1 choice for real estate virtual tours in Kenya</span>, giving agents and developers the competitive edge they need to close deals in the digital age.
+        The Kenyan real estate market is undergoing a digital transformation. From residential developments in Nairobi to commercial spaces in Eldoret, <strong>Viewora</strong> gives agents and developers a <span class="highlight">platform for real estate virtual tours in Kenya</span> that provides the competitive edge they need to close deals in the digital age.
       </p>
 
       <h3>Why Top Agents are Switching to Viewora</h3>
