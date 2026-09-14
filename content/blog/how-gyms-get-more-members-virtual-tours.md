@@ -18,7 +18,7 @@ Joining a gym is an emotional decision. People want to know if they will "fit" i
 2. **Will it be crowded?** — Show the space functioning at its best.
 3. **Is the vibe right?** — Atmospheric signals come through powerfully in 360°.
 
-> "Our trial-to-membership conversion rate went from 35% to 68%. People who sign up after the virtual tour are already committed." — Owner, Boutique Fitness Studio, Nairobi
+> "Our trial-to-membership conversion rate has improved noticeably. People who sign up after the virtual tour are already committed." — Owner, Boutique Fitness Studio, Nairobi
 
 ## Corporate Gym Membership
 

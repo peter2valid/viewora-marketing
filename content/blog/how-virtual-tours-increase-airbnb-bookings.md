@@ -1,6 +1,6 @@
 ---
 title: How Virtual Tours Increase Airbnb Bookings in Kenya
-description: Kenyan Airbnb hosts using 360° virtual tours see significantly more bookings, fewer questions, and higher nightly rates. Here is exactly why — and how to set one up today.
+description: Kenyan Airbnb hosts using 360° virtual tours see more bookings, fewer questions, and higher nightly rates. Here's exactly why — and how to set one up.
 category: Guides
 author: The Viewora Team
 date: '2026-03-01'
@@ -46,7 +46,7 @@ A virtual tour lets these guests self-qualify. If your Kilimani apartment suits 
 
 Virtual tours remain rare on Kenyan Airbnb listings despite being straightforward to set up. Having one immediately positions your listing as premium. It tells the guest: this host is serious, transparent, and invested in your experience. That perception of professionalism directly supports higher nightly rates.
 
-Hosts in Karen, Lavington, and coastal Diani have used virtual tours to justify pricing that is 15–20% above comparable listings in the same area — because guests can see exactly what they are getting and feel confident paying for it.
+Hosts in Karen, Lavington, and coastal Diani have used virtual tours to justify pricing above comparable listings in the same area — because guests can see exactly what they are getting and feel confident paying for it.
 
 ## 5. Reduces Pre-Booking Messages and Guest Complaints
 

@@ -22,7 +22,7 @@ A huge portion of high-value sales in Kenya's posh neighborhoods come from Kenya
 - **Social Media Retargeting:** Use your Viewora tour link in targeted Facebook and Instagram ads to keep your property top-of-mind.
 - **Transparent Information:** Use hotspots in your tour to answer common buyer questions (legal status, service charge, parking etc.) before they even ask.
 
-> "We've reduced our average time-to-sale from 110 days to 45 days. Why? Because our clients 'visit' the property 5 or 6 times virtually before they ever step foot in it." — Sales Director, Westlands Property Group
+> "We've noticeably reduced our average time-to-sale. Why? Because our clients 'visit' the property several times virtually before they ever step foot in it." — Sales Director, Westlands Property Group
 
 ## 3. Build Irresistible Online Presence
 

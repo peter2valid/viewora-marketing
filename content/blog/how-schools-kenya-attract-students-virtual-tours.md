@@ -1,5 +1,5 @@
 ---
-title: How Schools in Kenya Attract More Students Using Virtual Tours
+title: How Kenyan Schools Attract Students With Virtual Tours
 description: The complete admissions marketing guide for Kenyan schools. How 360° virtual campus tours increase enrollment enquiries.
 category: Education
 author: The Viewora Team
@@ -20,7 +20,7 @@ Today's Kenyan parents are digitally sophisticated. They research schools online
 - Boarding facilities and dining halls.
 - Safety and security setup.
 
-> "Our admissions enquiries from outside Nairobi increased by 65%. Families were calling us saying 'We've toured the school, we love it!'" — Director of Admissions, Leading Nairobi International School
+> "Our admissions enquiries from outside Nairobi have increased noticeably. Families were calling us saying 'We've toured the school, we love it!'" — Director of Admissions, Nairobi International School
 
 ## Reaching Beyond Your Catchment Area
 

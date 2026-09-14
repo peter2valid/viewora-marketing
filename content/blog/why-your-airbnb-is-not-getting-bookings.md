@@ -22,7 +22,7 @@ Standard photos can only capture so much. In a sea of similar listings, you need
 - **Poor Discovery:** Are you only on Airbnb? Use your 360° tour link to drive direct traffic from Google and social media.
 - **Lack of Transparency:** Guests value honesty. Show the whole space using the [professional virtual tour software in Kenya](https://viewora.software/virtual-tours-kenya) to build instant credibility.
 
-> "Our bookings were down 40% year-on-year. We added a 360° tour and fixed our response time, and we hit 90% occupancy within 30 days. The transparency changed everything." — Property Manager, Nairobi East
+> "Our bookings were down noticeably year-on-year. We added a 360° tour and fixed our response time, and occupancy recovered within weeks. The transparency changed everything." — Property Manager, Nairobi East
 
 ## 3. You're Missing the Safari and Coast High-Intent Buyers
 

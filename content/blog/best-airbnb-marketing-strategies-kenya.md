@@ -22,11 +22,11 @@ You need to rank where your guests are searching. Most Airbnb guests start their
 - **Focus on Experiences:** Don't just sell a bed; sell the neighborhood. Include hotspots in your Viewora tour that show local cafes, parks, and attractions.
 - **Dynamic Pricing:** Use tools that adjust your rates based on Nairobi's event calendar (conferences, concerts, etc.).
 
-> "Marketing my Diani villa as an 'experience' through a digital 360° tour has allowed me to keep my rates 20% higher than my neighbors. The guests can see the value before they arrive." — Coastal Superhost
+> "Marketing my Diani villa as an 'experience' through a digital 360° tour has let me price it with confidence. The guests can see the value before they arrive." — Coastal Superhost
 
 ## 3. Harness the Power of Influencer Marketing
 
-Partner with local Kenyan lifestyle influencers. Give them a special link that features your **#1 virtual tour software in Kenya** experience. This allows their audience to explore your space as if they were there with the influencer, making the recommendation far more powerful.
+Partner with local Kenyan lifestyle influencers. Give them a special link that features your **virtual tour** experience. This allows their audience to explore your space as if they were there with the influencer, making the recommendation far more powerful.
 
 ## 4. Build a Loyalty Funnel
 

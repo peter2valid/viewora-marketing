@@ -7,7 +7,7 @@ date: '2026-01-27'
 image: https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1200&q=80
 ---
 
-Kenya's car buyers are doing 90% of their research online. Showrooms are empty, but the market is active on mobile devices.
+Most of Kenya's car buyers now do their research online before visiting a showroom. Foot traffic is down, but the market is active on mobile devices.
 
 ## The Problem with Traditional Sales
 
@@ -18,7 +18,7 @@ Blurry WhatsApp photos and wasted site visits drain your team's energy. A [360°
 - Complete interior walkthrough.
 - Interactive hotspots on odometers and service history.
 
-> "Buyers who request a physical viewing have already done the virtual tour. They come ready to sign. My Saturday conversions went from 1 in 10 to 7 in 10." — Car Sales Manager, Nairobi
+> "Buyers who request a physical viewing have already done the virtual tour. They come ready to sign. My weekend conversions have improved noticeably since we started." — Car Sales Manager, Nairobi
 
 ## The Upcountry Buyer
 

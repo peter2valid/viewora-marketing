@@ -22,7 +22,7 @@ Instagram and TikTok are massive for **real estate marketing in Kenya**. But don
 - **TikTok:** Great for educational content and house tours.
 - **WhatsApp Groups:** The hidden engine of the Kenyan property market. Share your 360° tour links directly to trusted circles.
 
-> "Digital marketing isn't about being everywhere; it's about being where it counts with the right tools. Viewora has become our central hub for property presentation." — Marketing Head, Leading Nairobi Developer
+> "Digital marketing isn't about being everywhere; it's about being where it counts with the right tools. Viewora has become our central hub for property presentation." — Marketing Head, Nairobi Property Developer
 
 ## 3. Don't Ignore Search Engine Optimization (SEO)
 

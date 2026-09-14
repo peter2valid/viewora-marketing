@@ -1,5 +1,5 @@
 ---
-title: How to Attract Foreign property Buyers in Kenya (2026 Strategy)
+title: How to Attract Foreign Property Buyers in Kenya
 description: Discover how to leverage immersive 360° technology to sell your Kenyan properties to the global diaspora and international investment community.
 category: Global Investment
 author: The Viewora Team
@@ -22,7 +22,7 @@ International buyers often start their journey with broad search terms like "hou
 - **Narrated Tour Experiences:** Use hotspots in your tour to add voice notes explaining the neighborhood, legal status, and local schools in **real estate marketing in Kenya**.
 - **High Performance for Global Connections:** Our platform is optimized to load instantly from any location, ensuring an elite experience for your foreign buyer.
 
-> "Our diaspora sales grew by 150% after we started providing Viewora tours. The buyers told us it made the decision easy because 'it felt like I was actually there'." — International Sales Manager, Nairobi Real Estate Agency
+> "Our diaspora sales grew significantly after we started providing Viewora tours. The buyers told us it made the decision easy because 'it felt like I was actually there'." — International Sales Manager, Nairobi Real Estate Agency
 
 ## 3. Showcase the Full Lifestyle Story
 

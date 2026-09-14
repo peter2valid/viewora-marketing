@@ -18,7 +18,7 @@ Today, the traveler journey is entirely digital. A traveler planning a Kenya saf
 - **The stakes are high:** A Kenya safari is a significant investment; buyers need absolute confidence.
 - **Geography is extreme:** Virtual tours do the selling that distance makes impossible.
 
-> "We had a goal of increasing our direct booking rate from 30% to 50%. Within 8 months of launching our Viewora virtual tour, we hit 62% direct." — Director, Premium Maasai Mara Safari Camp
+> "We had a goal of significantly increasing our direct booking rate, and our Viewora virtual tour got us there faster than we expected." — Director, Maasai Mara Safari Camp
 
 ## Transforming the Safari Industry
 
