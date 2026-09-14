@@ -1,7 +1,7 @@
 <template>
   <div>
     <SeoHero
-      title="The Affordable Matterport Alternative for Africa"
+      title="The Affordable Matterport Alternative"
       subtitle="Matterport costs $65/month and requires a $4,000 proprietary camera. Viewora works with any 360° camera you already own — and starts free. Same professional results. A fraction of the cost."
       badge="Matterport Alternative"
     />
@@ -12,7 +12,7 @@
         Matterport pioneered 3D virtual tours and deserves credit for it. But in 2026, paying $65–$600/month plus $4,000+ for a dedicated 3D camera is hard to justify — especially when a standard 360° camera and Viewora delivers professional results at a tiny fraction of the cost.
       </p>
       <p>
-        Viewora is the <strong>leading Matterport alternative for real estate professionals, hotels, and businesses in Africa</strong>. Here is an honest breakdown of how the two platforms compare.
+        Viewora is a <strong>Matterport alternative built for real estate professionals, hotels, and businesses worldwide</strong>. Here is an honest breakdown of how the two platforms compare.
       </p>
 
       <h2>Matterport vs Viewora: Side-by-Side Comparison</h2>
@@ -68,9 +68,9 @@
               <td class="highlight-col">Yes</td>
             </tr>
             <tr>
-              <td>Africa support &amp; pricing</td>
-              <td>No local support</td>
-              <td class="highlight-col">Built for African markets</td>
+              <td>Fast on slow connections</td>
+              <td>Heavy 3D files, often fails on mobile data</td>
+              <td class="highlight-col">Progressive tile loading — fast anywhere</td>
             </tr>
           </tbody>
         </table>
@@ -86,7 +86,7 @@
         <li><strong>Year one total:</strong> ~$9,700</li>
       </ul>
       <p>
-        That is a serious capital outlay for a real estate agency or hotel in Kenya, Nigeria, or South Africa. For the same annual investment you could run Viewora for years, serve unlimited clients, and keep all the profits.
+        That is a serious capital outlay for a real estate agency or hotel — anywhere from Nairobi to Nebraska. For the same annual investment you could run Viewora for years, serve unlimited clients, and keep all the profits.
       </p>
 
       <h2>What You Lose by Leaving Matterport</h2>
@@ -102,21 +102,21 @@
         If you need 3D measurements, as-built documentation, or architectural floor plans, Matterport is worth the cost. If you need <strong>high-quality visual tours to sell, market, or showcase properties</strong> — Viewora delivers the same buyer experience at a fraction of the price.
       </p>
 
-      <h2>Why African Real Estate Professionals Choose Viewora</h2>
+      <h2>Why Real Estate Professionals Choose Viewora</h2>
 
       <h3>It Works on the Connections Your Clients Actually Have</h3>
       <p>
-        Matterport's 3D file format is heavy. On 4G or 3G mobile data — the reality for most property buyers viewing tours on their phones in Nairobi, Lagos, or Accra — Matterport loads slowly and often fails completely. Viewora uses progressive tile loading, serving only the pixels visible on screen. Tours open fast on any connection.
+        Matterport's 3D file format is heavy. On 4G or 3G mobile data — the reality for most property buyers viewing tours on their phones, whether in Nairobi, Lagos, Mumbai, or rural America — Matterport loads slowly and often fails completely. Viewora uses progressive tile loading, serving only the pixels visible on screen. Tours open fast on any connection.
       </p>
 
       <h3>WhatsApp is Your Sales Channel</h3>
       <p>
-        The majority of property leads in Africa come through WhatsApp. When you share a Viewora tour link on WhatsApp, the chat automatically shows a full panorama preview image — the buyer sees the property before they even tap the link. Matterport links show only a plain URL preview.
+        In many markets — across Africa, South Asia, and Latin America especially — the majority of property leads come through WhatsApp. When you share a Viewora tour link on WhatsApp, the chat automatically shows a full panorama preview image — the buyer sees the property before they even tap the link. Matterport links show only a plain URL preview.
       </p>
 
       <h3>Any Camera Works</h3>
       <p>
-        You do not need to buy a Matterport camera. A Ricoh Theta Z1, Insta360 X4, or even a mid-range 360° camera from KSh 45,000 produces tours that look professional on Viewora. Many agents use a single camera shared across their whole team.
+        You do not need to buy a Matterport camera. A Ricoh Theta Z1, Insta360 X4, or even a mid-range 360° camera from around $350 produces tours that look professional on Viewora. Many agents use a single camera shared across their whole team.
       </p>
 
       <blockquote>
@@ -172,10 +172,10 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Matterport Alternative — Better Value for African Real Estate | Viewora',
+  title: 'Matterport Alternative — Better Value, Any Camera | Viewora',
   description: 'Looking for a Matterport alternative? Viewora creates professional 360° virtual tours with any camera. No $4,000 scanner. No $65/month subscription. Free to start.',
   ogTitle: 'Matterport Alternative | Viewora Virtual Tours',
-  ogDescription: 'Professional 360° virtual tours without the Matterport price tag. Works with any camera. Optimised for Africa. Free to start.',
+  ogDescription: 'Professional 360° virtual tours without the Matterport price tag. Works with any 360° camera, anywhere in the world. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/matterport-alternative',
   twitterCard: 'summary_large_image',
@@ -190,7 +190,7 @@ useHead({
         '@context': 'https://schema.org',
         '@type': 'WebPage',
         name: 'Matterport Alternative — Viewora',
-        description: 'Viewora is a professional Matterport alternative for 360° virtual tours in Africa. Works with any 360° camera, mobile-optimised, and starts free.',
+        description: 'Viewora is a professional Matterport alternative for 360° virtual tours, used worldwide. Works with any 360° camera, mobile-optimised, and starts free.',
         url: 'https://viewora.software/matterport-alternative',
         mainEntity: {
           '@type': 'SoftwareApplication',

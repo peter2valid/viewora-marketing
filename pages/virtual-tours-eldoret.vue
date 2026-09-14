@@ -2,14 +2,14 @@
   <div>
     <SeoHero
       title="Virtual Tours Eldoret | 360° Property & Business Marketing"
-      subtitle="The leading virtual tour platform for real estate, schools, and businesses in Eldoret, Kenya. Reach buyers and customers across North Rift and beyond with immersive 360° technology."
+      subtitle="A virtual tour platform for real estate, schools, and businesses in Eldoret, Kenya. Reach buyers and customers across North Rift and beyond with immersive 360° technology."
       badge="Eldoret Specialization"
     />
 
     <SeoContent>
       <h2>Elevating Property and Business Marketing in Eldoret</h2>
       <p>
-        Eldoret—Kenya's fifth-largest city and the heart of the North Rift—is a city on the rise. With a booming education sector, growing industrial base, and expanding real estate market, <strong>Viewora</strong> is the <span class="highlight">#1 virtual tour platform in Eldoret</span>, giving businesses and property professionals the tools to compete at a national and international level.
+        Eldoret—Kenya's fifth-largest city and the heart of the North Rift—is a city on the rise. With a booming education sector, growing industrial base, and expanding real estate market, <strong>Viewora</strong> gives businesses and property professionals in <span class="highlight">Eldoret</span> the tools to compete at a national and international level.
       </p>
       <p>
         From new residential developments in Elgon View to commercial investments in the Eldoret CBD, a professional 360° virtual tour lets you market your property or business to buyers and decision-makers in Nairobi, the diaspora, and across East Africa—without requiring them to travel to Eldoret first.
@@ -73,7 +73,7 @@ useSeoMeta({
   title: 'Virtual Tours Eldoret | 360° Property Marketing',
   description: 'Grow your Eldoret business with 360° virtual tours. Showcase real estate, schools, hospitals, and hotels to buyers across East Africa.',
   ogTitle: 'Virtual Tours Eldoret | 360° Property & Business Marketing',
-  ogDescription: 'The #1 virtual tour platform for Eldoret\'s real estate, education, healthcare, and hospitality sectors.',
+  ogDescription: 'The virtual tour platform for Eldoret\'s real estate, education, healthcare, and hospitality sectors.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/virtual-tours-eldoret',
   twitterCard: 'summary_large_image',

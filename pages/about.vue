@@ -8,7 +8,7 @@
         </p>
         
         <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.75rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; width: 100%;">
-          <img src="/images/home/dollhouse-commercial.png" loading="lazy" alt="Viewora 3D Virtual Tour" style="max-width: 100%; object-fit: contain; border-radius: 0.375rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
+          <NuxtImg src="/images/home/dollhouse-commercial.png" width="492" height="277" format="webp" loading="lazy" alt="Viewora 3D Virtual Tour" style="max-width: 100%; object-fit: contain; border-radius: 0.375rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
         </div>
       </div>
     </section>
@@ -48,8 +48,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "About Viewora | Kenya's #1 Virtual Tour Platform",
-  description: 'Viewora is a Kenyan SaaS company making immersive virtual tours accessible for any business that needs to visually present spaces or environments.',
+  title: "About Viewora | Virtual Tour Platform Built in Kenya, Used Worldwide",
+  description: 'Viewora is a SaaS company, founded in Kenya, making immersive 360° virtual tours and photo galleries accessible for any business that needs to visually present spaces or environments.',
   ogTitle: 'About Viewora | Our Story & Mission',
   ogDescription: 'Founded in Kenya to democratize spatial marketing. Viewora empowers agents, hosts and developers to create immersive 360° virtual tours in minutes.',
   ogUrl: 'https://viewora.software/about',

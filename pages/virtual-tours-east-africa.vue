@@ -2,14 +2,14 @@
   <div>
     <SeoHero
       title="Virtual Tours East Africa | Kenya, Uganda, Tanzania & Beyond"
-      subtitle="The leading 360° virtual tour platform built for East Africa. From Nairobi to Kampala, Dar es Salaam to Kigali—immersive property and business marketing for the entire region."
+      subtitle="A 360° virtual tour platform built for East Africa. From Nairobi to Kampala, Dar es Salaam to Kigali—immersive property and business marketing for the entire region."
       badge="East Africa Coverage"
     />
 
     <SeoContent>
-      <h2>The #1 Virtual Tour Platform for East Africa</h2>
+      <h2>A Virtual Tour Platform Built for East Africa</h2>
       <p>
-        East Africa's economic rise is one of the defining stories of 21st-century commerce. With combined GDP growth among the strongest on the continent, markets across Kenya, Uganda, Tanzania, Rwanda, and Ethiopia are attracting international investment, expanding hospitality sectors, and driving demand for world-class property marketing tools. <strong>Viewora</strong> is the <span class="highlight">leading 360° virtual tour platform for East Africa</span>, purpose-built for the region's unique digital landscape.
+        East Africa's economic rise is one of the defining stories of 21st-century commerce. With combined GDP growth among the strongest on the continent, markets across Kenya, Uganda, Tanzania, Rwanda, and Ethiopia are attracting international investment, expanding hospitality sectors, and driving demand for world-class property marketing tools. <strong>Viewora</strong> is a <span class="highlight">360° virtual tour platform for East Africa</span>, purpose-built for the region's unique digital landscape.
       </p>
       <p>
         Whether you are marketing real estate in Nairobi, a safari lodge on the Serengeti, a hotel in Kampala, or a school in Dar es Salaam, Viewora gives you the immersive digital presence to compete globally while serving local markets.
@@ -72,7 +72,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Virtual Tours East Africa | Kenya, Uganda, Tanzania & Rwanda',
-  description: 'The leading 360° virtual tour platform for East Africa. Reach buyers across Kenya, Uganda, Tanzania, Rwanda, and Ethiopia.',
+  description: 'A 360° virtual tour platform for East Africa. Reach buyers across Kenya, Uganda, Tanzania, Rwanda, and Ethiopia.',
   ogTitle: 'Virtual Tours East Africa | The Regional Leader in 360° Marketing',
   ogDescription: 'One virtual tour platform for all of East Africa. Real estate, tourism, hospitality, and education marketing across Kenya, Uganda, Tanzania, and Rwanda.',
   ogImage: 'https://viewora.software/og-image.jpg',

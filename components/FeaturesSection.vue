@@ -10,7 +10,7 @@
         <!-- Real Estate -->
         <div class="card text-center">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
-            <img src="/images/home/plain land.png" loading="lazy" alt="Real Estate Tours on Mobile" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+            <NuxtImg src="/images/home/plain land.png" width="600" height="340" format="webp" loading="lazy" alt="Real Estate Tours on Mobile" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
           <h3 class="mb-3">Real Estate Agents</h3>
           <p class="text-muted">Pre-qualify buyers before the viewing. Let clients explore every room from their phone — saving you time and closing more deals.</p>
@@ -25,7 +25,7 @@
         <div class="card text-center" style="border: 2px solid var(--primary);">
           <div style="font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--primary); margin-bottom: 0.75rem;">Most Popular</div>
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
-            <img src="/images/home/dollhouse-commercial.png" loading="lazy" alt="3D Dollhouse View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+            <NuxtImg src="/images/home/dollhouse-commercial.png" width="492" height="277" format="webp" loading="lazy" alt="3D Dollhouse View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
           <h3 class="mb-3">Hospitality & Short-Term Rentals</h3>
           <p class="text-muted">Perfect for Airbnb hosts, hotels, resorts, and lodges. Reduce guest queries about layout and boost booking confidence with a virtual walkthrough.</p>
@@ -39,7 +39,7 @@
         <!-- Property Developers -->
         <div class="card text-center">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
-            <img src="/images/home/floorplan-hotspots.png" loading="lazy" alt="Hotspot Floorplan Navigation" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+            <NuxtImg src="/images/home/floorplan-hotspots.png" width="437" height="277" format="webp" loading="lazy" alt="Hotspot Floorplan Navigation" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
           <h3 class="mb-3">Architecture & Development</h3>
           <p class="text-muted">Showcase model apartments, event venues, schools, and off-plan projects to global audiences before they even visit.</p>
@@ -53,7 +53,7 @@
         <!-- Car Dealerships -->
         <div class="card text-center">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
-            <img src="/images/home/car dealership.png" loading="lazy" alt="Car Dealership 360 View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+            <NuxtImg src="/images/home/car dealership.png" width="600" height="340" format="webp" loading="lazy" alt="Car Dealership 360 View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
           <h3 class="mb-3">Car Dealerships</h3>
           <p class="text-muted">Put buyers behind the wheel from anywhere. Showcase interior and exterior 360° views to drive higher engagement and foot traffic.</p>

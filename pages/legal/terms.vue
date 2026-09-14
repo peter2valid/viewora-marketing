@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>Governing Your Use of Viewora</h2>
       <p>
-        Welcome to <strong>Viewora</strong>, the <strong>#1 virtual tour software in Kenya</strong>. By using our platform, you agree to these Terms of Service. These terms are designed to ensure a high-quality, professional environment for all property agents, developers, and hosts using <NuxtLink to="/virtual-tours-kenya" class="highlight">virtual tours in Kenya</NuxtLink>.
+        Welcome to <strong>Viewora</strong>. By using our platform, you agree to these Terms of Service. These terms are designed to ensure a high-quality, professional environment for all property agents, developers, and hosts using <NuxtLink to="/product" class="highlight">Viewora's virtual tour software</NuxtLink>.
       </p>
 
       <h2>1. Use of the Platform</h2>

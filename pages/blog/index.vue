@@ -14,7 +14,7 @@
         <div class="grid-3" v-if="posts?.length">
           <div v-for="article in posts" :key="article.slug" class="card" style="display: flex; flex-direction: column; height: 100%;">
             <div v-if="article.image" style="margin: -1.5rem -1.5rem 1.5rem -1.5rem; height: 200px; overflow: hidden; border-radius: 1rem 1rem 0 0;">
-              <img :src="article.image" :alt="article.title" style="width: 100%; height: 100%; object-fit: cover;">
+              <img :src="article.image" :alt="article.title" loading="lazy" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <div style="flex: 1; display: flex; flex-direction: column;">
               <NuxtLink :to="`/blog/${article.slug}`" class="text-primary text-sm font-bold mb-2">{{ article.category || 'Guides' }}</NuxtLink>

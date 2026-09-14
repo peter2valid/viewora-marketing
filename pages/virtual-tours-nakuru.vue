@@ -7,9 +7,9 @@
     />
 
     <SeoContent>
-      <h2>The #1 Virtual Tour Solution in Nakuru, Kenya</h2>
+      <h2>A Virtual Tour Solution Built for Nakuru, Kenya</h2>
       <p>
-        Nakuru is one of Kenya's fastest-growing cities, and its property, hospitality, and tourism markets are expanding at pace. From lakefront developments near Lake Nakuru to new residential estates in Milimani, <strong>Viewora</strong> is the <span class="highlight">#1 virtual tour platform in Nakuru</span>, helping local businesses attract more customers online and close deals faster.
+        Nakuru is one of Kenya's fastest-growing cities, and its property, hospitality, and tourism markets are expanding at pace. From lakefront developments near Lake Nakuru to new residential estates in Milimani, <strong>Viewora</strong> helps local businesses in <span class="highlight">Nakuru</span> attract more customers online and close deals faster.
       </p>
       <p>
         With Nakuru's elevation to city status and its growing role as a commercial hub connecting Nairobi to western Kenya, the business community here deserves world-class digital marketing tools. Viewora delivers exactly that.

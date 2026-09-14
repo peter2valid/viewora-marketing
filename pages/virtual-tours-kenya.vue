@@ -1,7 +1,7 @@
 <template>
   <div>
     <SeoHero 
-      title="The #1 Virtual Tour Software in Kenya"
+      title="Virtual Tour Software in Kenya"
       subtitle="Transform your properties with immersive 360° virtual tours. Built for Kenyan real estate agents, Airbnb hosts, and property developers to close more deals faster."
       badge="Viewora Kenya"
     />
@@ -28,7 +28,7 @@
 
       <h2>Comprehensive Solutions for Every Property Type</h2>
       <p>
-        Whether you are managing a cozy apartment in Kilimani, a commercial office space in Upper Hill, or a beachside resort in Watamu, Viewora is the <span class="highlight">#1 virtual tour software in Kenya</span> that scales with your needs.
+        Whether you are managing a cozy apartment in Kilimani, a commercial office space in Upper Hill, or a beachside resort in Watamu, Viewora is <span class="highlight">virtual tour software built in Kenya</span> that scales with your needs.
       </p>
 
       <h3>Real Estate Marketing in Kenya</h3>
@@ -134,7 +134,7 @@ useHead({
         applicationCategory: 'BusinessApplication',
         operatingSystem: 'Web',
         offers: buildPricingOffers(),
-        description: 'The leading 360° virtual tour software for the Kenyan real estate and hospitality market.',
+        description: '360° virtual tour software for the Kenyan real estate and hospitality market.',
         url: 'https://viewora.software'
       })
     },

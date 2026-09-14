@@ -74,7 +74,7 @@ useSeoMeta({
   title: 'Gym Virtual Tours Kenya | Get More Fitness Members Online',
   description: 'Grow your gym membership in Kenya with 360° virtual fitness studio tours. Showcase your equipment and convert online browsers into paying members.',
   ogTitle: 'Gym Virtual Tours Kenya | Immersive Fitness Marketing',
-  ogDescription: 'The #1 virtual tour platform for gyms and fitness studios in Kenya. Build trust, attract members, grow your business.',
+  ogDescription: 'The virtual tour platform for gyms and fitness studios in Kenya. Build trust, attract members, grow your business.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/gym-virtual-tours-kenya',
   twitterCard: 'summary_large_image',

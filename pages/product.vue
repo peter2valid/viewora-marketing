@@ -23,7 +23,7 @@
           </div>
           <div class="product-img-col">
             <div class="product-img-wrap">
-              <img src="/images/home/hardware-setup.png" loading="lazy" alt="Upload Panoramas" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
+              <NuxtImg src="/images/home/hardware-setup.png" width="322" height="276" format="webp" loading="lazy" alt="Upload Panoramas" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@
         <div class="product-step grid-2 mb-12">
           <div class="product-img-col">
             <div class="product-img-wrap">
-              <img src="/images/home/white-label-editor.png" loading="lazy" alt="Visual Editor" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
+              <NuxtImg src="/images/home/white-label-editor.png" width="519" height="277" format="webp" loading="lazy" alt="Visual Editor" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
             </div>
           </div>
           <div class="product-text-col">
@@ -55,7 +55,7 @@
           </div>
           <div class="product-img-col">
             <div class="product-img-wrap">
-              <img src="/images/home/tiny-planet-vr.png" loading="lazy" alt="Publish Virtual Tour" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
+              <NuxtImg src="/images/home/tiny-planet-vr.png" width="480" height="270" format="webp" loading="lazy" alt="Publish Virtual Tour" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
             </div>
           </div>
         </div>
@@ -64,7 +64,7 @@
         <div class="product-step grid-2">
           <div class="product-img-col">
             <div class="product-img-wrap">
-              <img src="/images/home/cross-platform-hero2.png" loading="lazy" alt="Share on any device" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
+              <NuxtImg src="/images/home/cross-platform-hero2.png" width="458" height="277" format="webp" loading="lazy" alt="Share on any device" style="max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.08));" />
             </div>
           </div>
           <div class="product-text-col">
@@ -151,7 +151,7 @@ useHead({
         operatingSystem: 'Web Browser',
         url: 'https://viewora.software',
         offers: buildPricingOffers(),
-        description: 'Viewora lets you create, host, and share interactive 360° virtual tours for real estate, hotels, Airbnb, dealerships, schools, and tourism in Kenya and Africa.'
+        description: 'Viewora lets you create, host, and share interactive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, dealerships, schools, and tourism businesses worldwide.'
       })
     },
     {

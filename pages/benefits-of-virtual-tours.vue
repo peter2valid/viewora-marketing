@@ -2,7 +2,7 @@
   <div>
     <SeoHero
       title="Benefits of Virtual Tours | Why Every Business Needs One"
-      subtitle="Discover the proven business benefits of 360° virtual tours—from increased sales and more bookings to reduced costs and global reach. Why Kenya's leading businesses choose immersive technology."
+      subtitle="Discover the proven business benefits of 360° virtual tours—from increased sales and more bookings to reduced costs and global reach. Why businesses are switching to immersive technology."
       badge="Proven Results"
     />
 

@@ -190,7 +190,7 @@ const termGroups = [
     terms: [
       { term: 'Virtual Reality (VR)', def: 'A fully immersive digital environment experienced through a VR headset (such as Oculus Quest or Google Cardboard). Viewora tours support VR viewing through compatible headsets, offering the most immersive possible experience of a property or space.' },
       { term: 'Virtual Staging', def: 'The process of digitally furnishing or decorating a property within a virtual tour to help buyers visualize the space\'s potential. Particularly useful for off-plan or empty properties in Kenya\'s new development market.' },
-      { term: 'Virtual Tour', def: 'An interactive digital experience that simulates being present in a real physical location. Using 360° panoramic photography, virtual tours allow viewers to explore any space from any device, at any time. Viewora is Kenya\'s leading virtual tour platform.' },
+      { term: 'Virtual Tour', def: 'An interactive digital experience that simulates being present in a real physical location. Using 360° panoramic photography, virtual tours allow viewers to explore any space from any device, at any time. Viewora is a virtual tour platform founded in Kenya, used worldwide.' },
       { term: 'Virtual Walkthrough', def: 'Another term for a virtual tour, commonly used in Kenya\'s property market. A virtual walkthrough gives buyers, renters, or guests a complete room-by-room exploration of a property without visiting in person.' },
     ]
   },

@@ -15,7 +15,7 @@
           </div>
 
           <div v-if="post.image" class="mb-12" style="border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
-            <img :src="post.image" :alt="post.title" style="width: 100%; height: auto; max-height: 500px; object-fit: cover; display: block;">
+            <img :src="post.image" :alt="post.title" fetchpriority="high" style="width: 100%; height: auto; max-height: 500px; object-fit: cover; display: block;">
           </div>
 
           <div class="prose prose-slate max-w-none" style="font-size: 1.125rem; line-height: 1.8; color: var(--text-secondary);">

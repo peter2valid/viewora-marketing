@@ -173,7 +173,7 @@ export default defineNuxtConfig({
   site: {
     url: 'https://viewora.software',
     name: 'Viewora',
-    description: 'Create interactive 360° virtual tours for your spaces. The subscription-based platform for real estate agents, Airbnb hosts, and space developers.',
+    description: 'Create interactive 360° virtual tours and photo galleries for any space. The platform for real estate agents, Airbnb hosts, car dealerships, hotels, and businesses worldwide.',
     defaultLocale: 'en',
   },
 
@@ -238,7 +238,7 @@ export default defineNuxtConfig({
         { property: 'og:image', content: 'https://viewora.software/og-image.jpg' },
         { property: 'og:image:width', content: '1200' },
         { property: 'og:image:height', content: '630' },
-        { property: 'og:locale', content: 'en_KE' },
+        { property: 'og:locale', content: 'en_US' },
         // Default Twitter Card
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@viewora' },

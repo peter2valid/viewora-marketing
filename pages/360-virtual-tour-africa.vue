@@ -2,14 +2,14 @@
   <div>
     <SeoHero 
       title="360 Virtual Tour Software Africa | Leading Property Tech"
-      subtitle="Empowering property professionals across the continent with world-class immersive technology. The #1 virtual tour platform for the African market."
+      subtitle="Empowering property professionals across the continent with world-class immersive technology. A virtual tour platform built for the African market."
       badge="Africa Wide Platform"
     />
 
     <SeoContent>
       <h2>The Definitive 360 Virtual Tour Choice for Africa</h2>
       <p>
-        Across Africa, from the tech hubs of Nairobi and Lagos to the growing cities of Kigali and Accra, the property market is evolving. <strong>Viewora</strong> is the <span class="highlight">leading 360 virtual tour software in Africa</span>, providing high-performance technology that enables real estate agents and developers to reach a global audience.
+        Across Africa, from the tech hubs of Nairobi and Lagos to the growing cities of Kigali and Accra, the property market is evolving. <strong>Viewora</strong> is <span class="highlight">360° virtual tour software built for Africa</span>, providing high-performance technology that enables real estate agents and developers to reach a global audience.
       </p>
 
       <h3>Transforming Property Marketing Across the Continent</h3>
@@ -52,7 +52,7 @@ definePageMeta({
 })
 useSeoMeta({
   title: '360 Virtual Tour Software Africa | #1 Property Tech Platform',
-  description: 'The leading virtual tour software across Africa. Showcase Kenyan, Nigerian, and South African properties with professional 360° tours on Viewora.',
+  description: 'Virtual tour software for businesses across Africa. Showcase Kenyan, Nigerian, and South African properties with professional 360° tours on Viewora.',
   ogTitle: '360 Virtual Tour Software Africa | Leading ProTech',
   ogDescription: 'Experience the future of African property marketing. Immersive 360° tours for a global audience.',
   ogImage: 'https://viewora.software/og-image.jpg',

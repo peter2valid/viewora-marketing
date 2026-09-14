@@ -59,16 +59,16 @@
       <div class="container">
         <div class="stats-grid">
           <div style="color: var(--paper);">
-            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">500+</div>
-            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">Tours Published</div>
+            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">5 min</div>
+            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">To Publish</div>
           </div>
           <div style="color: var(--paper);">
-            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">30+</div>
-            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">Countries</div>
+            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">$0</div>
+            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">Free Plan, No Card</div>
           </div>
           <div style="color: var(--paper);">
-            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">4.8/5</div>
-            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">Rating</div>
+            <div style="font-size: 2.25rem; font-weight: 900; font-family: var(--font-display); letter-spacing: -0.04em;">360°</div>
+            <div style="font-size: 0.7rem; opacity: 0.6; margin-top: 0.25rem; font-family: var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;">Tours &amp; Photo Galleries</div>
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@
         <div class="grid-3" style="align-items: start;">
           <div class="card text-center">
             <div style="background: var(--paper-dim); padding: 1.25rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); height: 180px; display: flex; align-items: center; justify-content: center;">
-              <img src="/images/home/hardware-setup.png" loading="lazy" alt="Photography Hardware" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+              <NuxtImg src="/images/home/hardware-setup.png" width="322" height="276" format="webp" loading="lazy" alt="Photography Hardware" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
             </div>
             <div style="background: var(--bg-surface-alt); width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 1.25rem; font-weight: bold; color: var(--primary);">1</div>
             <h3 class="mb-4">Capture</h3>
@@ -93,7 +93,7 @@
           </div>
           <div class="card text-center">
             <div style="background: var(--paper-dim); padding: 1.25rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); height: 180px; display: flex; align-items: center; justify-content: center;">
-              <img src="/images/home/white-label-editor.png" loading="lazy" alt="Tour Editor Interface" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+              <NuxtImg src="/images/home/white-label-editor.png" width="519" height="277" format="webp" loading="lazy" alt="Tour Editor Interface" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
             </div>
             <div style="background: var(--bg-surface-alt); width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 1.25rem; font-weight: bold; color: var(--primary);">2</div>
             <h3 class="mb-4">Connect Rooms</h3>
@@ -101,7 +101,7 @@
           </div>
           <div class="card text-center">
             <div style="background: var(--paper-dim); padding: 1.25rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); height: 180px; display: flex; align-items: center; justify-content: center;">
-              <img src="/images/home/tiny-planet-vr.png" loading="lazy" alt="VR 360 Tiny Planet View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
+              <NuxtImg src="/images/home/tiny-planet-vr.png" width="480" height="270" format="webp" loading="lazy" alt="VR 360 Tiny Planet View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
             </div>
             <div style="background: var(--bg-surface-alt); width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 1.25rem; font-weight: bold; color: var(--primary);">3</div>
             <h3 class="mb-4">Publish & Share</h3>
@@ -237,7 +237,7 @@
         <div style="position: relative;">
           <!-- blueprint subtle backdrop -->
           <div style="position: absolute; inset: -2rem; background: radial-gradient(circle, var(--accent-dim) 0%, transparent 70%); z-index: 0; pointer-events: none;"></div>
-          <img src="/images/home/cross-platform-hero.png" alt="Interactive 360 tour example" class="img-fluid" style="width: 100%; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.1));" />
+          <NuxtImg src="/images/home/cross-platform-hero.png" width="800" height="376" format="webp" loading="lazy" alt="Interactive 360 tour example" class="img-fluid" style="width: 100%; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.1));" />
         </div>
         <div>
           <h2 class="section-title">Built for Sales Professionals</h2>
@@ -327,8 +327,8 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 useSeoMeta({
-  title: '360° Virtual Tour Software — Free to Start | Viewora',
-  description: 'Create immersive 360° virtual tours for real estate, hotels, Airbnb, dealerships, tourism, and retail businesses across Africa.',
+  title: '360° Virtual Tour & Photo Gallery Software — Free to Start | Viewora',
+  description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and retail businesses worldwide.',
   ogTitle: 'Viewora — The #1 Immersive 360° Space Showcase Platform',
   ogDescription: 'Upload panoramas, connect rooms and publish stunning virtual tours in minutes. Free to start. No credit card required.',
   ogUrl: 'https://viewora.software',
@@ -375,13 +375,8 @@ useHead({
           '@type': 'Place',
           address: { '@type': 'PostalAddress', addressLocality: 'Nairobi', addressCountry: 'KE' }
         },
-        description: 'Viewora is the leading 360° virtual tour platform in Kenya and East Africa, serving real estate, hospitality, automotive, education, healthcare, fitness, and tourism sectors.',
-        areaServed: [
-          { '@type': 'Country', name: 'Kenya' },
-          { '@type': 'Country', name: 'Uganda' },
-          { '@type': 'Country', name: 'Tanzania' },
-          { '@type': 'Country', name: 'Rwanda' }
-        ],
+        description: 'Viewora is a 360° virtual tour and photo gallery platform founded in Nairobi, Kenya, serving real estate, hospitality, automotive, education, healthcare, fitness, and tourism businesses worldwide.',
+        areaServed: { '@type': 'Place', name: 'Worldwide' },
         contactPoint: {
           '@type': 'ContactPoint',
           telephone: '+254-117-537-025',
@@ -408,14 +403,7 @@ useHead({
         operatingSystem: 'Web, iOS, Android',
         url: 'https://viewora.software',
         offers: buildPricingOffers(),
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.8',
-          bestRating: '5',
-          worstRating: '1',
-          ratingCount: 247
-        },
-        description: 'Create and share professional 360° virtual tours for real estate, hotels, Airbnb, schools, gyms, car dealerships, and tourism in Kenya and Africa.'
+        description: 'Create and share professional 360° virtual tours and photo galleries for real estate, hotels, Airbnb, schools, gyms, car dealerships, and tourism businesses worldwide.'
       })
     },
     {

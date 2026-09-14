@@ -19,7 +19,7 @@
 
       <h2>2. Engineering for Global Performance from Africa</h2>
       <p>
-        Unlike many PropTech platforms designed for western infrastructure, Viewora is engineered for the African reality. Our software is mobile-first, lightweight, and optimized to load instantly on 3G and 4G networks from Nairobi to Lagos. This is why we are the <NuxtLink to="/virtual-tours-kenya" class="highlight">#1 virtual tour software in Africa</NuxtLink>.
+        Unlike many PropTech platforms designed for western infrastructure, Viewora is engineered for the African reality first. Our software is mobile-first, lightweight, and optimized to load instantly on 3G and 4G networks from Nairobi to Lagos — while working just as well anywhere else in the world. See it in action for <NuxtLink to="/virtual-tours-kenya" class="highlight">virtual tours in Kenya</NuxtLink>.
       </p>
 
       <h3>Company Milestones:</h3>
@@ -54,10 +54,10 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Viewora Company | #1 African PropTech Leader',
-  description: 'Meet the team behind Viewora, Kenya\'s leading 360° virtual tour platform. Making world-class immersive marketing accessible across Africa.',
-  ogTitle: 'Viewora Company | Shaping African Real Estate',
-  ogDescription: 'Experience the mission behind the #1 virtual tour software in Africa.',
+  title: 'Viewora Company | Our Mission',
+  description: 'Meet the team behind Viewora, a 360° virtual tour and photo gallery platform founded in Kenya, making immersive spatial marketing accessible to businesses worldwide.',
+  ogTitle: 'Viewora Company | Our Mission',
+  ogDescription: 'Meet the team behind Viewora and the mission driving our virtual tour and photo gallery software.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/company',
   twitterCard: 'summary_large_image',

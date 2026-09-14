@@ -3,7 +3,7 @@
     <SeoHero
       title="Virtual Tour Photographer Kenya | Hire a 360° Pro Near You"
       subtitle="Viewora dispatches certified virtual tour photographers across Kenya. We capture your property in immersive 360°, edit it, and upload it to your account — from KES 5,000. Available in Nairobi, Mombasa & Kisumu."
-      badge="Kenya's #1 Virtual Tour Photographer"
+      badge="Kenya Virtual Tour Photography"
     />
 
     <SeoContent>

@@ -57,7 +57,7 @@
 
       <h2>Start Your Healthcare Virtual Tour Today</h2>
       <p>
-        Join Kenya's leading hospitals and clinics using Viewora to build unshakeable patient trust, attract medical tourism, and grow their private patient base across East Africa. Start your free tour today.
+        Join hospitals and clinics across Kenya using Viewora to build patient trust, attract medical tourism, and grow their private patient base across East Africa. Start your free tour today.
       </p>
     </SeoContent>
 

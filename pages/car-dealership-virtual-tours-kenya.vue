@@ -2,7 +2,7 @@
   <div>
     <SeoHero
       title="Car Dealership Virtual Tours Kenya | Sell More Cars Online"
-      subtitle="Let serious buyers walk through your showroom, inspect every vehicle in 360°, and arrive ready to buy. The #1 virtual tour solution for car dealerships in Kenya."
+      subtitle="Let serious buyers walk through your showroom, inspect every vehicle in 360°, and arrive ready to buy. The virtual tour solution built for car dealerships in Kenya."
       badge="Automotive Innovation"
     />
 
@@ -74,7 +74,7 @@ useSeoMeta({
   title: 'Car Dealership Virtual Tours Kenya | Sell More Cars Online',
   description: 'Boost car sales at your Kenyan dealership with 360° virtual showroom tours. Let buyers inspect every vehicle online and arrive ready to buy.',
   ogTitle: 'Car Dealership Virtual Tours Kenya | 24/7 Online Showroom',
-  ogDescription: 'The #1 virtual tour solution for car dealerships in Kenya. Immersive 360° tours that convert online browsers into serious buyers.',
+  ogDescription: 'The virtual tour solution built for car dealerships in Kenya. Immersive 360° tours that convert online browsers into serious buyers.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/car-dealership-virtual-tours-kenya',
   twitterCard: 'summary_large_image',

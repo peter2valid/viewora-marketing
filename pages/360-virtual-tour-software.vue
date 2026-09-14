@@ -238,11 +238,6 @@ useHead({
           'Mobile optimised',
         ],
         offers: buildPricingOffers(),
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.8',
-          reviewCount: '47',
-        },
         provider: {
           '@type': 'Organization',
           name: 'Viewora',

@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>Our Commitment to Your Privacy</h2>
       <p>
-        At <strong>Viewora</strong>, we understand that privacy is paramount in the <strong>real estate market in Kenya</strong> and across Africa. This Privacy Policy outlines how we collect, use, and safeguard the information you provide when using the <NuxtLink to="/virtual-tours-kenya" class="highlight">#1 virtual tour software in Kenya</NuxtLink>.
+        At <strong>Viewora</strong>, we take privacy seriously for every business we serve, worldwide. This Privacy Policy outlines how we collect, use, and safeguard the information you provide when using <NuxtLink to="/product" class="highlight">Viewora's virtual tour software</NuxtLink>.
       </p>
 
       <h2>1. Information We Collect</h2>

@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>Empowering Kisumu Real Estate with 360° Virtual Tours</h2>
       <p>
-        Kisumu is rapidly growing as the economic center of Western Kenya. To capture this growth, real estate agents and developers need modern tools. <strong>Viewora</strong> offers the <span class="highlight">#1 virtual tour software in Kisumu</span>, ensuring your property stands out to local and diaspora investors looking at the Lake Victoria region.
+        Kisumu is rapidly growing as the economic center of Western Kenya. To capture this growth, real estate agents and developers need modern tools. <strong>Viewora</strong> offers <span class="highlight">virtual tour software for Kisumu</span>, ensuring your property stands out to local and diaspora investors looking at the Lake Victoria region.
       </p>
 
       <h3>Targeting the Western Kenya Property Market</h3>
@@ -52,7 +52,7 @@ definePageMeta({
 })
 useSeoMeta({
   title: 'Virtual Tours Kisumu | Western Kenya Property Marketing',
-  description: 'Scale your real estate business in Kisumu with Viewora. The leading 360° virtual tour software for Milimani, Riat Hills, and the Lake Victoria region.',
+  description: 'Scale your real estate business in Kisumu with Viewora. 360° virtual tour software for Milimani, Riat Hills, and the Lake Victoria region.',
   ogTitle: 'Virtual Tours Kisumu | Lake Victoria Property Tech',
   ogDescription: 'Immersive property viewing for the Kisumu market. Built for Western Kenya.',
   ogImage: 'https://viewora.software/og-image.jpg',
