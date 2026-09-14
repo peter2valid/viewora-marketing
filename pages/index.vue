@@ -18,37 +18,20 @@
           </div>
           <p style="margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);">✓ Free forever plan &nbsp;&nbsp; ✓ No credit card &nbsp;&nbsp; ✓ Publish in 5 minutes</p>
         </div>
-        <div style="position: relative; height: 100%; min-height: 300px; display: flex; align-items: center; justify-content: center; padding: 1rem 0;">
+        <div style="position: relative; display: flex; align-items: center; justify-content: center; padding: 1rem 0;">
           <!-- Background Glow Effect -->
           <div style="position: absolute; top: 10%; bottom: 10%; left: 5%; right: 5%; background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%); filter: blur(40px); opacity: 0.25; z-index: 0; border-radius: 2rem; transform: translateZ(0);"></div>
-          
-          <!-- Browser Window Frame -->
-          <div class="card" style="padding: 0; position: relative; overflow: hidden; border-radius: 1rem; width: 100%; height: 300px; display: flex; flex-direction: column; background-color: var(--bg-surface); box-shadow: var(--shadow-xl), 0 0 0 1px rgba(0,0,0,0.05); z-index: 1; border: none;">
-            <!-- Top Toolbar -->
-            <div style="height: 40px; background-color: rgba(255, 255, 255, 0.9); border-bottom: 1px solid var(--border-color); display: flex; align-items: center; padding: 0 1rem; gap: 0.5rem; backdrop-filter: blur(4px);">
-              <div style="display: flex; gap: 0.4rem;">
-                <div style="width: 11px; height: 11px; border-radius: 50%; background-color: #ff5f56;"></div>
-                <div style="width: 11px; height: 11px; border-radius: 50%; background-color: #ffbd2e;"></div>
-                <div style="width: 11px; height: 11px; border-radius: 50%; background-color: #27c93f;"></div>
-              </div>
-              <div style="flex: 1; display: flex; justify-content: center;">
-                <div style="font-size: 0.7rem; font-family: var(--font-sans); color: var(--text-secondary); background: var(--bg-base); padding: 0.2rem 1.5rem; border-radius: 6px; border: 1px solid var(--border-color); display: flex; align-items: center; gap: 0.4rem;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
-                  app.viewora.software/p/onyx-apartments
-                </div>
-              </div>
-              <div style="width: 45px;"></div>
-            </div>
-            <!-- 360° demo iframe — src injected after page load to protect LCP -->
-            <div style="flex: 1; width: 100%; height: 100%; position: relative;">
-              <iframe
-                ref="demoIframe"
-                style="width: 100%; height: 260px; border: none; display: block;"
-                allowfullscreen
-                allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
-                title="Sample 360 Virtual Tour"
-              ></iframe>
-            </div>
+
+          <!-- Live embedded tour — aspect-ratio keeps it well-proportioned at any screen width instead of a fixed pixel height -->
+          <div class="card" style="padding: 0; position: relative; overflow: hidden; border-radius: 1rem; width: 100%; aspect-ratio: 16 / 10; background-color: var(--bg-surface); box-shadow: var(--shadow-xl), 0 0 0 1px rgba(0,0,0,0.05); z-index: 1; border: none;">
+            <!-- src injected after page load to protect LCP -->
+            <iframe
+              ref="demoIframe"
+              style="width: 100%; height: 100%; border: none; display: block;"
+              allowfullscreen
+              allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
+              title="Live Viewora Tour — Onyx Apartments"
+            ></iframe>
           </div>
         </div>
       </div>

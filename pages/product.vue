@@ -89,10 +89,10 @@
           Interact with a real virtual tour created using the Viewora platform. This is the quality and fluidity your customers will experience.
         </p>
         
-        <div class="card" style="padding: 0; overflow: hidden; max-width: 1000px; margin: 0 auto; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
+        <div class="card" style="padding: 0; overflow: hidden; max-width: 1000px; margin: 0 auto; border: 1px solid var(--border); box-shadow: var(--shadow-lg); aspect-ratio: 16 / 9;">
           <iframe
             src="https://app.viewora.software/embed/azari-suites"
-            style="width: 100%; height: 500px; border: none; display: block; background: #000;"
+            style="width: 100%; height: 100%; border: none; display: block; background: #000;"
             allowfullscreen
             loading="lazy"
             allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
