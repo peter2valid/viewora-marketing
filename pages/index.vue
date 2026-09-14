@@ -34,7 +34,7 @@
               <div style="flex: 1; display: flex; justify-content: center;">
                 <div style="font-size: 0.7rem; font-family: var(--font-sans); color: var(--text-secondary); background: var(--bg-base); padding: 0.2rem 1.5rem; border-radius: 6px; border: 1px solid var(--border-color); display: flex; align-items: center; gap: 0.4rem;">
                   <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
-                  viewora.software/tours/demo
+                  app.viewora.software/p/onyx-apartments
                 </div>
               </div>
               <div style="width: 45px;"></div>
@@ -436,7 +436,7 @@ const homeDepts = [
 onMounted(() => {
   const load = () => {
     if (demoIframe.value) {
-      demoIframe.value.src = 'https://www.marzipano.net/demos/sample-tour/'
+      demoIframe.value.src = 'https://app.viewora.software/embed/onyx-apartmentshouse-and-homes'
     }
   }
   if ('requestIdleCallback' in window) {

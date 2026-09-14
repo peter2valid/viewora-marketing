@@ -9,18 +9,18 @@
     <SeoContent>
       <h2>The Smartest Way to Sell Cars in Kenya in 2026</h2>
       <p>
-        Kenya's automotive market is shifting online. Buyers in Nairobi, Mombasa, and Eldoret increasingly research their next vehicle purchase on their phones before ever walking into a showroom. <strong>Viewora</strong> gives your dealership the <span class="highlight">most immersive car showroom virtual tour in Kenya</span>, letting customers inspect every angle of every vehicle from anywhere—day or night.
+        Kenya's automotive market is shifting online. Buyers in Nairobi, Mombasa, and Eldoret increasingly research their next vehicle purchase on their phones before ever walking into a showroom. <strong>Viewora</strong> gives your dealership an <span class="highlight">immersive 360° car showroom tour</span>, letting customers inspect every angle of every vehicle from anywhere—day or night.
       </p>
       <p>
         Whether you sell new cars, certified pre-owned vehicles, or run a car hire business, a 360° virtual tour transforms your digital presence into a 24/7 showroom that never closes.
       </p>
 
-      <h3>Why Kenya's Leading Car Dealerships Choose Viewora</h3>
+      <h3>Why Car Dealerships Choose Viewora</h3>
       <ul>
         <li><strong>Sell to Upcountry Buyers:</strong> Reach customers in Nakuru, Kisumu, and Eldoret who can't easily travel to Nairobi's Industrial Area to browse. Let them do a full walkthrough online and arrive ready to sign.</li>
         <li><strong>Showcase Interior Details:</strong> Place interactive hotspots on dashboard features, leather upholstery, infotainment systems, and boot space—answer every question before it's asked.</li>
-        <li><strong>Build Trust Before the Test Drive:</strong> A buyer who has already done a virtual inspection is 3x more likely to show up for a physical test drive with serious intent.</li>
-        <li><strong>Differentiate from OLX and Jiji:</strong> While competitors post 3 flat photos, your listing has a full immersive walkthrough that commands premium pricing.</li>
+        <li><strong>Build Trust Before the Test Drive:</strong> A buyer who has already done a virtual inspection tends to arrive at the showroom with more serious intent.</li>
+        <li><strong>Differentiate from OLX and Jiji:</strong> While competitors post a handful of flat photos, your listing has a full immersive walkthrough that commands premium pricing.</li>
         <li><strong>Fleet and Car Hire Marketing:</strong> Allow corporate clients to inspect your entire rental fleet online and book instantly.</li>
       </ul>
 
@@ -57,9 +57,20 @@
 
       <h2>Start Your Free Automotive Virtual Tour Today</h2>
       <p>
-        Join Kenya's forward-thinking car dealerships that are already using Viewora to dominate their market. Attract serious buyers, reduce wasted site visits, and sell more cars—all with the power of immersive 360° technology built for Africa.
+        Give your dealership a 24/7 online showroom. Attract serious buyers, reduce wasted site visits, and sell more cars—all with immersive 360° technology.
       </p>
     </SeoContent>
+
+    <SeoFAQ
+      heading="Car Dealership Virtual Tours — FAQ"
+      :faqs="[
+        { q: 'How long does it take to get a virtual tour of my showroom?', a: 'Our capture team photographs every vehicle in 360° and delivers fully interactive tours within 48 hours of the shoot.' },
+        { q: 'Can I add a tour to individual vehicles, not just the whole showroom?', a: 'Yes. Each vehicle can have its own tour with hotspots on the dashboard, upholstery, infotainment system, and boot space, in addition to a full showroom walkthrough.' },
+        { q: 'Can buyers view the tour on WhatsApp?', a: 'Yes. Share a tour link on WhatsApp and it shows a full preview image before the buyer even taps through, which works well for the way most vehicle enquiries happen in Kenya.' },
+        { q: 'Do I need special equipment to photograph my vehicles?', a: 'Any 360° camera works. You can shoot it yourself, or book Viewora\'s capture service and have a professional photograph your showroom for you.' },
+        { q: 'Can I use this for a car hire or fleet business, not just sales?', a: 'Yes. Car hire companies use Viewora to give corporate clients a virtual fleet inspection before renting, which speeds up approvals.' },
+      ]"
+    />
 
     <SeoCTA />
   </div>

@@ -70,8 +70,11 @@
           <div class="product-text-col">
             <h2 class="mb-4" style="font-size: 2rem;">4. Share With Clients</h2>
             <p class="text-muted text-lg">
-              You will receive a unique, unbranded public link that you can share with potential buyers, renters, or guests. 
+              You will receive a unique, unbranded public link that you can share with potential buyers, renters, or guests.
               Embed it directly on your own website using our simple iframe code, or paste the link into WhatsApp, email, or your Airbnb listing.
+            </p>
+            <p class="text-muted text-lg" style="margin-top: 1rem;">
+              Don't have panoramas yet? Every listing also includes a <NuxtLink to="/photo-gallery-software" class="highlight">standard photo gallery</NuxtLink> — publish with ordinary photos today and add a 360° tour whenever you're ready.
             </p>
           </div>
         </div>
@@ -87,10 +90,16 @@
         </p>
         
         <div class="card" style="padding: 0; overflow: hidden; max-width: 1000px; margin: 0 auto; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
-          <div id="MMqLrAhy2oN" style="width: 100%; height: 500px; background: #000;">
-            <!-- CloudPano Embed -->
-          </div>
+          <iframe
+            src="https://app.viewora.software/embed/azari-suites"
+            style="width: 100%; height: 500px; border: none; display: block; background: #000;"
+            allowfullscreen
+            loading="lazy"
+            allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
+            title="Live Viewora Tour — Azari Suites"
+          ></iframe>
         </div>
+        <p class="mt-6"><NuxtLink to="/demo" class="highlight">See more real tours across different industries →</NuxtLink></p>
       </div>
     </section>
 
@@ -105,25 +114,6 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted } from 'vue'
-
-onMounted(() => {
-  const script = document.createElement('script')
-  script.src = 'https://app.cloudpano.com/public/shareScript.js'
-  script.async = true
-  script.type = 'text/javascript'
-  script.dataset.short = 'MMqLrAhy2oN'
-  script.dataset.path = 'tours'
-  script.dataset.isSelfHosted = 'false'
-  script.setAttribute('width', '100%')
-  script.setAttribute('height', '500px')
-  
-  const container = document.getElementById('MMqLrAhy2oN')
-  if (container) {
-    container.appendChild(script)
-  }
-})
-
 useSeoMeta({
   title: '360° Virtual Tour Features | Viewora',
   description: 'See how easy it is to upload panoramas, connect rooms, and publish stunning interactive 360° tours for any space without any coding skills.',

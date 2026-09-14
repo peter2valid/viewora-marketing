@@ -20,7 +20,41 @@
       
       <!-- Desktop Navigation -->
       <nav class="nav-links">
-        <NuxtLink to="/product" class="nav-link">Product</NuxtLink>
+        <div
+          class="nav-dropdown"
+          @mouseenter="isProductMenuOpen = true"
+          @mouseleave="isProductMenuOpen = false"
+        >
+          <button
+            class="nav-link nav-dropdown-trigger"
+            type="button"
+            :aria-expanded="isProductMenuOpen"
+            @click="isProductMenuOpen = !isProductMenuOpen"
+          >
+            Product
+            <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 0.25rem;"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </button>
+          <Transition name="dropdown-fade">
+            <div v-show="isProductMenuOpen" class="nav-dropdown-panel">
+              <NuxtLink to="/product" class="nav-dropdown-item" @click="isProductMenuOpen = false">
+                <strong>Product Overview</strong>
+                <span>How Viewora works, step by step</span>
+              </NuxtLink>
+              <NuxtLink to="/demo" class="nav-dropdown-item" @click="isProductMenuOpen = false">
+                <strong>Live Demo</strong>
+                <span>Explore real published tours</span>
+              </NuxtLink>
+              <NuxtLink to="/photo-gallery-software" class="nav-dropdown-item" @click="isProductMenuOpen = false">
+                <strong>Photo Galleries</strong>
+                <span>Publish photos without a 360° tour</span>
+              </NuxtLink>
+              <NuxtLink to="/360-virtual-tour-software" class="nav-dropdown-item" @click="isProductMenuOpen = false">
+                <strong>360° Tour Software</strong>
+                <span>Full feature breakdown</span>
+              </NuxtLink>
+            </div>
+          </Transition>
+        </div>
         <NuxtLink to="/360-photography-service-kenya" class="nav-link nav-link--capture">📸 Capture</NuxtLink>
         <NuxtLink to="/blog" class="nav-link">Blog</NuxtLink>
         <NuxtLink to="/pricing" class="nav-link">Pricing</NuxtLink>
@@ -44,6 +78,8 @@
       <div v-show="isMobileMenuOpen" class="mobile-menu-overlay" style="position: absolute; top: 100%; left: 0; right: 0; background: var(--paper); padding: 1.25rem; border-bottom: 1px solid var(--border); box-shadow: var(--shadow-float); z-index: 99; transform-origin: top;">
         <div style="display: flex; flex-direction: column; gap: 1rem;">
           <NuxtLink to="/product" class="nav-link" @click="isMobileMenuOpen = false">Product</NuxtLink>
+          <NuxtLink to="/demo" class="nav-link" style="padding-left: 1rem; font-size: 0.9rem;" @click="isMobileMenuOpen = false">Live Demo</NuxtLink>
+          <NuxtLink to="/photo-gallery-software" class="nav-link" style="padding-left: 1rem; font-size: 0.9rem;" @click="isMobileMenuOpen = false">Photo Galleries</NuxtLink>
           <NuxtLink to="/360-photography-service-kenya" class="nav-link" style="color: #25d366; font-weight: 700;" @click="isMobileMenuOpen = false">📸 Capture Service</NuxtLink>
           <NuxtLink to="/pricing" class="nav-link" @click="isMobileMenuOpen = false">Pricing</NuxtLink>
           <NuxtLink to="/about" class="nav-link" @click="isMobileMenuOpen = false">About</NuxtLink>
@@ -62,6 +98,7 @@ import { ref, watch, onMounted, onBeforeUnmount } from 'vue';
 import { useRoute, useNuxtApp } from '#imports';
 
 const isMobileMenuOpen = ref(false);
+const isProductMenuOpen = ref(false);
 const { $posthog } = useNuxtApp() as any
 
 function trackCta(button: string) {
@@ -86,6 +123,7 @@ if (process.client) {
 const route = useRoute();
 watch(() => route.path, () => {
   isMobileMenuOpen.value = false;
+  isProductMenuOpen.value = false;
   if (process.client) document.body.style.overflow = '';
 });
 
@@ -96,6 +134,67 @@ onBeforeUnmount(() => {
 </script>
 
 <style scoped>
+.nav-dropdown {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.nav-dropdown-trigger {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+}
+.nav-dropdown-panel {
+  position: absolute;
+  top: calc(100% + 0.75rem);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  box-shadow: var(--shadow-lift);
+  padding: 0.5rem;
+  min-width: 240px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+.nav-dropdown-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.15s ease;
+}
+.nav-dropdown-item:hover {
+  background: var(--paper-dim);
+}
+.nav-dropdown-item strong {
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+.nav-dropdown-item span {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+.dropdown-fade-enter-active,
+.dropdown-fade-leave-active {
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+.dropdown-fade-enter-from,
+.dropdown-fade-leave-to {
+  opacity: 0;
+  transform: translateX(-50%) translateY(-4px);
+}
 .nav-link--capture {
   color: #25d366 !important;
   font-weight: 700;

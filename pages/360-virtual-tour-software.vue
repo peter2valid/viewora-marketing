@@ -111,7 +111,7 @@
               <td>❌ No</td>
             </tr>
             <tr>
-              <td>Africa-optimised performance</td>
+              <td>Optimised for slow connections</td>
               <td class="highlight-col">✅ Yes</td>
               <td>❌ No</td>
               <td>❌ No</td>
@@ -206,7 +206,7 @@ useSeoMeta({
   title: '360° Virtual Tour Software — Create Professional Tours in Minutes | Viewora',
   description: 'Viewora is 360° virtual tour software for real estate, hotels, and businesses in Africa. Upload panoramas, add hotspots, publish in 10 minutes. Free to start.',
   ogTitle: '360° Virtual Tour Software | Viewora',
-  ogDescription: 'Create professional 360° virtual tours in under 10 minutes. Works with any 360° camera. Free to start. Built for Africa.',
+  ogDescription: 'Create professional 360° virtual tours in under 10 minutes. Works with any 360° camera, on any connection. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',
   ogUrl: 'https://viewora.software/360-virtual-tour-software',
   twitterCard: 'summary_large_image',

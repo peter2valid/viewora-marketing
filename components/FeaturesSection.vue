@@ -3,7 +3,7 @@
     <div class="container">
       <div class="section-header">
         <h2 class="section-title">Built for Any Space or Environment</h2>
-        <p class="section-subtitle">From real estate to luxury resorts and car showrooms — Viewora grows with your business.</p>
+        <p class="section-subtitle">From real estate to luxury resorts and car showrooms — Viewora grows with your business. Need photos, not a full tour? We host <NuxtLink to="/photo-gallery-software" style="color: inherit; text-decoration: underline;">photo galleries</NuxtLink> too.</p>
       </div>
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
