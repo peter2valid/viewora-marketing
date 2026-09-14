@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "Eldoret's property market is underestimated by Nairobi investors. With Viewora, I can give those investors a professional 360° tour and they invest without hesitation. I've closed three deals this month alone with buyers who never came to Eldoret." <br>— Real Estate Developer, Eldoret
+        "Eldoret's property market is underestimated by Nairobi investors. With Viewora, I can give those investors a professional 360° tour and they invest without hesitation, even with buyers who never physically visit Eldoret." <br>— Real Estate Developer, Eldoret
       </blockquote>
 
       <h2>Connecting Eldoret to the World Digitally</h2>

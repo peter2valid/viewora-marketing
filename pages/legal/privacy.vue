@@ -14,7 +14,7 @@
 
       <h2>1. Information We Collect</h2>
       <p>
-        To provide you with the best <span class="highlight">360 property marketing</span> experience, we collect basic registration data and information related to the property tours you create. This allows us to offer tailored insights and support for your <strong>property marketing in Africa</strong>.
+        To provide you with a great <span class="highlight">360 property marketing</span> experience, we collect basic registration data and information related to the property tours you create. This allows us to offer tailored insights and support for your <strong>property marketing in Africa</strong>.
       </p>
 
       <h2>2. How We Use Your Data</h2>

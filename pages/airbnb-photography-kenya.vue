@@ -32,7 +32,7 @@
       </ul>
 
       <blockquote>
-        "I had 5 vacant months before Viewora. After getting the 360° tour done, I got my first booking within 3 days of republishing. The tour lets guests really see the space." <br>— Airbnb Host, Westlands Nairobi
+        "I had months of vacancy before Viewora. After getting the 360° tour done, I got my first booking within days of republishing. The tour lets guests really see the space." <br>— Airbnb Host, Westlands Nairobi
       </blockquote>
 
       <h2>How to Rank Higher on Airbnb with Virtual Tours</h2>

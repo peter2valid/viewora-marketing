@@ -2,7 +2,7 @@
   <div>
     <SeoHero
       title="Gym Virtual Tours Kenya | Get More Members Online"
-      subtitle="Showcase your equipment, classes, and facilities with a 360° virtual gym tour. The most powerful membership marketing tool for fitness studios in Kenya."
+      subtitle="Showcase your equipment, classes, and facilities with a 360° virtual gym tour. A membership marketing tool built for fitness studios in Kenya."
       badge="Fitness Marketing"
     />
 
@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "We added a Viewora tour to our website and our monthly trial sign-ups doubled in 6 weeks. People call us already knowing the space—they're ready to commit." <br>— Owner, Premium Fitness Studio, Kilimani Nairobi
+        "We added a Viewora tour to our website and our monthly trial sign-ups increased noticeably within weeks. People call us already knowing the space—they're ready to commit." <br>— Owner, Fitness Studio, Kilimani Nairobi
       </blockquote>
 
       <h2>Virtual Gym Tours for Every Fitness Business in Kenya</h2>
@@ -52,12 +52,12 @@
 
       <h3>Mobile-First for Kenya's Market</h3>
       <p>
-        Over 85% of gym research in Kenya happens on mobile. Viewora's 360° gym tours are fully optimized for smartphone viewing on Safaricom and Airtel networks—fast-loading, smooth, and impressive on any screen size. Your virtual gym tour works as hard as your best salesperson, around the clock.
+        Most gym research in Kenya happens on mobile. Viewora's 360° gym tours are fully optimized for smartphone viewing on Safaricom and Airtel networks—fast-loading, smooth, and impressive on any screen size. Your virtual gym tour works as hard as your best salesperson, around the clock.
       </p>
 
       <h2>Grow Your Gym Membership in Kenya and East Africa</h2>
       <p>
-        The fitness market across Uganda, Tanzania, and Kenya is growing rapidly. Differentiate your fitness brand now with professional virtual tours and build a membership base that compounds over time. Start your free Viewora tour today and see why the best gyms in Kenya trust us for their digital marketing.
+        The fitness market across Uganda, Tanzania, and Kenya is growing rapidly. Differentiate your fitness brand now with professional virtual tours and build a membership base that compounds over time. Start your free Viewora tour today and give your gym a digital marketing edge.
       </p>
     </SeoContent>
 

@@ -64,7 +64,7 @@
       </p>
 
       <blockquote>
-        "I cover Kilimani, Kileleshwa, and Westlands. With Viewora I can tour a property, publish the link, and send it to my whole buyer list within an hour. I've had three offers this month from clients who bought without a physical viewing — they said the virtual tour was enough."<br>
+        "I cover Kilimani, Kileleshwa, and Westlands. With Viewora I can tour a property, publish the link, and send it to my whole buyer list within an hour. I've had offers from clients who bought without a physical viewing — they said the virtual tour was enough."<br>
         — Property agent, Nairobi
       </blockquote>
 

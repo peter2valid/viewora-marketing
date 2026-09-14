@@ -2,17 +2,17 @@
   <div>
     <SeoHero
       title="Hospital Virtual Tours Kenya | Build Patient Trust Online"
-      subtitle="Give patients and their families confidence with immersive 360° walkthroughs of your wards, theatres, and facilities. The leading healthcare virtual tour platform in Africa."
+      subtitle="Give patients and their families confidence with immersive 360° walkthroughs of your wards, theatres, and facilities. A healthcare virtual tour platform built for Africa."
       badge="Healthcare Innovation"
     />
 
     <SeoContent>
       <h2>Why Hospitals and Clinics in Kenya Need Virtual Tours</h2>
       <p>
-        Healthcare decisions are among the most important choices a person makes. Patients evaluating hospitals in Nairobi, clinics in Mombasa, or specialist centers in Kisumu want to know: Is this a clean, modern, safe environment? Will I or my loved one be well cared for here? <strong>Viewora</strong> answers those questions with the <span class="highlight">most trusted healthcare virtual tour in Kenya</span>—giving patients and families genuine confidence before they book an appointment or check in.
+        Healthcare decisions are among the most important choices a person makes. Patients evaluating hospitals in Nairobi, clinics in Mombasa, or specialist centers in Kisumu want to know: Is this a clean, modern, safe environment? Will I or my loved one be well cared for here? <strong>Viewora</strong> answers those questions with a <span class="highlight">healthcare virtual tour built for Kenya</span>—giving patients and families genuine confidence before they book an appointment or check in.
       </p>
       <p>
-        From Level 4 hospitals to private specialist clinics, a professional 360° walkthrough of your facility is the most powerful trust-building tool available in Kenya's competitive healthcare market.
+        From Level 4 hospitals to private specialist clinics, a professional 360° walkthrough of your facility is a powerful trust-building tool in Kenya's competitive healthcare market.
       </p>
 
       <h3>Benefits for Healthcare Facilities in Kenya</h3>
@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "We launched a Viewora virtual tour of our maternity ward and our antenatal registration from families outside Nairobi increased by 80% in the first quarter. Parents wanted to see where their baby would be born before committing." <br>— Marketing Director, Nairobi Private Hospital
+        "We launched a Viewora virtual tour of our maternity ward and our antenatal registration from families outside Nairobi increased noticeably in the first quarter. Parents wanted to see where their baby would be born before committing." <br>— Marketing Director, Nairobi Private Hospital
       </blockquote>
 
       <h2>Healthcare Virtual Tours for Every Medical Facility</h2>

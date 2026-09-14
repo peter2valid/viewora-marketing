@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>Transforming Kenya's Tourism Industry With Immersive Technology</h2>
       <p>
-        Kenya is one of the world's premier tourist destinations—from the sweeping plains of the Maasai Mara to the turquoise waters of the Kenyan coast at Diani and Watamu. Yet in a fiercely competitive global tourism market, the destinations that win are those that can transport potential visitors before they book. <strong>Viewora</strong> delivers the <span class="highlight">most powerful tourism virtual tours in Kenya</span>, turning website browsers into confirmed bookings.
+        Kenya is one of the world's premier tourist destinations—from the sweeping plains of the Maasai Mara to the turquoise waters of the Kenyan coast at Diani and Watamu. Yet in a fiercely competitive global tourism market, the destinations that win are those that can transport potential visitors before they book. <strong>Viewora</strong> delivers <span class="highlight">tourism virtual tours built for Kenya</span>, turning website browsers into confirmed bookings.
       </p>
       <p>
         When a traveler in London, New York, or Tokyo is choosing between a Kenya safari and a South Africa game drive, the destination with a 360° virtual experience wins. Every time.
@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "Since adding a Viewora 360° tour of our Mara camp, our direct booking rate increased by 55%. International travelers book confidently without needing to rely solely on OTA reviews." <br>— Camp Director, Premium Maasai Mara Safari Lodge
+        "Since adding a Viewora 360° tour of our Mara camp, our direct booking rate has increased noticeably. International travelers book confidently without needing to rely solely on OTA reviews." <br>— Camp Director, Maasai Mara Safari Lodge
       </blockquote>
 
       <h2>Virtual Tours for Every Tourism Sector in Kenya</h2>

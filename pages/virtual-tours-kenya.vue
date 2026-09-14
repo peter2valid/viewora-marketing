@@ -19,7 +19,7 @@
       <ul>
         <li><strong>Reach Global Buyers:</strong> Allow investors from the diaspora and around the world to walk through your properties from their phone.</li>
         <li><strong>Filter Out Tire-Kickers:</strong> Ensure that physical site visits are only requested by highly qualified, serious leads.</li>
-        <li><strong>Increase Booking Rates:</strong> Airbnb hosts in Nairobi and Diani report up to a 40% increase in bookings after implementing 360° tours.</li>
+        <li><strong>Increase Booking Rates:</strong> Airbnb hosts in Nairobi and Diani report a noticeable increase in bookings after implementing 360° tours.</li>
       </ul>
 
       <blockquote>

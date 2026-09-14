@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "We put a Viewora tour on every unit in our showroom. Our enquiry-to-sale conversion jumped by 40% because customers arriving for test drives had already decided. We just had to close." <br>— General Manager, Nairobi Premium Auto
+        "We put a Viewora tour on every unit in our showroom. Our enquiry-to-sale conversion has improved noticeably because customers arriving for test drives have already decided. We just have to close." <br>— General Manager, Nairobi Auto Dealership
       </blockquote>
 
       <h2>360° Car Showroom Tours That Convert</h2>
@@ -52,7 +52,7 @@
 
       <h3>Kenya's Competitive Automotive Market</h3>
       <p>
-        With hundreds of dealerships competing for the same buyers in Nairobi's Industrial Area and along Mombasa Road, differentiation is everything. <strong>Car dealership virtual tours</strong> are the most powerful tool available to stand out, command attention, and close deals faster in Kenya's fast-moving automotive market.
+        With hundreds of dealerships competing for the same buyers in Nairobi's Industrial Area and along Mombasa Road, differentiation is everything. <strong>Car dealership virtual tours</strong> are a powerful way to stand out, command attention, and close deals faster in Kenya's fast-moving automotive market.
       </p>
 
       <h2>Start Your Free Automotive Virtual Tour Today</h2>

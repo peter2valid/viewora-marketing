@@ -49,7 +49,7 @@
 
       <h2>Why Mombasa Properties Need Virtual Tours</h2>
       <p>
-        Over 70% of international visitors to Kenya's coast research accommodation online before booking. A professional 360° virtual tour lets your hotel, villa, or restaurant appear in Google search results, on Airbnb, and on your own website — with a fully immersive preview that photos alone can't match.
+        Most international visitors to Kenya's coast research accommodation online before booking. A professional 360° virtual tour lets your hotel, villa, or restaurant appear in Google search results, on Airbnb, and on your own website — with a fully immersive preview that photos alone can't match.
       </p>
       <p>
         Viewora is a <strong>virtual tour platform built for coastal Kenya properties</strong>. Our Mombasa photographers understand the coastal hospitality market and are trained to capture the unique textures, light, and atmosphere of coastal spaces.

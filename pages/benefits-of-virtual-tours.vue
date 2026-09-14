@@ -25,7 +25,7 @@
 
       <h3>Key Stat</h3>
       <p>
-        Properties listed with a virtual tour receive <strong>87% more views</strong> than those with standard photos alone, and generate significantly more qualified enquiries.
+        Properties listed with a virtual tour tend to receive <strong>noticeably more views</strong> than those with standard photos alone, and generate more qualified enquiries.
       </p>
 
       <h2>2. Reach Global and Diaspora Buyers</h2>

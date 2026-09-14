@@ -28,7 +28,7 @@
 
       <h2>Building Trust in the African Property Market</h2>
       <p>
-        Trust is the key to scaling any property business in Africa. Viewora is the <span class="highlight">most trusted virtual tour software for African agents</span>, providing transparency and credibility that images alone cannot deliver. 
+        Trust is the key to scaling any property business in Africa. Viewora is <span class="highlight">virtual tour software built for African agents</span>, providing transparency and credibility that images alone cannot deliver.
       </p>
 
       <h3>Leading the PropTech Revolution in Africa</h3>

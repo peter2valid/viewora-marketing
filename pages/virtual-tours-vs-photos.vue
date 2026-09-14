@@ -39,7 +39,7 @@
       </p>
 
       <blockquote>
-        "We had constant negative feedback from guests who felt the photos oversold the property. We switched to Viewora virtual tours. In 6 months, our average review score went from 3.8 to 4.6 stars." <br>— Airbnb Superhost, Nairobi
+        "We had constant negative feedback from guests who felt the photos oversold the property. We switched to Viewora virtual tours, and our average review score has improved noticeably since." <br>— Airbnb Superhost, Nairobi
       </blockquote>
 
       <h2>3. Reach: Virtual Tours Travel, Photos Stay Put</h2>

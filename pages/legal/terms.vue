@@ -35,7 +35,7 @@
 
       <h2>3. Subscription and Payments</h2>
       <p>
-        Viewora offers various plans tailored to your needs—from solo Airbnb hosts to large real estate firms. Fees are transparent and designed to provide the best value in <strong>virtual tour software in Kenya</strong>. 
+        Viewora offers various plans tailored to your needs—from solo Airbnb hosts to large real estate firms. Fees are transparent and designed to provide strong value in <strong>virtual tour software in Kenya</strong>.
       </p>
 
       <h2>4. Termination</h2>

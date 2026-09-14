@@ -120,7 +120,7 @@
       </p>
 
       <blockquote>
-        "We were paying for Matterport but half our clients couldn't even open the tours on their phones. We switched to Viewora and now every single client can view the tour on WhatsApp. Our viewing-to-offer ratio doubled."<br>
+        "We were paying for Matterport but many of our clients couldn't even open the tours on their phones. We switched to Viewora and now clients can view the tour right in WhatsApp. Our viewing-to-offer ratio has improved noticeably."<br>
         — Property Marketing Agency, Nairobi
       </blockquote>
 

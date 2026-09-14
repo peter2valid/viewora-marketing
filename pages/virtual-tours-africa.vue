@@ -7,7 +7,7 @@
     />
 
     <SeoContent>
-      <h2>Africa's Leading 360° Virtual Tour Platform</h2>
+      <h2>A 360° Virtual Tour Platform Built for Africa</h2>
       <p>
         Africa is the world's fastest-growing continent—economically, demographically, and digitally. Its real estate, tourism, and hospitality sectors are attracting unprecedented levels of international interest and investment. Yet African businesses have historically been underserved by the premium digital marketing tools available to their counterparts in Europe and North America. <strong>Viewora</strong> is changing that.
       </p>
@@ -17,7 +17,7 @@
 
       <h3>Key African Markets Served by Viewora</h3>
       <ul>
-        <li><strong>Kenya:</strong> East Africa's premier digital economy and Viewora's home market. The most advanced virtual tour ecosystem on the continent, serving <NuxtLink to="/virtual-tours-kenya" class="highlight">every industry in Kenya</NuxtLink> from Nairobi to Mombasa.</li>
+        <li><strong>Kenya:</strong> A leading East African digital economy and Viewora's home market, serving <NuxtLink to="/virtual-tours-kenya" class="highlight">every industry in Kenya</NuxtLink> from Nairobi to Mombasa.</li>
         <li><strong>Nigeria:</strong> West Africa's largest economy has one of the continent's most dynamic real estate markets—Lagos luxury apartments, Abuja commercial developments, and a growing Airbnb ecosystem all benefit from immersive virtual marketing.</li>
         <li><strong>South Africa:</strong> The Cape Town and Johannesburg property markets are among the most sophisticated in Africa. Virtual tours for South African real estate, wine estates, and luxury safari lodges command premium global audiences.</li>
         <li><strong>Ghana:</strong> Accra's expanding real estate market, driven by diaspora investment and a growing tech economy, is an ideal environment for virtual property marketing.</li>

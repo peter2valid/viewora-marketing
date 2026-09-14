@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>The Game-Changer for Airbnb Marketing in Kenya</h2>
       <p>
-        In the crowded Kenyan Airbnb market, trust is your most valuable currency. Potential guests want to be 100% sure that what they see is what they get. <strong>Viewora</strong> provides the <span class="highlight">best Airbnb virtual tours in Kenya</span>, giving your guests a transparent, immersive look at your space before they book.
+        In the crowded Kenyan Airbnb market, trust is your most valuable currency. Potential guests want to be sure that what they see is what they get. <strong>Viewora</strong> provides <span class="highlight">Airbnb virtual tours built for Kenya</span>, giving your guests a transparent, immersive look at your space before they book.
       </p>
 
       <h3>Why Kenyan Airbnb Hosts Need 360° Tours</h3>
@@ -23,7 +23,7 @@
       </ul>
 
       <blockquote>
-        "Since adding a Viewora 360° tour link to my Airbnb bio in Nairobi, my occupancy rate has jumped from 60% to over 85%. Guests tell me it was the reason they chose my place." <br>— Superhost in Kilimani, Nairobi
+        "Since adding a Viewora 360° tour link to my Airbnb bio in Nairobi, my occupancy rate has improved noticeably. Guests tell me it was the reason they chose my place." <br>— Superhost in Kilimani, Nairobi
       </blockquote>
 
       <h2>Dominating Airbnb SEO in Kenya</h2>
@@ -71,7 +71,7 @@ useHead({
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
         "name": "Viewora Airbnb",
-        "description": "Premier marketing software for Airbnb hosts in Kenya and Africa."
+        "description": "Marketing software for Airbnb hosts in Kenya and Africa."
       })
     }
   ]

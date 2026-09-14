@@ -146,7 +146,7 @@
       </ul>
 
       <blockquote>
-        "I started on the free plan to test it out. My first tour got three serious enquiries in two days. I upgraded that week."<br>
+        "I started on the free plan to test it out. My first tour got serious enquiries within days. I upgraded that week."<br>
         — Airbnb host, Mombasa
       </blockquote>
 

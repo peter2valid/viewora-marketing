@@ -9,7 +9,7 @@
     <SeoContent>
       <h2>Transform School Admissions with Virtual Campus Tours in Kenya</h2>
       <p>
-        Every parent choosing a school for their child faces the same challenge: how do you evaluate a school you haven't visited? In Kenya's competitive education sector—from top Nairobi academies to universities in Eldoret and Kisumu—<strong>Viewora</strong> delivers the <span class="highlight">most powerful school virtual tour solution in East Africa</span>, letting you showcase your institution to prospective students and parents 24/7.
+        Every parent choosing a school for their child faces the same challenge: how do you evaluate a school you haven't visited? In Kenya's competitive education sector—from top Nairobi academies to universities in Eldoret and Kisumu—<strong>Viewora</strong> delivers a <span class="highlight">school virtual tour solution built for East Africa</span>, letting you showcase your institution to prospective students and parents 24/7.
       </p>
       <p>
         A virtual campus walkthrough builds emotional connection and trust before the first enquiry. When parents can explore your labs, sports facilities, boarding houses, and classrooms from their phone, your school stands apart from every competitor still relying on printed brochures.
@@ -25,7 +25,7 @@
       </ul>
 
       <blockquote>
-        "Since adding a Viewora virtual tour to our admissions page, our form one intake enquiries from outside Nairobi increased by 65%. Parents from as far as Turkana were making informed decisions about our school." <br>— Director of Admissions, Leading Nairobi Academy
+        "Since adding a Viewora virtual tour to our admissions page, our form one intake enquiries from outside Nairobi have increased noticeably. Parents from as far as Turkana were making informed decisions about our school." <br>— Director of Admissions, Nairobi Academy
       </blockquote>
 
       <h2>Virtual Tours for Every Education Institution in Kenya</h2>

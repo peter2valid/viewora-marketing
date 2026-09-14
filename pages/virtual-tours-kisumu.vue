@@ -14,7 +14,7 @@
 
       <h3>Targeting the Western Kenya Property Market</h3>
       <p>
-        From Milimani to Riat Hills, Kisumu's real estate options are expanding. Our platform helps you showcase these developments with unmatched detail.
+        From Milimani to Riat Hills, Kisumu's real estate options are expanding. Our platform helps you showcase these developments in immersive detail.
       </p>
       <ul>
         <li><strong>Milimani and Tom Mboya:</strong> Premium 360° tours for high-end residential marketing in Kisumu.</li>

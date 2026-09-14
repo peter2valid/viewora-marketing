@@ -23,7 +23,7 @@
       </ul>
 
       <blockquote>
-        "Viewora has halved our site visit turnaround time. We now only take serious, pre-qualified leads for physical viewings, because they've already walked through the space virtually." <br>— Managing Director, Nairobi Luxury Real Estate
+        "Viewora has noticeably cut our site visit turnaround time. We now only take serious, pre-qualified leads for physical viewings, because they've already walked through the space virtually." <br>— Managing Director, Nairobi Real Estate
       </blockquote>
 
       <h2>Comprehensive Solutions for Every Property Professional</h2>
@@ -56,7 +56,7 @@ definePageMeta({
   layout: 'default'
 })
 const faqs = [
-  { q: 'How do virtual tours help sell property faster in Kenya?', a: 'Virtual tours pre-qualify buyers by letting them inspect every room remotely. Only serious, interested buyers request physical viewings—reducing wasted site visits by up to 60% and compressing the time-to-sale by 30–50%.' },
+  { q: 'How do virtual tours help sell property faster in Kenya?', a: 'Virtual tours pre-qualify buyers by letting them inspect every room remotely. Only serious, interested buyers request physical viewings—reducing wasted site visits and helping compress the time-to-sale.' },
   { q: 'Can I use Viewora to market off-plan properties in Kenya?', a: 'Yes. Many Kenyan developers use Viewora to create virtual show units for off-plan developments, allowing diaspora and out-of-town investors to visualize and purchase units before construction is complete.' },
   { q: 'Do virtual tours work for both residential and commercial property in Kenya?', a: 'Absolutely. Viewora is used for apartments, townhouses, villas, office blocks, retail spaces, warehouses, and mixed-use developments across Nairobi, Mombasa, Kisumu, Nakuru, and Eldoret.' },
   { q: 'How does Viewora help reach diaspora property buyers?', a: 'Diaspora buyers in the UK, USA, UAE, and Canada use Viewora tours to conduct full property inspections remotely. A shareable tour link works on any device, at any time, from anywhere in the world.' },

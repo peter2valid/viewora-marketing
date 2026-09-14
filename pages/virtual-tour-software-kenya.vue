@@ -19,7 +19,7 @@
         If you are a real estate agent, Airbnb host, hotel, or business with multiple properties to showcase, <strong>virtual tour software pays for itself within the first two shoots</strong>. A KSh 45,000 360° camera plus Viewora replaces a KSh 25,000/property agency fee within two tours.
       </p>
 
-      <h2>Why Viewora Is the Best Virtual Tour Software for Kenya</h2>
+      <h2>Why Choose Viewora for Virtual Tour Software in Kenya</h2>
 
       <h3>Built for Kenyan Internet Speeds</h3>
       <p>
@@ -82,7 +82,7 @@
       </p>
 
       <blockquote>
-        "I photograph a property in the morning and have the tour live on WhatsApp by afternoon. My clients love it. I've closed three deals this month from people who decided to buy after the virtual tour — without a physical viewing."<br>
+        "I photograph a property in the morning and have the tour live on WhatsApp by afternoon. My clients love it. I've closed deals from people who decided to buy after the virtual tour — without a physical viewing."<br>
         — Real estate agent, Westlands, Nairobi
       </blockquote>
 
