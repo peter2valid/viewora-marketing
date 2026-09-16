@@ -44,6 +44,8 @@
             <li><NuxtLink to="/what-is-a-virtual-tour">What Is a Virtual Tour?</NuxtLink></li>
             <li><NuxtLink to="/benefits-of-virtual-tours">Benefits of Virtual Tours</NuxtLink></li>
             <li><NuxtLink to="/virtual-tours-vs-photos">Tours vs Photos</NuxtLink></li>
+            <li><NuxtLink to="/matterport-alternative">Matterport Alternative</NuxtLink></li>
+            <li><NuxtLink to="/free-virtual-tour-software">Free Virtual Tour Software</NuxtLink></li>
             <li><NuxtLink to="/glossary">Glossary</NuxtLink></li>
           </ul>
         </div>
@@ -60,6 +62,7 @@
             <li><NuxtLink to="/gym-virtual-tours-kenya">Gyms & Fitness</NuxtLink></li>
             <li><NuxtLink to="/hospital-virtual-tours-kenya">Hospitals & Clinics</NuxtLink></li>
             <li><NuxtLink to="/tourism-virtual-tours-kenya">Tourism & Safari</NuxtLink></li>
+            <li><NuxtLink to="/virtual-tour-photographer-kenya">Photographers</NuxtLink></li>
           </ul>
         </div>
 

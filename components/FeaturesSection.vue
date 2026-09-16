@@ -8,7 +8,7 @@
 
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
         <!-- Real Estate -->
-        <div class="card text-center">
+        <NuxtLink to="/real-estate-virtual-tours-kenya" class="card text-center audience-card">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
             <NuxtImg src="/images/home/plain land.png" width="600" height="340" format="webp" loading="lazy" alt="Real Estate Tours on Mobile" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
@@ -19,10 +19,10 @@
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Shareable link for listings</li>
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Embed on your website</li>
           </ul>
-        </div>
+        </NuxtLink>
 
         <!-- Space Developers -->
-        <div class="card text-center" style="border: 2px solid var(--primary);">
+        <NuxtLink to="/hotel-virtual-tours-kenya" class="card text-center audience-card" style="border: 2px solid var(--primary);">
           <div style="font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--primary); margin-bottom: 0.75rem;">Most Popular</div>
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
             <NuxtImg src="/images/home/dollhouse-commercial.png" width="492" height="277" format="webp" loading="lazy" alt="3D Dollhouse View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
@@ -34,10 +34,10 @@
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Gyroscope support on mobile</li>
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Instant public link</li>
           </ul>
-        </div>
+        </NuxtLink>
 
         <!-- Property Developers -->
-        <div class="card text-center">
+        <NuxtLink to="/virtual-tours-kenya" class="card text-center audience-card">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
             <NuxtImg src="/images/home/floorplan-hotspots.png" width="437" height="277" format="webp" loading="lazy" alt="Hotspot Floorplan Navigation" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
@@ -48,10 +48,10 @@
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> 8K high-resolution support</li>
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Multi-unit project management</li>
           </ul>
-        </div>
+        </NuxtLink>
 
         <!-- Car Dealerships -->
-        <div class="card text-center">
+        <NuxtLink to="/car-dealership-virtual-tours-kenya" class="card text-center audience-card">
           <div style="background: var(--paper-dim); padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; aspect-ratio: 4/3;">
             <NuxtImg src="/images/home/car dealership.png" width="600" height="340" format="webp" loading="lazy" alt="Car Dealership 360 View" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 0.25rem; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.05));" />
           </div>
@@ -62,7 +62,7 @@
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Exterior walkarounds</li>
             <li style="display: flex; gap: 0.5rem; align-items: center; font-size: 0.9rem;"><span style="color: var(--primary);">✓</span> Embed in online showrooms</li>
           </ul>
-        </div>
+        </NuxtLink>
       </div>
 
       <!-- Capture CTA block -->
@@ -104,6 +104,12 @@ const captureDepts = [
 </script>
 
 <style scoped>
+.audience-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
 .capture-block {
   margin-top: 3rem; padding: 2.5rem; border-radius: 1.5rem;
   background: linear-gradient(135deg, rgba(37,211,102,0.06) 0%, rgba(59,130,246,0.06) 100%);

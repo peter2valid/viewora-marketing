@@ -168,43 +168,50 @@
 
     <!-- Who It's For -->
     <section class="section">
-      <div class="container grid-2" style="align-items: center;">
-        <div style="position: relative;">
+      <div class="container grid-2 who-its-for" style="align-items: center;">
+        <div class="who-its-for__art" style="position: relative; aspect-ratio: 800 / 376; max-width: 480px; margin: 0 auto; width: 100%;">
           <!-- blueprint subtle backdrop -->
           <div style="position: absolute; inset: -2rem; background: radial-gradient(circle, var(--accent-dim) 0%, transparent 70%); z-index: 0; pointer-events: none;"></div>
-          <NuxtImg src="/images/home/cross-platform-hero.png" width="800" height="376" format="webp" loading="lazy" alt="Interactive 360 tour example" class="img-fluid" style="width: 100%; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.1));" />
+          <NuxtImg src="/images/home/cross-platform-hero.png" width="800" height="376" format="webp" loading="lazy" alt="Viewora virtual tour viewed on laptop, tablet, and phone" style="position: relative; z-index: 1; display: block; width: 100%; height: 100%; object-fit: contain; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.1));" />
         </div>
         <div>
           <h2 class="section-title">Built for Sales Professionals</h2>
           <div style="display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem;">
-            <div style="display: flex; gap: 1rem;">
+            <NuxtLink to="/airbnb-virtual-tours-kenya" style="display: flex; gap: 1rem; color: inherit; text-decoration: none;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></div>
               <div>
                 <h3 class="font-bold mb-1">Airbnb Hosts</h3>
                 <p class="text-muted text-sm">Boost listing credibility and reduce guest queries about layout.</p>
               </div>
-            </div>
-            <div style="display: flex; gap: 1rem;">
+            </NuxtLink>
+            <NuxtLink to="/real-estate-virtual-tours-kenya" style="display: flex; gap: 1rem; color: inherit; text-decoration: none;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg></div>
               <div>
                 <h3 class="font-bold mb-1">Real Estate Agents</h3>
                 <p class="text-muted text-sm">Pre-qualify buyers and save time on unnecessary physical viewings.</p>
               </div>
-            </div>
-            <div style="display: flex; gap: 1rem;">
+            </NuxtLink>
+            <NuxtLink to="/virtual-tours-kenya" style="display: flex; gap: 1rem; color: inherit; text-decoration: none;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg></div>
               <div>
                 <h3 class="font-bold mb-1">Property Developers</h3>
                 <p class="text-muted text-sm">Showcase show houses and model layouts to off-plan investors.</p>
               </div>
-            </div>
-            <div style="display: flex; gap: 1rem;">
+            </NuxtLink>
+            <NuxtLink to="/virtual-tour-photographer-kenya" style="display: flex; gap: 1rem; color: inherit; text-decoration: none;">
+              <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M4 20l1.5-4h13L20 20"></path><path d="M6 16V9a2 2 0 0 1 2-2h.5l1-1.5h5l1 1.5H16a2 2 0 0 1 2 2v7"></path></svg></div>
+              <div>
+                <h3 class="font-bold mb-1">Photographers</h3>
+                <p class="text-muted text-sm">Offer 360° tours as a service to your clients, without building your own viewer.</p>
+              </div>
+            </NuxtLink>
+            <NuxtLink to="/car-dealership-virtual-tours-kenya" style="display: flex; gap: 1rem; color: inherit; text-decoration: none;">
               <div style="color: var(--primary); flex-shrink: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="3"></circle><line x1="12" y1="2" x2="12" y2="9"></line><line x1="22" y1="12" x2="15" y2="12"></line><line x1="12" y1="22" x2="12" y2="15"></line><line x1="2" y1="12" x2="9" y2="12"></line></svg></div>
               <div>
                 <h3 class="font-bold mb-1">Car Dealerships</h3>
                 <p class="text-muted text-sm">Sell cars faster by putting buyers behind the wheel from their phone.</p>
               </div>
-            </div>
+            </NuxtLink>
           </div>
         </div>
       </div>
@@ -263,7 +270,7 @@
 import { ref, onMounted } from 'vue';
 useSeoMeta({
   title: '360° Virtual Tour Software — Free to Start | Viewora',
-  description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and retail businesses worldwide.',
+  description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and photographers offering tours as a service — worldwide.',
   ogTitle: 'Viewora — Immersive 360° Space Showcase Platform',
   ogDescription: 'Upload panoramas, connect rooms and publish stunning virtual tours in minutes. Free to start. No credit card required.',
   ogUrl: 'https://viewora.software',
@@ -338,7 +345,7 @@ useHead({
         operatingSystem: 'Web, iOS, Android',
         url: 'https://viewora.software',
         offers: buildPricingOffers(),
-        description: 'Create and share professional 360° virtual tours and photo galleries for real estate, hotels, Airbnb, schools, gyms, car dealerships, and tourism businesses worldwide.'
+        description: 'Create and share professional 360° virtual tours and photo galleries for real estate, hotels, Airbnb, schools, gyms, car dealerships, photographers, and tourism businesses worldwide.'
       })
     },
     {
@@ -381,3 +388,15 @@ onMounted(() => {
   }
 })
 </script>
+
+<style scoped>
+/* On mobile, .grid-2 stacks in DOM order — read the heading before the
+   illustration instead of seeing an image before knowing what it's for. */
+@media (max-width: 767px) {
+  .who-its-for__art {
+    order: 2;
+    margin-top: 2.5rem;
+    max-width: 340px;
+  }
+}
+</style>
