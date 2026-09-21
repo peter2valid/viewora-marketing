@@ -81,11 +81,6 @@
         Compare this to hiring a virtual tour agency at KSh 15,000–50,000 per property — Viewora pays for itself within the first 1–2 tours for any agent managing multiple listings.
       </p>
 
-      <blockquote>
-        "I photograph a property in the morning and have the tour live on WhatsApp by afternoon. My clients love it. I've closed deals from people who decided to buy after the virtual tour — without a physical viewing."<br>
-        — Real estate agent, Westlands, Nairobi
-      </blockquote>
-
       <h2>Get Started with Virtual Tour Software in Kenya</h2>
       <p>
         Sign up free at <a href="https://app.viewora.software/register" class="highlight">app.viewora.software</a>. No credit card required. Your first tour can be live within 15 minutes of uploading your panoramas.
@@ -135,8 +130,8 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tour Software in Kenya | Viewora',
-  description: 'Viewora is virtual tour software built for Kenya. Create professional 360° property tours yourself — no agency fees. Works great on mobile data. Free to start.',
+  title: 'Virtual Tour Software in Kenya',
+  description: 'Viewora is virtual tour software built for Kenya. Create professional 360° property tours yourself — no agency fees. Free to start.',
   ogTitle: 'Virtual Tour Software Kenya | Viewora',
   ogDescription: 'Create professional 360° virtual tours in Kenya without hiring an agency. Optimised for WhatsApp sharing and Kenyan mobile data. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',

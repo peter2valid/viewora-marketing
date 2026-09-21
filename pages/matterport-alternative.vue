@@ -2,17 +2,17 @@
   <div>
     <SeoHero
       title="The Affordable Matterport Alternative"
-      subtitle="Matterport costs $65/month and requires a $4,000 proprietary camera. Viewora works with any 360° camera you already own — and starts free. Same professional results. A fraction of the cost."
+      subtitle="Matterport costs $65/month and requires a $5,995 proprietary camera. Viewora works with any 360° camera you already own — and starts free. Same professional results. A fraction of the cost."
       badge="Matterport Alternative"
     />
 
     <SeoContent>
       <h2>Why Professionals Are Switching from Matterport to Viewora</h2>
       <p>
-        Matterport pioneered 3D virtual tours and deserves credit for it. But in 2026, paying $65–$600/month plus $4,000+ for a dedicated 3D camera is hard to justify — especially when a standard 360° camera and Viewora delivers professional results at a tiny fraction of the cost.
+        Matterport pioneered 3D virtual tours and deserves credit for it. But in 2026, paying $65–$600/month plus $5,995 for a dedicated 3D camera is hard to justify — especially when a standard 360° camera and Viewora delivers professional results at a tiny fraction of the cost.
       </p>
       <p>
-        Viewora is a <strong>Matterport alternative built for real estate professionals, hotels, and businesses worldwide</strong>. Here is an honest breakdown of how the two platforms compare.
+        Viewora is a <strong>Matterport alternative built for real estate professionals, hotels, and businesses worldwide</strong> — with 8K resolution support, AI-assisted hotspot placement, built-in lead capture, and WhatsApp-optimized sharing built in from day one. Here is an honest breakdown of how the two platforms compare.
       </p>
 
       <h2>Matterport vs Viewora: Side-by-Side Comparison</h2>
@@ -34,7 +34,7 @@
             </tr>
             <tr>
               <td>Camera required</td>
-              <td>Matterport Pro3 ($4,000+)</td>
+              <td>Matterport Pro3 ($5,995)</td>
               <td class="highlight-col">Any 360° camera from $300</td>
             </tr>
             <tr>
@@ -119,11 +119,6 @@
         You do not need to buy a Matterport camera. A Ricoh Theta Z1, Insta360 X4, or even a mid-range 360° camera from around $350 produces tours that look professional on Viewora. Many agents use a single camera shared across their whole team.
       </p>
 
-      <blockquote>
-        "We were paying for Matterport but many of our clients couldn't even open the tours on their phones. We switched to Viewora and now clients can view the tour right in WhatsApp. Our viewing-to-offer ratio has improved noticeably."<br>
-        — Property Marketing Agency, Nairobi
-      </blockquote>
-
       <h2>How to Migrate from Matterport to Viewora</h2>
       <ol>
         <li><strong>Export your panoramas from Matterport</strong> — Matterport allows you to download the equirectangular JPEGs for each scan position. Use these directly in Viewora.</li>
@@ -172,8 +167,8 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Matterport Alternative — Better Value, Any Camera | Viewora',
-  description: 'Looking for a Matterport alternative? Viewora creates professional 360° tours with any camera. No $4,000 scanner, no $65/month subscription. Free to start.',
+  title: 'Matterport Alternative — Better Value, Any Camera',
+  description: 'Looking for a Matterport alternative? Viewora creates professional 360° tours with any camera. No $5,995 scanner, no $65/month subscription. Free to start.',
   ogTitle: 'Matterport Alternative | Viewora Virtual Tours',
   ogDescription: 'Professional 360° virtual tours without the Matterport price tag. Works with any 360° camera, anywhere in the world. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',

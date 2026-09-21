@@ -144,7 +144,7 @@ const submitForm = async () => {
 };
 
 useSeoMeta({
-  title: 'Get in Touch',
+  title: 'Get in Touch — Sales & Support',
   description: 'Get in touch with Viewora. Reach our sales or support team via phone, email, WhatsApp, or the contact form. Based in Nairobi, Kenya.',
   ogTitle: 'Contact Viewora | Virtual Tour Support & Sales',
   ogDescription: 'Have questions about virtual tours? Talk to the Viewora team via phone, email or WhatsApp. Mon–Fri 9am–6pm EAT.',

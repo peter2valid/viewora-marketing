@@ -35,10 +35,6 @@
         <li><strong>Estate / Apartment Block (from KES 40,000)</strong> — development marketing</li>
       </ul>
 
-      <blockquote>
-        "We switched to Viewora for all our Nairobi listings. Virtual tours get noticeably more engagement than photos alone. It pays for itself on the first deal." <br>— Agency Director, Nairobi Real Estate
-      </blockquote>
-
       <h2>Why Kenyan Real Estate Agents Use 360° Photography</h2>
       <ul>
         <li><strong>Diaspora buyers</strong> — Kenyans abroad can do a full property walkthrough before flying in</li>
@@ -65,7 +61,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Real Estate Photography Kenya | Viewora',
+  title: 'Real Estate Photography Kenya',
   description: 'Professional real estate photography and 360° virtual tours for Kenya properties. From KES 5,000. Nairobi, Mombasa, Kisumu. Delivered in 48hrs.',
   robots: 'index, follow',
   keywords: 'real estate photography Kenya, property photographer Kenya, real estate photographer Nairobi, 360 real estate photography Kenya, property photography Nairobi, virtual tour real estate Kenya',

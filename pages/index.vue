@@ -10,7 +10,7 @@
             Showcase Any Space with <span class="highlight">Interactive 360° Tours</span>
           </h1>
           <p class="hero-subtitle">
-            Upload panoramas, connect rooms, and build trust before they visit. Perfect for real estate, hospitality, showrooms, and events.
+            Upload panoramas, connect rooms, and build trust before they visit — free to start, with premium results at a fraction of the cost of platforms like Matterport. Perfect for real estate, hospitality, showrooms, and events.
           </p>
           <div class="hero-actions">
             <NuxtLink to="https://app.viewora.software/register" class="btn btn-primary btn-lg btn-float">Start Free — No Card Needed</NuxtLink>
@@ -269,8 +269,8 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 useSeoMeta({
-  title: '360° Virtual Tour Software — Free to Start | Viewora',
-  description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and photographers offering tours as a service — worldwide.',
+  title: '360° Virtual Tour Software — Free to Start',
+  description: 'Create immersive 360° virtual tours and photo galleries for real estate, hotels, Airbnb, car dealerships, and tour photographers — worldwide.',
   ogTitle: 'Viewora — Immersive 360° Space Showcase Platform',
   ogDescription: 'Upload panoramas, connect rooms and publish stunning virtual tours in minutes. Free to start. No credit card required.',
   ogUrl: 'https://viewora.software',

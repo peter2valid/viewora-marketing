@@ -22,10 +22,6 @@
         <li><strong>Interactive Property Details:</strong> Add hotspots with prices, floor plans, and agent contact info directly into the tour.</li>
       </ul>
 
-      <blockquote>
-        "Viewora has noticeably cut our site visit turnaround time. We now only take serious, pre-qualified leads for physical viewings, because they've already walked through the space virtually." <br>— Managing Director, Nairobi Real Estate
-      </blockquote>
-
       <h2>Comprehensive Solutions for Every Property Professional</h2>
       <p>
         Whether you are a solo agent or a large-scale developer, Viewora provides the tools to build a powerful online presence. Our software is optimized for <span class="highlight">real estate marketing in Kenya</span>, ensuring your properties look their best on every device.
@@ -64,7 +60,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Real Estate Virtual Tours Kenya | Viewora',
+  title: 'Real Estate Virtual Tours Kenya',
   description: 'Boost your real estate sales in Kenya with Viewora. Create immersive 360° virtual tours that attract international and local buyers and renters instantly.',
   ogTitle: 'Real Estate Virtual Tours Kenya | Sell Units Faster',
   ogDescription: 'The professional choice for Kenyan real estate agencies. Immersive tours that close deals.',

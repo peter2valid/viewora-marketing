@@ -115,7 +115,7 @@ const industries = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tour Software FAQ | Viewora',
+  title: 'Virtual Tour Software FAQ',
   description: 'Frequently asked questions about Viewora\'s 360° virtual tour and photo gallery platform. Answers on pricing, how it works, mobile support, and more.',
   ogTitle: 'Virtual Tour FAQ | Everything You Need to Know | Viewora',
   ogDescription: 'Every question about creating and sharing virtual tours answered. Pricing, features, industries, technical requirements, and more.',

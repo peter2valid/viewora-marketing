@@ -63,11 +63,6 @@
         Virtual tours embedded on a hotel's website or shared directly via email and WhatsApp increase direct booking confidence — guests who can virtually walk through a room before booking are less likely to cancel or leave disappointed reviews.
       </p>
 
-      <blockquote>
-        "I cover Kilimani, Kileleshwa, and Westlands. With Viewora I can tour a property, publish the link, and send it to my whole buyer list within an hour. I've had offers from clients who bought without a physical viewing — they said the virtual tour was enough."<br>
-        — Property agent, Nairobi
-      </blockquote>
-
       <h2>Start Your Nairobi Virtual Tour Today</h2>
       <p>
         Viewora is free to start — no credit card required. Create your account, upload your panoramas, and publish your first Nairobi virtual tour in minutes. See the <NuxtLink to="/virtual-tour-software-kenya" class="highlight">full Kenya guide</NuxtLink> or <NuxtLink to="/pricing" class="highlight">compare plans</NuxtLink>.
@@ -110,8 +105,8 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tours Nairobi | Viewora',
-  description: 'Create professional 360° virtual tours for Nairobi properties. Works great on WhatsApp and mobile data. Used by agents in Westlands, Kilimani, Karen. Free to start.',
+  title: 'Virtual Tours Nairobi',
+  description: 'Create professional 360° virtual tours for Nairobi properties. Works great on WhatsApp and mobile data. Used by agents in Westlands, Kilimani, Karen.',
   ogTitle: 'Virtual Tours Nairobi | Viewora',
   ogDescription: 'Create and share 360° virtual tours for Nairobi real estate. Optimised for WhatsApp and Kenyan mobile data. Free to start.',
   ogImage: 'https://viewora.software/og-image.jpg',

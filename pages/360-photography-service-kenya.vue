@@ -74,6 +74,13 @@
         <div style="text-align: center; margin-top: 2.5rem;">
           <a href="https://app.viewora.software/app/capture" class="btn btn-primary btn-lg">See Full Pricing by Department →</a>
         </div>
+        <p style="text-align: center; color: var(--slate); font-size: 0.9rem; margin-top: 1.5rem;">
+          Shooting a specific type of space? See our
+          <NuxtLink to="/real-estate-photography-kenya" style="color: var(--primary);">real estate photography</NuxtLink>
+          and
+          <NuxtLink to="/airbnb-photography-kenya" style="color: var(--primary);">Airbnb photography</NuxtLink>
+          pages.
+        </p>
       </div>
     </section>
 
@@ -101,10 +108,16 @@
           <p class="section-subtitle">Currently dispatching photographers in:</p>
         </div>
         <div class="cities-grid">
-          <div v-for="city in cities" :key="city.name" class="city-card">
-            <p class="city-card__name">{{ city.name }}</p>
-            <p class="city-card__sub">{{ city.sub }}</p>
-          </div>
+          <template v-for="city in cities" :key="city.name">
+            <NuxtLink v-if="city.link" :to="city.link" class="city-card">
+              <p class="city-card__name">{{ city.name }}</p>
+              <p class="city-card__sub">{{ city.sub }}</p>
+            </NuxtLink>
+            <div v-else class="city-card">
+              <p class="city-card__name">{{ city.name }}</p>
+              <p class="city-card__sub">{{ city.sub }}</p>
+            </div>
+          </template>
         </div>
         <p style="text-align: center; color: var(--slate); font-size: 0.9rem; margin-top: 1.5rem;">
           Outside these cities? <a href="https://app.viewora.software/app/capture" style="color: var(--primary);">Contact us</a> — we may be able to accommodate.
@@ -133,7 +146,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Service Kenya | Viewora',
+  title: '360° Photography Service Kenya',
   description: 'Hire a professional 360° photographer in Kenya — real estate, hotels, restaurants, Airbnbs & more. From KES 5,000. Nairobi, Mombasa, Kisumu.',
   ogTitle: '360° Photography Service Kenya — From KES 5,000 | Viewora',
   ogDescription: 'Professional virtual tour photographer in Kenya. 25 property types covered. Delivered to your Viewora space in 48 hours.',
@@ -271,8 +284,8 @@ const steps = [
 ]
 
 const cities = [
-  { name: 'Nairobi', sub: 'All estates & areas covered' },
-  { name: 'Mombasa', sub: 'Coastal properties & hotels' },
+  { name: 'Nairobi', sub: 'All estates & areas covered', link: '/360-photography-nairobi' },
+  { name: 'Mombasa', sub: 'Coastal properties & hotels', link: '/360-photography-mombasa' },
   { name: 'Kisumu', sub: 'Lakeside & city properties' },
 ]
 

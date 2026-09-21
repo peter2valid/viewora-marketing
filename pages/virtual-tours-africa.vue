@@ -25,10 +25,6 @@
         <li><strong>Morocco:</strong> A top African tourism destination with a thriving riad rental market, luxury resort sector, and growing tech corridor in Casablanca that benefits from virtual marketing tools.</li>
       </ul>
 
-      <blockquote>
-        "The African market needed a virtual tour platform that understood our context—our networks, our buyer psychology, our price points. Viewora was built for us, not adapted for us. That difference shows in every detail." <br>— Property Developer, Lagos Nigeria
-      </blockquote>
-
       <h2>Why Africa Needs Virtual Tours Now</h2>
       <p>
         Africa's growth story is creating a unique opportunity and challenge for businesses across the continent. Investment is flowing in from China, the UK, the USA, and the Gulf. Tourism demand is surging from Europe and North America. Diaspora communities from the UK to Canada to Australia are investing heavily in their home countries.
@@ -76,7 +72,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours Africa | Pan-African 360° Marketing | Viewora',
+  title: 'Virtual Tours Africa | Pan-African 360° Marketing',
   description: '360° virtual tour platform for African businesses. Immersive property, tourism, and business marketing for Kenya, Nigeria, South Africa, and beyond.',
   ogTitle: 'Virtual Tours Africa | Pan-African 360° Marketing by Viewora',
   ogDescription: 'A virtual tour platform for African businesses. Real estate, tourism, hospitality across Kenya, Nigeria, South Africa, Ghana, Egypt and beyond.',

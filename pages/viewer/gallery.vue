@@ -68,7 +68,7 @@ const shareGallery = () => {
 }
 
 useSeoMeta({
-  title: 'Viewora Gallery Viewer | Immersive 2D Showcase',
+  title: 'Gallery Viewer | Immersive 2D Showcase',
   description: 'Experience property photography in a stunning, interactive 3D circular gallery.',
   ogTitle: 'Viewora Gallery — Immersive 2D Experience',
   ogImage: '/images/gallery/luxury-living-room.png',

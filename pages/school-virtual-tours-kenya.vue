@@ -24,9 +24,7 @@
         <li><strong>Build Institutional Prestige:</strong> A professional virtual tour signals modernity, investment, and quality. It positions your institution as a leader in Kenya's education sector.</li>
       </ul>
 
-      <blockquote>
-        "Since adding a Viewora virtual tour to our admissions page, our form one intake enquiries from outside Nairobi have increased noticeably. Parents from as far as Turkana were making informed decisions about our school." <br>— Director of Admissions, Nairobi Academy
-      </blockquote>
+
 
       <h2>Virtual Tours for Every Education Institution in Kenya</h2>
       <p>
@@ -71,7 +69,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'School Virtual Tours Kenya | Attract More Students & Parents',
+  title: 'School Virtual Tours Kenya | Attract Students',
   description: 'Boost school admissions in Kenya with immersive 360° virtual campus tours. Reach families anywhere in East Africa and convert enquiries into enrollments.',
   ogTitle: 'School Virtual Tours Kenya | Immersive Campus Experience',
   ogDescription: 'Let parents explore your Kenyan school campus virtually. Increase admissions and build trust with 360° technology.',

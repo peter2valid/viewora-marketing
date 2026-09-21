@@ -24,10 +24,6 @@
         <li><strong>Increase High-Value Bookings:</strong> Luxury travelers who are pre-sold through a virtual experience book longer stays, upgrade their packages, and generate higher revenue per guest.</li>
       </ul>
 
-      <blockquote>
-        "Since adding a Viewora 360° tour of our Mara camp, our direct booking rate has increased noticeably. International travelers book confidently without needing to rely solely on OTA reviews." <br>— Camp Director, Maasai Mara Safari Lodge
-      </blockquote>
-
       <h2>Virtual Tours for Every Tourism Sector in Kenya</h2>
       <p>
         <span class="highlight">Kenya tourism virtual tours</span> work across every segment of the travel and hospitality industry, from five-star resorts to community-based tourism initiatives.
@@ -72,7 +68,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Tourism Virtual Tours Kenya | Viewora',
+  title: 'Tourism Virtual Tours Kenya',
   description: 'Boost Kenya tourism bookings with immersive 360° virtual tours. Showcase safari lodges, beach resorts, and national parks to global travelers.',
   ogTitle: 'Tourism Virtual Tours Kenya | Immersive Travel Marketing',
   ogDescription: 'A virtual tour platform for Kenya\'s tourism industry. Safari lodges, beach resorts, and attractions—bring Kenya to the world.',

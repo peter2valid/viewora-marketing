@@ -46,7 +46,21 @@
             <li><NuxtLink to="/virtual-tours-vs-photos">Tours vs Photos</NuxtLink></li>
             <li><NuxtLink to="/matterport-alternative">Matterport Alternative</NuxtLink></li>
             <li><NuxtLink to="/free-virtual-tour-software">Free Virtual Tour Software</NuxtLink></li>
+            <li><NuxtLink to="/virtual-tour-software-kenya">Virtual Tour Software Kenya</NuxtLink></li>
             <li><NuxtLink to="/glossary">Glossary</NuxtLink></li>
+          </ul>
+        </div>
+
+        <!-- Capture / Photography -->
+        <div>
+          <p class="footer-heading">📸 Capture Service</p>
+          <ul class="footer-links">
+            <li><NuxtLink to="/360-photography-service-kenya">Photography Service Kenya</NuxtLink></li>
+            <li><NuxtLink to="/360-photography-nairobi">Photography Nairobi</NuxtLink></li>
+            <li><NuxtLink to="/360-photography-mombasa">Photography Mombasa & Diani</NuxtLink></li>
+            <li><NuxtLink to="/real-estate-photography-kenya">Real Estate Photography</NuxtLink></li>
+            <li><NuxtLink to="/airbnb-photography-kenya">Airbnb Photography</NuxtLink></li>
+            <li><NuxtLink to="/virtual-tour-photographer-kenya">Hire a Photographer</NuxtLink></li>
           </ul>
         </div>
 
@@ -62,7 +76,6 @@
             <li><NuxtLink to="/gym-virtual-tours-kenya">Gyms & Fitness</NuxtLink></li>
             <li><NuxtLink to="/hospital-virtual-tours-kenya">Hospitals & Clinics</NuxtLink></li>
             <li><NuxtLink to="/tourism-virtual-tours-kenya">Tourism & Safari</NuxtLink></li>
-            <li><NuxtLink to="/virtual-tour-photographer-kenya">Photographers</NuxtLink></li>
           </ul>
         </div>
 

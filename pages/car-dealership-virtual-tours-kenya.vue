@@ -24,9 +24,7 @@
         <li><strong>Fleet and Car Hire Marketing:</strong> Allow corporate clients to inspect your entire rental fleet online and book instantly.</li>
       </ul>
 
-      <blockquote>
-        "We put a Viewora tour on every unit in our showroom. Our enquiry-to-sale conversion has improved noticeably because customers arriving for test drives have already decided. We just have to close." <br>— General Manager, Nairobi Auto Dealership
-      </blockquote>
+
 
       <h2>360° Car Showroom Tours That Convert</h2>
       <p>
@@ -82,7 +80,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Car Dealership Virtual Tours Kenya | Sell More Cars Online',
+  title: 'Car Dealership Virtual Tours Kenya',
   description: 'Boost car sales at your Kenyan dealership with 360° virtual showroom tours. Let buyers inspect every vehicle online and arrive ready to buy.',
   ogTitle: 'Car Dealership Virtual Tours Kenya | 24/7 Online Showroom',
   ogDescription: 'The virtual tour solution built for car dealerships in Kenya. Immersive 360° tours that convert online browsers into serious buyers.',

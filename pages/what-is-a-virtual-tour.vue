@@ -27,9 +27,7 @@
         For most businesses in Kenya and East Africa, a professional <span class="highlight">360° virtual tour</span> delivers the highest return on investment—combining rich visual quality with fast production and affordable pricing.
       </p>
 
-      <blockquote>
-        "A virtual tour is not a luxury—it is the new minimum standard for property marketing. Every serious listing should have one." <br>— Kenyan Real Estate Marketing Expert
-      </blockquote>
+
 
       <h2>How Do Virtual Tours Work?</h2>
       <p>
@@ -85,7 +83,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'What Is a Virtual Tour? Complete Guide 2026 | Viewora Kenya',
+  title: 'What Is a Virtual Tour? 2026 Guide',
   description: 'Learn what virtual tours are, how they work, and how Kenyan businesses use them in real estate, hospitality, and tourism.',
   ogTitle: 'What Is a Virtual Tour? Complete Guide 2026',
   ogDescription: 'The definitive guide to 360° virtual tours — how they work, what they cost, and how to use them in Kenya.',

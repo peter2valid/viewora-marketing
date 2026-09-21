@@ -44,9 +44,7 @@
         Kenyan developers and agents using Viewora consistently report reductions in their average time-to-sale of 30–60%, simply because buyers arrive pre-qualified and pre-decided.
       </p>
 
-      <blockquote>
-        "The ROI on a virtual tour is unlike any other marketing spend. One tour can close a deal worth millions of shillings. Nothing else in our marketing budget even comes close." <br>— Property Developer, Nairobi
-      </blockquote>
+
 
       <h2>4. Build Trust That Photos Cannot</h2>
       <p>
@@ -103,7 +101,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Benefits of Virtual Tours for Kenyan Businesses in 2026',
+  title: 'Benefits of Virtual Tours for Kenyan Businesses',
   description: 'Discover the proven benefits of 360° virtual tours for Kenyan businesses. Attract serious buyers, sell faster, reach the diaspora, and build trust online.',
   ogTitle: 'Benefits of Virtual Tours | The Complete Business Case 2026',
   ogDescription: 'Proven benefits of 360° virtual tours for real estate, hotels, schools, and businesses in Kenya. More enquiries, faster sales, global reach.',

@@ -38,10 +38,6 @@
         For hotels, the trust equation is even more critical. A guest who books based on beautiful photos and arrives to a different reality leaves a devastating review. A guest who books after a virtual tour arrives with accurate expectations, has a better experience, and leaves a positive review. The compounding effect on your online reputation is enormous.
       </p>
 
-      <blockquote>
-        "We had constant negative feedback from guests who felt the photos oversold the property. We switched to Viewora virtual tours, and our average review score has improved noticeably since." <br>— Airbnb Superhost, Nairobi
-      </blockquote>
-
       <h2>3. Reach: Virtual Tours Travel, Photos Stay Put</h2>
       <p>
         A property photo is a passive asset. People visit your website, view the gallery, and move on. A virtual tour is an active, shareable experience. People don't just view it—they share it on WhatsApp family groups, send it to their spouse in another country, and post it on social media.
@@ -124,7 +120,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours vs Photos Kenya | Viewora',
+  title: 'Virtual Tours vs Photos Kenya',
   description: 'Virtual tours vs photos for property marketing in Kenya: engagement, trust, and cost compared — and when each one makes sense. Viewora supports both.',
   ogTitle: 'Virtual Tours vs Photos | An Honest Comparison',
   ogDescription: 'Virtual tours or photos — which is right for your listing? An honest comparison, and why Viewora lets you publish either (or both) on one platform.',

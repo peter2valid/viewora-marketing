@@ -22,10 +22,6 @@
         <li><strong>Increase Booking Rates:</strong> Airbnb hosts in Nairobi and Diani report a noticeable increase in bookings after implementing 360° tours.</li>
       </ul>
 
-      <blockquote>
-        "Viewora has completely changed how we sell luxury apartments in Westlands. We closed three units this month to clients who had only seen the property through a Viewora virtual tour." <br>— Leading Nairobi Real Estate Agency
-      </blockquote>
-
       <h2>Comprehensive Solutions for Every Property Type</h2>
       <p>
         Whether you are managing a cozy apartment in Kilimani, a commercial office space in Upper Hill, or a beachside resort in Watamu, Viewora is <span class="highlight">virtual tour software built in Kenya</span> that scales with your needs.
@@ -113,7 +109,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tours Kenya — Create & Share | Viewora',
+  title: 'Virtual Tours Kenya — Create & Share',
   description: 'Create professional 360° virtual tours for properties in Nairobi, Mombasa, and Kisumu. Boost real estate sales and Airbnb bookings in Kenya.',
   ogTitle: 'Virtual Tours Kenya | 360° Property Marketing Software',
   ogDescription: 'Experience the power of immersive property marketing in Kenya. Viewora helps you sell and rent faster.',

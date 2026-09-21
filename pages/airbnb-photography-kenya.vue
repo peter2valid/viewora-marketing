@@ -31,10 +31,6 @@
         <li><strong>Multi-unit operator package (KES 20,000–40,000)</strong> — 3+ units with bulk pricing</li>
       </ul>
 
-      <blockquote>
-        "I had months of vacancy before Viewora. After getting the 360° tour done, I got my first booking within days of republishing. The tour lets guests really see the space." <br>— Airbnb Host, Westlands Nairobi
-      </blockquote>
-
       <h2>How to Rank Higher on Airbnb with Virtual Tours</h2>
       <p>
         Airbnb's algorithm rewards listings with high engagement and low bounce rates. When guests spend more time exploring your virtual tour — clicking between rooms, zooming in on details — your listing's engagement score increases, pushing you higher in search results.
@@ -62,7 +58,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Airbnb Photography Kenya — From KES 5,000 | Viewora',
+  title: 'Airbnb Photography Kenya — From KES 5,000',
   description: 'Professional Airbnb photography and 360° virtual tours for short-let properties in Kenya. Studios to 4BR villas. From KES 5,000. Nairobi, Mombasa, Kisumu.',
   robots: 'index, follow',
   keywords: 'Airbnb photography Kenya, Airbnb photographer Nairobi, Airbnb virtual tour Kenya, short let photography Kenya, vacation rental photographer Kenya, 360 Airbnb photography Kenya',

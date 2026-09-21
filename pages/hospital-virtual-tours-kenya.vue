@@ -24,9 +24,7 @@
         <li><strong>Differentiate in a Competitive Market:</strong> Private hospitals and specialist clinics in Nairobi compete intensely for the same middle and upper market patients. A virtual tour signals investment in quality and transparency.</li>
       </ul>
 
-      <blockquote>
-        "We launched a Viewora virtual tour of our maternity ward and our antenatal registration from families outside Nairobi increased noticeably in the first quarter. Parents wanted to see where their baby would be born before committing." <br>— Marketing Director, Nairobi Private Hospital
-      </blockquote>
+
 
       <h2>Healthcare Virtual Tours for Every Medical Facility</h2>
       <p>
@@ -71,7 +69,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Hospital Virtual Tours Kenya | Build Patient Trust Online',
+  title: 'Hospital Virtual Tours Kenya | Build Patient Trust',
   description: 'Give patients confidence with immersive 360° virtual tours of your Kenyan hospital or clinic. Build trust, reduce anxiety, and attract medical tourism.',
   ogTitle: 'Hospital Virtual Tours Kenya | Healthcare Marketing',
   ogDescription: 'The trusted virtual tour platform for hospitals and clinics in Kenya. Transparent, immersive, patient-focused.',

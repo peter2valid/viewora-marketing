@@ -24,9 +24,7 @@
         <li><strong>Industrial and Warehouse Property:</strong> Market your industrial plots and logistics facilities along the Eldoret Export Processing Zone to investors in Nairobi and abroad.</li>
       </ul>
 
-      <blockquote>
-        "Eldoret's property market is underestimated by Nairobi investors. With Viewora, I can give those investors a professional 360° tour and they invest without hesitation, even with buyers who never physically visit Eldoret." <br>— Real Estate Developer, Eldoret
-      </blockquote>
+
 
       <h2>Connecting Eldoret to the World Digitally</h2>
       <p>

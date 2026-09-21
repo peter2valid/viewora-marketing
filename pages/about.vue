@@ -48,7 +48,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "About Viewora | Built in Kenya, Used Worldwide",
+  title: "About | Built in Kenya, Used Worldwide",
   description: 'Viewora is a SaaS company, founded in Kenya, making immersive 360° virtual tours and photo galleries accessible to any business that needs to showcase a space.',
   ogTitle: 'About Viewora | Our Story & Mission',
   ogDescription: 'Founded in Kenya to democratize spatial marketing. Viewora empowers agents, hosts and developers to create immersive 360° virtual tours in minutes.',

@@ -23,9 +23,7 @@
         <li><strong>Commercial Property in Nakuru CBD:</strong> Help tenants and investors visualize office blocks, retail spaces, and warehouses before committing to leases.</li>
       </ul>
 
-      <blockquote>
-        "Nakuru buyers are sophisticated. They research online first, then call. With Viewora, I present my properties professionally to clients in Nairobi who invest remotely in Nakuru without the drive." <br>— Property Agent, Nakuru Town
-      </blockquote>
+
 
       <h2>Showcasing Nakuru's Growth Story Digitally</h2>
       <p>

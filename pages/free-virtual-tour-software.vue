@@ -145,11 +145,6 @@
         <li><strong>Nonprofits and schools</strong> with limited marketing budgets who want to showcase their facilities</li>
       </ul>
 
-      <blockquote>
-        "I started on the free plan to test it out. My first tour got serious enquiries within days. I upgraded that week."<br>
-        — Airbnb host, Mombasa
-      </blockquote>
-
       <h2>When Should I Upgrade to a Paid Plan?</h2>
       <p>
         The free tier is enough to get started and see real results. Consider upgrading when:
@@ -205,7 +200,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Free Virtual Tour Software | Viewora',
+  title: 'Free Virtual Tour Software',
   description: 'Viewora offers genuinely free virtual tour software. Create 360° tours with multi-scene navigation and hotspots. No credit card, no trial period.',
   ogTitle: 'Free Virtual Tour Software | Viewora',
   ogDescription: 'Create professional 360° virtual tours for free. No credit card. No time limit. Full interactive features included.',

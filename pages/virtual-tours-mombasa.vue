@@ -23,9 +23,7 @@
         <li><strong>Commercial Port Area:</strong> Streamlining industrial and maritime property marketing in East Africa.</li>
       </ul>
 
-      <blockquote>
-        "Viewora has significantly increased our conversion rate for holiday villa sales in Diani. International buyers can walk through every room and see the ocean view as if they were there." <br>— Coastal Real Estate Specialist
-      </blockquote>
+
 
       <h2>The Essential Tool for Mombasa Airbnb Hosts</h2>
       <p>
@@ -52,7 +50,7 @@ definePageMeta({
   layout: 'default'
 })
 useSeoMeta({
-  title: 'Virtual Tours Mombasa | Coastal Property Marketing Kenya',
+  title: 'Virtual Tours Mombasa | Coastal Property Marketing',
   description: 'Showcase your Mombasa villas and hotels with Viewora. 360° virtual tour software for Nyali, Diani, and coastal real estate marketing in Kenya.',
   ogTitle: 'Virtual Tours Mombasa | Coastal Property Marketing',
   ogDescription: 'Experience coastal properties in Mombasa like never before. 360° tours built for Kenya.',

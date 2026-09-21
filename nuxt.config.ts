@@ -208,6 +208,8 @@ export default defineNuxtConfig({
     '/real-estate-virtual-tours': { redirect: { to: '/real-estate-virtual-tours-kenya', statusCode: 301 } },
     '/hotel-virtual-tours': { redirect: { to: '/hotel-virtual-tours-kenya', statusCode: 301 } },
     '/airbnb-virtual-tours': { redirect: { to: '/airbnb-virtual-tours-kenya', statusCode: 301 } },
+    '/company': { redirect: { to: '/about', statusCode: 301 } },
+    '/360-virtual-tour-africa': { redirect: { to: '/virtual-tours-africa', statusCode: 301 } },
   },
 
   nitro: {

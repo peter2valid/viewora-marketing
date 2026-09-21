@@ -63,8 +63,8 @@ const demos = [
 ]
 
 useSeoMeta({
-  title: 'Live Demo — Real Viewora Tours | Viewora',
-  description: 'Explore real 360° virtual tours published by Viewora customers across real estate, hospitality, and vacation rentals. See the product in action, no sign-up required.',
+  title: 'Live Demo — Real Customer Tours',
+  description: 'Explore real 360° virtual tours published by Viewora customers across real estate, hospitality, and vacation rentals. No sign-up required.',
   ogTitle: 'Live Demo — Real Viewora Tours',
   ogDescription: 'Explore real, live 360° virtual tours published by Viewora customers. See exactly what your own tour would look like.',
   ogImage: 'https://viewora.software/og-image.jpg',

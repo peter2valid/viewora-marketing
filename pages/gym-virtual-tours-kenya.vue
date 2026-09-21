@@ -24,9 +24,7 @@
         <li><strong>Showcase Class Diversity:</strong> Link hotspots to your class timetable, personal trainer profiles, and membership pricing from within the tour.</li>
       </ul>
 
-      <blockquote>
-        "We added a Viewora tour to our website and our monthly trial sign-ups increased noticeably within weeks. People call us already knowing the space—they're ready to commit." <br>— Owner, Fitness Studio, Kilimani Nairobi
-      </blockquote>
+
 
       <h2>Virtual Gym Tours for Every Fitness Business in Kenya</h2>
       <p>
@@ -71,7 +69,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Gym Virtual Tours Kenya | Get More Fitness Members Online',
+  title: 'Gym Virtual Tours Kenya | Get More Members',
   description: 'Grow your gym membership in Kenya with 360° virtual fitness studio tours. Showcase your equipment and convert online browsers into paying members.',
   ogTitle: 'Gym Virtual Tours Kenya | Immersive Fitness Marketing',
   ogDescription: 'The virtual tour platform for gyms and fitness studios in Kenya. Build trust, attract members, grow your business.',

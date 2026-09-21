@@ -4,7 +4,7 @@
       <div class="container text-center">
         <h1 class="section-title">Simple, Transparent Pricing</h1>
         <p class="section-subtitle mb-12" style="max-width: 600px; margin-left: auto; margin-right: auto;">
-          Choose the plan that fits your space portfolio. No hidden setup fees or surprise charges.
+          Free to start, with paid plans a fraction of the cost of alternatives like Matterport. No hidden setup fees or surprise charges.
         </p>
 
         <!-- Toggle -->
@@ -97,7 +97,7 @@ function trackPricingCta(plan: string) {
 }
 
 useSeoMeta({
-  title: 'Viewora Pricing — Plans from KES 0/month',
+  title: 'Pricing — Plans from KES 0/month',
   description: 'Plans from KES 0/month, scaling to KES 4,999/month, plus custom Enterprise pricing. Transparent pricing for agents, hosts, and businesses. Cancel anytime.',
   ogTitle: 'Viewora Pricing — Plans from KES 0/mo',
   ogDescription: 'Start free, scale as you grow. Free, Creator, Professional and Business plans for solo agents, active sellers and agencies, plus custom Enterprise pricing.',

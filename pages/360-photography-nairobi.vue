@@ -37,10 +37,6 @@
         <li><strong>Retail showrooms</strong> — furniture, tiles, kitchens, electronics</li>
       </ul>
 
-      <blockquote>
-        "I needed 360° photos for my Kilimani apartment listing urgently. Viewora confirmed same-day and the tour was live before I even met the first viewing." <br>— Landlord, Kilimani Nairobi
-      </blockquote>
-
       <h2>360° Photography Prices in Nairobi</h2>
       <p>
         Our Nairobi 360° photography packages start from <strong>KES 5,000</strong> and include the full shoot, professional editing, and direct upload to your Viewora space.
@@ -70,7 +66,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Nairobi — From KES 5,000 | Viewora',
+  title: '360° Photography Nairobi — From KES 5,000',
   description: 'Professional 360° photography anywhere in Nairobi. Apartments, Airbnbs, restaurants, offices & hotels. From KES 5,000, delivered in 48hrs.',
   robots: 'index, follow',
   keywords: '360 photography Nairobi, 360 photographer Nairobi, virtual tour photographer Nairobi, 360 photography service Nairobi, virtual tour photography Nairobi, property photographer Nairobi',

@@ -22,10 +22,6 @@
         <li><strong>Rank Higher in Search:</strong> More engagement on your listing signals quality to Airbnb's algorithm, indirectly helping you rank better.</li>
       </ul>
 
-      <blockquote>
-        "Since adding a Viewora 360° tour link to my Airbnb bio in Nairobi, my occupancy rate has improved noticeably. Guests tell me it was the reason they chose my place." <br>— Superhost in Kilimani, Nairobi
-      </blockquote>
-
       <h2>Dominating Airbnb SEO in Kenya</h2>
       <p>
         Use your Viewora tour to create a powerful online presence. Link it from your social media and marketing channels to drive high-intent traffic to your booking page. Viewora is the definitive solution for <span class="highlight">Kenyan Airbnb marketing</span>.
@@ -51,7 +47,7 @@ definePageMeta({
   layout: 'default'
 })
 useSeoMeta({
-  title: 'Airbnb Virtual Tours Kenya | Viewora',
+  title: 'Airbnb Virtual Tours Kenya',
   description: 'Maximize your Airbnb bookings in Kenya with Viewora. Immersive 360° virtual tours built to build guest trust and increase occupancy in Nairobi and Diani.',
   ogTitle: 'Airbnb Virtual Tours Kenya | Boost Your Bookings',
   ogDescription: 'The ultimate marketing tool for Kenyan Airbnb hosts. Join the top 1% today.',

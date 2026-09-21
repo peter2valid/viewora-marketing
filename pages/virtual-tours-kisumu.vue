@@ -22,9 +22,7 @@
         <li><strong>Commercial CBD:</strong> Boosting interest in Kisumu's burgeoning retail and office space market.</li>
       </ul>
 
-      <blockquote>
-        "Viewora has made it possible for us to close deals with Kisumu-based investors living in Nairobi and abroad. They don't have to travel down specifically for every viewing." <br>— Kisumu Real Estate Agency Director
-      </blockquote>
+
 
       <h2>Scaling Property Sales in Western Kenya</h2>
       <p>
@@ -51,7 +49,7 @@ definePageMeta({
   layout: 'default'
 })
 useSeoMeta({
-  title: 'Virtual Tours Kisumu | Western Kenya Property Marketing',
+  title: 'Virtual Tours Kisumu | Western Kenya Marketing',
   description: 'Scale your real estate business in Kisumu with Viewora. 360° virtual tour software for Milimani, Riat Hills, and the Lake Victoria region.',
   ogTitle: 'Virtual Tours Kisumu | Lake Victoria Property Tech',
   ogDescription: 'Immersive property viewing for the Kisumu market. Built for Western Kenya.',

@@ -22,10 +22,6 @@
         <li><strong>Boost Meeting and Event Enquiries:</strong> Allow event planners to walk through your conference halls and banquet rooms virtually.</li>
       </ul>
 
-      <blockquote>
-        "Our wedding enquiry conversion rate has improved noticeably since we added a Viewora 360° tour of our ballroom. Brides can now plan their layout from anywhere in the country." <br>— Sales Director, Nairobi Hotel
-      </blockquote>
-
       <h2>Innovative Solutions for African Hospitality</h2>
       <p>
         Viewora provides <span class="highlight">hospitality virtual tours across Africa</span>. We understand that hotels need more than just images; they need to sell an experience. Our platform is built for <strong>360° hotel marketing in Kenya</strong>.
@@ -64,7 +60,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Hotel Virtual Tours Kenya | Viewora',
+  title: 'Hotel Virtual Tours Kenya',
   description: 'Boost your hotel bookings in Kenya with Viewora. Immersive 360° virtual tours for hotels, resorts, and lodges to build guest trust and increase stays.',
   ogTitle: 'Hotel Virtual Tours Kenya | Build Guest Trust',
   ogDescription: 'Experience luxury hospitality in Kenya virtually. 360° tours built for African hotels.',

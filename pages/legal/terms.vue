@@ -59,7 +59,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Terms of Service | Viewora',
+  title: 'Terms of Service',
   description: 'The official terms of service for the Viewora platform. Professional standards for real estate agents and hosts using virtual tours in Kenya and Africa.',
   ogTitle: 'Terms of Service | Viewora Africa Service Agreement',
   ogDescription: 'Upholding the highest standards in African property technology.',

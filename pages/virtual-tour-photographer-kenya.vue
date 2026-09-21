@@ -38,10 +38,6 @@
         <li><strong>Car showrooms and dealerships</strong> — let buyers browse your floor remotely</li>
       </ul>
 
-      <blockquote>
-        "We booked a Viewora photographer for our Westlands apartment listing and had the virtual tour live within 24 hours. The enquiries that came in were from serious buyers who had already walked through the space virtually." <br>— Property Manager, Nairobi
-      </blockquote>
-
       <h2>Affordable Virtual Tour Photography Prices</h2>
       <p>
         Viewora offers <strong>competitively priced virtual tour photography in Kenya</strong>. Our packages start from <strong>KES 5,000</strong> for a small property and scale up to KES 40,000+ for large institutions, hotels, or multi-unit developments.
@@ -79,8 +75,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Virtual Tour Photographer Kenya — From KES 5,000 | Viewora',
-  description: 'Hire a virtual tour photographer in Kenya. We shoot real estate, hotels, Airbnbs, restaurants & 25 more property types. From KES 5,000. Nairobi, Mombasa, Kisumu. 48-hr delivery.',
+  title: 'Virtual Tour Photographer Kenya — From KES 5,000',
+  description: 'Hire a virtual tour photographer in Kenya. We shoot real estate, hotels, Airbnbs & 25+ property types. From KES 5,000. Nairobi, Mombasa, Kisumu. 48-hr delivery.',
   robots: 'index, follow',
   keywords: 'virtual tour photographer Kenya, virtual tour photographer Nairobi, 360 photographer Kenya, hire virtual tour photographer Kenya, virtual tour photography service Kenya, 360 photography Kenya',
 })

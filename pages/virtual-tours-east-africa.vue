@@ -24,9 +24,7 @@
         <li><strong>Ethiopia:</strong> Addis Ababa's massive construction boom and aviation hub status make it a major market for commercial property and hospitality virtual marketing.</li>
       </ul>
 
-      <blockquote>
-        "I market properties in both Nairobi and Kampala. With Viewora, I use one platform for both markets. My Ugandan clients appreciate seeing Nairobi properties in detail before flying in, and vice versa. It's transformed my cross-border business." <br>— Pan-Regional Property Consultant, East Africa
-      </blockquote>
+
 
       <h2>Why East Africa Needs Virtual Tours Now</h2>
       <p>
@@ -71,7 +69,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours East Africa | Kenya, Uganda, Tanzania & Rwanda',
+  title: 'Virtual Tours East Africa — Kenya, Uganda',
   description: 'A 360° virtual tour platform for East Africa. Reach buyers across Kenya, Uganda, Tanzania, Rwanda, and Ethiopia.',
   ogTitle: 'Virtual Tours East Africa | The Regional Leader in 360° Marketing',
   ogDescription: 'One virtual tour platform for all of East Africa. Real estate, tourism, hospitality, and education marketing across Kenya, Uganda, Tanzania, and Rwanda.',

@@ -32,10 +32,6 @@
         <li><strong>Event venues</strong> — beach wedding venues and conference facilities</li>
       </ul>
 
-      <blockquote>
-        "Our Diani Beach villa saw noticeably more enquiries after we published the Viewora virtual tour. International tourists can now explore the property from Europe before booking." <br>— Villa Owner, Diani Beach
-      </blockquote>
-
       <h2>360° Photography Prices in Mombasa</h2>
       <ul>
         <li><strong>Mini (KES 5,000)</strong> — small room, boutique shop, or studio</li>
@@ -63,7 +59,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Mombasa & Diani | Viewora',
+  title: '360° Photography Mombasa & Diani',
   description: 'Professional 360° photography in Mombasa, Diani Beach, Malindi & Watamu. Hotels, Airbnbs, villas & restaurants. From KES 5,000. 48-hr delivery.',
   robots: 'index, follow',
   keywords: '360 photography Mombasa, 360 photographer Mombasa, virtual tour photographer Mombasa, 360 photography Diani, virtual tour photography coastal Kenya, hotel photographer Mombasa',

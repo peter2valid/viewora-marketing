@@ -89,7 +89,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Photo Gallery Hosting for Listings | Viewora',
+  title: 'Photo Gallery Hosting for Listings',
   description: 'Host professional photo galleries alongside your 360° tours on Viewora. No panoramic camera required — publish standard photos in minutes, free to start.',
   ogTitle: 'Photo Gallery Hosting | Viewora',
   ogDescription: 'Not every listing needs a full 360° tour. Publish a photo gallery on Viewora in minutes — or pair it with a virtual tour for the best of both.',

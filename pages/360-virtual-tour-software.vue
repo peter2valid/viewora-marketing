@@ -142,11 +142,6 @@
         </li>
       </ol>
 
-      <blockquote>
-        "I photographed a 5-bedroom home with my Insta360, uploaded the panoramas, and had a live tour ready to share on WhatsApp in 8 minutes. My client made an offer before the physical viewing."<br>
-        — Real estate agent, Nairobi
-      </blockquote>
-
       <h2>360° Virtual Tour Software Pricing</h2>
       <p>
         Viewora offers a <strong>free tier</strong> that lets you publish tours with full functionality — no credit card required. Paid plans unlock custom branding, more tours, advanced analytics, and lead capture features. View the full <NuxtLink to="/pricing" class="highlight">pricing page</NuxtLink> to compare plans.
@@ -203,7 +198,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: '360° Virtual Tour Software — Features & How It Works | Viewora',
+  title: '360° Virtual Tour Software — Features & How It Works',
   description: 'Viewora is 360° virtual tour software for real estate, hotels, and businesses in Africa. Upload panoramas, add hotspots, publish in 10 minutes. Free to start.',
   ogTitle: '360° Virtual Tour Software | Viewora',
   ogDescription: 'Create professional 360° virtual tours in under 10 minutes. Works with any 360° camera, on any connection. Free to start.',
