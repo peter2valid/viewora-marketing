@@ -60,7 +60,7 @@
     </SeoContent>
 
     <SeoFAQ heading="360° Photography Nairobi — FAQs" :faqs="faqs" />
-    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° photo shoot in Nairobi. What's your availability and pricing?" />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° photo shoot in Nairobi. What's your availability and pricing?" whatsapp-primary />
   </div>
 </template>
 

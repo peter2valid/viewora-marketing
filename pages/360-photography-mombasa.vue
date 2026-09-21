@@ -53,7 +53,7 @@
     </SeoContent>
 
     <SeoFAQ heading="360° Photography Mombasa — FAQs" :faqs="faqs" />
-    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° photo shoot in Mombasa or Diani. What's your availability and pricing?" />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° photo shoot in Mombasa or Diani. What's your availability and pricing?" whatsapp-primary />
   </div>
 </template>
 

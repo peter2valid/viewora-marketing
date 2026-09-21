@@ -3,22 +3,39 @@
     <div class="container">
       <div class="cta-inner text-center">
         <span class="badge" style="margin-bottom: 1.5rem;">Built for Africa</span>
-        <h2 class="cta-title">
-          Ready to dominate the <span style="color: var(--primary);">Kenyan</span> market?
-        </h2>
-        <p class="cta-subtitle">
-          Join the elite Airbnb hosts and real estate agencies in Africa using Viewora to close more deals with immersive 360° technology.
-        </p>
-        <div class="cta-actions">
-          <a href="https://app.viewora.software/register" class="btn btn-primary btn-lg">Start Your Free Tour</a>
-          <NuxtLink to="/contact" class="btn btn-outline-light btn-lg">Book a Demo</NuxtLink>
-        </div>
-        <p class="cta-footnote">Instant Results • No credit card required</p>
 
-        <div v-if="whatsappMessage" class="cta-whatsapp">
-          <p class="cta-whatsapp__label">Prefer to just book a shoot?</p>
-          <WhatsAppBookButton :message="whatsappMessage" variant="outline" />
-        </div>
+        <template v-if="whatsappPrimary && whatsappMessage">
+          <h2 class="cta-title">
+            Want it <span style="color: var(--primary);">shot for you?</span>
+          </h2>
+          <p class="cta-subtitle">
+            Skip the DIY. Message us on WhatsApp and we'll book a photographer for your property — no account, no login.
+          </p>
+          <div class="cta-actions">
+            <WhatsAppBookButton :message="whatsappMessage" label="Book a Shoot — WhatsApp" />
+            <a href="https://app.viewora.software/register" class="btn btn-outline-light btn-lg">Or Create Your Own Tour</a>
+          </div>
+          <p class="cta-footnote">Reply in minutes • No credit card required</p>
+        </template>
+
+        <template v-else>
+          <h2 class="cta-title">
+            Ready to dominate the <span style="color: var(--primary);">Kenyan</span> market?
+          </h2>
+          <p class="cta-subtitle">
+            Join the elite Airbnb hosts and real estate agencies in Africa using Viewora to close more deals with immersive 360° technology.
+          </p>
+          <div class="cta-actions">
+            <a href="https://app.viewora.software/register" class="btn btn-primary btn-lg">Start Your Free Tour</a>
+            <NuxtLink to="/contact" class="btn btn-outline-light btn-lg">Book a Demo</NuxtLink>
+          </div>
+          <p class="cta-footnote">Instant Results • No credit card required</p>
+
+          <div v-if="whatsappMessage" class="cta-whatsapp">
+            <p class="cta-whatsapp__label">Prefer to just book a shoot?</p>
+            <WhatsAppBookButton :message="whatsappMessage" variant="outline" />
+          </div>
+        </template>
       </div>
     </div>
     <div class="glow-sphere"></div>
@@ -28,6 +45,7 @@
 <script setup lang="ts">
 defineProps<{
   whatsappMessage?: string
+  whatsappPrimary?: boolean
 }>()
 </script>
 

@@ -69,7 +69,7 @@
       :faqs="faqs"
     />
 
-    <SeoCTA whatsapp-message="Hi Viewora, I'm looking to hire a virtual tour photographer. What's your availability and pricing?" />
+    <SeoCTA whatsapp-message="Hi Viewora, I'm looking to hire a virtual tour photographer. What's your availability and pricing?" whatsapp-primary />
   </div>
 </template>
 

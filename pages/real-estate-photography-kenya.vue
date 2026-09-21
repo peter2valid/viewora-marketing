@@ -55,7 +55,7 @@
     </SeoContent>
 
     <SeoFAQ heading="Real Estate Photography Kenya — FAQs" :faqs="faqs" />
-    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book real estate photography for a property listing. What's your availability and pricing?" />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book real estate photography for a property listing. What's your availability and pricing?" whatsapp-primary />
   </div>
 </template>
 

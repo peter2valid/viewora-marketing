@@ -52,7 +52,7 @@
     </SeoContent>
 
     <SeoFAQ heading="Airbnb Photography Kenya — FAQs" :faqs="faqs" />
-    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book Airbnb photography for my short-let property. What's your availability and pricing?" />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book Airbnb photography for my short-let property. What's your availability and pricing?" whatsapp-primary />
   </div>
 </template>
 

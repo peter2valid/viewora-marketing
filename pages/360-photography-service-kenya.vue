@@ -18,20 +18,14 @@
             Available in Nairobi, Mombasa, and Kisumu.
           </p>
           <div class="capture-hero__actions">
-            <a href="https://app.viewora.software/app/capture" class="btn btn-primary btn-lg btn-float">
-              Book a Shoot — From KES 5,000
-            </a>
-            <a href="https://app.viewora.software/app/capture" class="btn btn-outline btn-lg">
-              View All Packages →
-            </a>
-          </div>
-          <div style="margin-top: 1rem;">
             <WhatsAppBookButton
               message="Hi Viewora, I'd like to book a 360° photo shoot. Can you tell me availability and pricing?"
-              label="Or book via WhatsApp"
+              label="Book a Shoot — From KES 5,000"
               sublabel="No account needed — reply in minutes"
-              variant="outline"
             />
+            <NuxtLink to="/demo" class="btn btn-outline btn-lg">
+              See Example Tours →
+            </NuxtLink>
           </div>
           <p class="capture-hero__proof">✓ 48-hr delivery &nbsp; ✓ 25 property types covered &nbsp; ✓ Uploaded straight to your space</p>
         </div>
@@ -142,10 +136,14 @@
         <div class="capture-cta__inner">
           <span class="capture-cta__dot" />
           <h2 class="capture-cta__title">Ready to get your property shot?</h2>
-          <p class="capture-cta__sub">Book online in 2 minutes. We'll confirm your date within 24 hours and deliver your tour in 48.</p>
-          <a href="https://app.viewora.software/app/capture" class="btn btn-primary btn-lg btn-float" style="background: #25d366; border-color: #25d366;">
-            Book a Shoot — From KES 5,000
-          </a>
+          <p class="capture-cta__sub">Message us on WhatsApp. We'll confirm your date within 24 hours and deliver your tour in 48.</p>
+          <div style="display: flex; justify-content: center;">
+            <WhatsAppBookButton
+              message="Hi Viewora, I'd like to book a 360° photo shoot. Can you tell me availability and pricing?"
+              label="Book a Shoot — From KES 5,000"
+              sublabel="No account needed — reply in minutes"
+            />
+          </div>
         </div>
       </div>
     </section>
