@@ -101,7 +101,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Benefits of Virtual Tours for Kenyan Businesses',
+  title: '8 Benefits of Virtual Tours for Kenyan Businesses',
   description: 'Discover the proven benefits of 360° virtual tours for Kenyan businesses. Attract serious buyers, sell faster, reach the diaspora, and build trust online.',
   ogTitle: 'Benefits of Virtual Tours | The Complete Business Case 2026',
   ogDescription: 'Proven benefits of 360° virtual tours for real estate, hotels, schools, and businesses in Kenya. More enquiries, faster sales, global reach.',

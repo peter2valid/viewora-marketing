@@ -68,7 +68,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours Eldoret | 360° Property Marketing',
+  title: 'Virtual Tours Eldoret | Free to Start',
   description: 'Grow your Eldoret business with 360° virtual tours. Showcase real estate, schools, hospitals, and hotels to buyers across East Africa.',
   ogTitle: 'Virtual Tours Eldoret | 360° Property & Business Marketing',
   ogDescription: 'The virtual tour platform for Eldoret\'s real estate, education, healthcare, and hospitality sectors.',

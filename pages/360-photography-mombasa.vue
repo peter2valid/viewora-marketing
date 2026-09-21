@@ -59,7 +59,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Mombasa & Diani',
+  title: '360° Photography Mombasa & Diani | From KES 5,000',
   description: 'Professional 360° photography in Mombasa, Diani Beach, Malindi & Watamu. Hotels, Airbnbs, villas & restaurants. From KES 5,000. 48-hr delivery.',
   robots: 'index, follow',
   keywords: '360 photography Mombasa, 360 photographer Mombasa, virtual tour photographer Mombasa, 360 photography Diani, virtual tour photography coastal Kenya, hotel photographer Mombasa',

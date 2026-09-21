@@ -68,7 +68,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Tourism Virtual Tours Kenya',
+  title: 'Tourism Virtual Tours Kenya | Safari & Resorts',
   description: 'Boost Kenya tourism bookings with immersive 360° virtual tours. Showcase safari lodges, beach resorts, and national parks to global travelers.',
   ogTitle: 'Tourism Virtual Tours Kenya | Immersive Travel Marketing',
   ogDescription: 'A virtual tour platform for Kenya\'s tourism industry. Safari lodges, beach resorts, and attractions—bring Kenya to the world.',

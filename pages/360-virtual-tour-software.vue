@@ -198,7 +198,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: '360° Virtual Tour Software — Features & How It Works',
+  title: '360° Virtual Tour Software — Free to Start',
   description: 'Viewora is 360° virtual tour software for real estate, hotels, and businesses in Africa. Upload panoramas, add hotspots, publish in 10 minutes. Free to start.',
   ogTitle: '360° Virtual Tour Software | Viewora',
   ogDescription: 'Create professional 360° virtual tours in under 10 minutes. Works with any 360° camera, on any connection. Free to start.',

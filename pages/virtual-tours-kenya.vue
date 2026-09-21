@@ -55,6 +55,10 @@
         <li><NuxtLink to="/airbnb-virtual-tours-kenya" class="highlight">Airbnb Virtual Tours Kenya</NuxtLink> — short-let listings and holiday rentals</li>
         <li><NuxtLink to="/hotel-virtual-tours-kenya" class="highlight">Hotel Virtual Tours Kenya</NuxtLink> — hospitality and lodge marketing</li>
         <li><NuxtLink to="/school-virtual-tours-kenya" class="highlight">School Virtual Tours Kenya</NuxtLink> — campus tours and institutional marketing</li>
+        <li><NuxtLink to="/hospital-virtual-tours-kenya" class="highlight">Hospital Virtual Tours Kenya</NuxtLink> — healthcare facility tours that build patient trust</li>
+        <li><NuxtLink to="/gym-virtual-tours-kenya" class="highlight">Gym Virtual Tours Kenya</NuxtLink> — fitness facility tours that convert members</li>
+        <li><NuxtLink to="/tourism-virtual-tours-kenya" class="highlight">Tourism Virtual Tours Kenya</NuxtLink> — safari lodges and resort marketing</li>
+        <li><NuxtLink to="/car-dealership-virtual-tours-kenya" class="highlight">Car Dealership Virtual Tours Kenya</NuxtLink> — 360° vehicle showrooms</li>
       </ul>
 
       <h2>Software Guides</h2>
@@ -109,7 +113,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tours Kenya — Create & Share',
+  title: 'Virtual Tours Kenya — Free to Start',
   description: 'Create professional 360° virtual tours for properties in Nairobi, Mombasa, and Kisumu. Boost real estate sales and Airbnb bookings in Kenya.',
   ogTitle: 'Virtual Tours Kenya | 360° Property Marketing Software',
   ogDescription: 'Experience the power of immersive property marketing in Kenya. Viewora helps you sell and rent faster.',

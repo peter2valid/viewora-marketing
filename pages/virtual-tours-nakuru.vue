@@ -120,7 +120,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours Nakuru | 360° Property Marketing',
+  title: 'Virtual Tours Nakuru | Free to Start',
   description: 'Dominate the Nakuru property and tourism market with Viewora. Immersive 360° virtual tours for real estate, hotels, and businesses in Nakuru, Kenya.',
   ogTitle: 'Virtual Tours Nakuru | 360° Property & Tourism Marketing',
   ogDescription: 'The premium virtual tour platform for Nakuru\'s growing market. Real estate, hotels, and attractions—all in stunning 360°.',

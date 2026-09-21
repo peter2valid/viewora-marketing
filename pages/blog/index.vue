@@ -52,7 +52,7 @@ const { data: posts } = await useAsyncData('blog-posts', () =>
 )
 
 useSeoMeta({
-  title: 'Blog — Virtual Tour Tips & Guides Kenya',
+  title: 'Virtual Tour Blog — Tips, Guides & Case Studies',
   description: 'Learn how to market spaces better with virtual tours, 360° panoramas, and SaaS tools for real estate and Airbnb. Expert insights for the Kenyan market.',
   ogTitle: 'Viewora Blog — Virtual Tour Tips & Guides',
   ogDescription: 'Expert guides on 360° virtual tours, property marketing, and Airbnb optimization for the Kenyan and African market.',
