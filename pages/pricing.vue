@@ -123,26 +123,6 @@ useHead({
       url: 'https://viewora.software',
       offers: buildPricingOffers(),
     })
-  },
-  {
-    type: 'application/ld+json',
-    innerHTML: JSON.stringify(
-      getCardPlans(FALLBACK_PLANS).map((p) => ({
-        '@context': 'https://schema.org',
-        '@type': 'Product',
-        name: `Viewora ${p.name} Plan`,
-        description: `${p.description} ${p.max_active_properties} active tours, up to ${p.max_scenes_per_tour} scenes per tour.`,
-        brand: { '@type': 'Brand', name: 'Viewora' },
-        offers: {
-          '@type': 'Offer',
-          price: String(p.price_monthly_kes ?? 0),
-          priceCurrency: 'KES',
-          priceValidUntil: '2027-12-31',
-          availability: 'https://schema.org/InStock',
-          url: 'https://viewora.software/pricing',
-        },
-      }))
-    )
   }]
 })
 </script>
