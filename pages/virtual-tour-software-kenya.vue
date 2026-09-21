@@ -130,7 +130,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tour Software in Kenya',
+  title: 'Virtual Tour Software in Kenya | Free to Start',
   description: 'Viewora is virtual tour software built for Kenya. Create professional 360° property tours yourself — no agency fees. Free to start.',
   ogTitle: 'Virtual Tour Software Kenya | Viewora',
   ogDescription: 'Create professional 360° virtual tours in Kenya without hiring an agency. Optimised for WhatsApp sharing and Kenyan mobile data. Free to start.',

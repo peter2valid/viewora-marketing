@@ -120,7 +120,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tours vs Photos Kenya',
+  title: 'Virtual Tours vs Photos Kenya — Which Wins?',
   description: 'Virtual tours vs photos for property marketing in Kenya: engagement, trust, and cost compared — and when each one makes sense. Viewora supports both.',
   ogTitle: 'Virtual Tours vs Photos | An Honest Comparison',
   ogDescription: 'Virtual tours or photos — which is right for your listing? An honest comparison, and why Viewora lets you publish either (or both) on one platform.',

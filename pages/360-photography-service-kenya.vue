@@ -146,7 +146,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Photography Service Kenya',
+  title: '360° Photography Service Kenya | From KES 5,000',
   description: 'Hire a professional 360° photographer in Kenya — real estate, hotels, restaurants, Airbnbs & more. From KES 5,000. Nairobi, Mombasa, Kisumu.',
   ogTitle: '360° Photography Service Kenya — From KES 5,000 | Viewora',
   ogDescription: 'Professional virtual tour photographer in Kenya. 25 property types covered. Delivered to your Viewora space in 48 hours.',

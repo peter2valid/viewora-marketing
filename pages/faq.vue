@@ -69,7 +69,7 @@ definePageMeta({
 
 const general = [
   { q: 'What is Viewora?', a: 'Viewora is a SaaS platform, founded in Kenya, that lets you create, host, and share professional 360° interactive virtual tours and photo galleries. It serves real estate agents, Airbnb hosts, hotels, car dealerships, schools, gyms, hospitals, and tourism operators worldwide.' },
-  { q: 'What is a 360° virtual tour?', a: 'A 360° virtual tour is an immersive, interactive walkthrough of a real physical space. Viewers can look in every direction, navigate between rooms, and zoom into details — all from their smartphone, tablet, or computer. Unlike a video, viewers control where they look and where they go.' },
+  { q: 'What is a 360° virtual tour?', a: 'A 360° virtual tour is an immersive, interactive walkthrough of a real physical space. Viewers can look in every direction, navigate between rooms, and zoom into details — all from their smartphone, tablet, or computer. Unlike a video, viewers control where they look and where they go. See our <a href="/what-is-a-virtual-tour" style="color:var(--accent)">full guide</a> for more.' },
   { q: 'Is Viewora built specifically for Kenya?', a: 'Yes. Viewora is founded in Nairobi and built for the African market. Tours are optimized for Safaricom, Airtel, and Telkom mobile networks, pricing is in Kenyan Shillings (KES), and the platform is designed for the specific needs of Kenyan real estate, hospitality, and business sectors.' },
   { q: 'How long does it take to create a virtual tour?', a: 'You can have your first virtual tour live within minutes of uploading your 360° images. The capture (photography) process typically takes 1–3 hours depending on the size of your space. Viewora\'s editor allows you to connect rooms and publish immediately after upload.' },
   { q: 'Do viewers need to download an app to view my tour?', a: 'No. Viewora tours are entirely web-based. Anyone you share the link with can view your tour instantly in their mobile browser or on any computer — no app download, no account required.' },
@@ -115,7 +115,7 @@ const industries = [
 ]
 
 useSeoMeta({
-  title: 'Virtual Tour Software FAQ',
+  title: 'Virtual Tour FAQ — Pricing, Setup & More',
   description: 'Frequently asked questions about Viewora\'s 360° virtual tour and photo gallery platform. Answers on pricing, how it works, mobile support, and more.',
   ogTitle: 'Virtual Tour FAQ | Everything You Need to Know | Viewora',
   ogDescription: 'Every question about creating and sharing virtual tours answered. Pricing, features, industries, technical requirements, and more.',

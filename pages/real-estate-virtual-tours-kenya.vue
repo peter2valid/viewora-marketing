@@ -60,7 +60,7 @@ const faqs = [
 ]
 
 useSeoMeta({
-  title: 'Real Estate Virtual Tours Kenya',
+  title: 'Real Estate Virtual Tours Kenya | Sell Faster',
   description: 'Boost your real estate sales in Kenya with Viewora. Create immersive 360° virtual tours that attract international and local buyers and renters instantly.',
   ogTitle: 'Real Estate Virtual Tours Kenya | Sell Units Faster',
   ogDescription: 'The professional choice for Kenyan real estate agencies. Immersive tours that close deals.',

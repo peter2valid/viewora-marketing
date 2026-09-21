@@ -50,7 +50,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Virtual Tour Glossary — Key Terms',
+  title: 'Virtual Tour Glossary | 30+ Terms Explained',
   description: '30+ virtual tour terms explained in plain English. Covers 360° photography, panoramas, hotspots, VR, and image formats for property professionals.',
   ogTitle: 'Virtual Tour Glossary | All Key Terms Defined',
   ogDescription: 'The complete reference for virtual tour terminology. 30+ key terms explained clearly for Kenya\'s property and business community.',

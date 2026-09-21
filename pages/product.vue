@@ -5,6 +5,7 @@
         <h1 class="section-title">How Viewora Works</h1>
         <p class="section-subtitle" style="max-width: 600px; margin: 0 auto;">
           Transform your 360° panoramas into fully interactive virtual tours in four simple steps. No technical skills required.
+          New to virtual tours? <NuxtLink to="/what-is-a-virtual-tour" style="color: var(--accent);">See what they are and how they work →</NuxtLink>
         </p>
       </div>
     </section>
@@ -115,7 +116,7 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: '360° Virtual Tour Features',
+  title: '360° Virtual Tour Features | How It Works',
   description: 'See how easy it is to upload panoramas, connect rooms, and publish stunning interactive 360° tours for any space without any coding skills.',
   ogTitle: 'How Viewora Works — 4 Simple Steps to a Virtual Tour',
   ogDescription: 'Upload your 360° photos, link rooms with hotspots, publish and share. No coding, no hardware, no experience needed.',

@@ -50,6 +50,11 @@
           <p style="font-weight: 700; color: var(--ink); margin-bottom: 0.5rem;">Billing & Cancellation Policy</p>
           <p style="font-size: 0.9rem; color: var(--slate); line-height: 1.7; margin: 0;">Subscriptions are billed {{ billingFreq }}. Users may cancel anytime before the next billing cycle. Payments are securely processed by Paystack (cards & M-Pesa).</p>
         </div>
+
+        <p style="text-align: center; margin-top: 1.5rem; color: var(--slate); font-size: 0.9rem;">
+          Comparing options? See how Viewora stacks up against
+          <NuxtLink to="/matterport-alternative" style="color: var(--accent);">Matterport</NuxtLink>.
+        </p>
       </div>
     </section>
   </div>
