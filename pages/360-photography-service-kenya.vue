@@ -25,6 +25,14 @@
               View All Packages →
             </a>
           </div>
+          <div style="margin-top: 1rem;">
+            <WhatsAppBookButton
+              message="Hi Viewora, I'd like to book a 360° photo shoot. Can you tell me availability and pricing?"
+              label="Or book via WhatsApp"
+              sublabel="No account needed — reply in minutes"
+              variant="outline"
+            />
+          </div>
           <p class="capture-hero__proof">✓ 48-hr delivery &nbsp; ✓ 25 property types covered &nbsp; ✓ Uploaded straight to your space</p>
         </div>
       </div>

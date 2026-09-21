@@ -14,11 +14,22 @@
           <NuxtLink to="/contact" class="btn btn-outline-light btn-lg">Book a Demo</NuxtLink>
         </div>
         <p class="cta-footnote">Instant Results • No credit card required</p>
+
+        <div v-if="whatsappMessage" class="cta-whatsapp">
+          <p class="cta-whatsapp__label">Prefer to just book a shoot?</p>
+          <WhatsAppBookButton :message="whatsappMessage" variant="outline" />
+        </div>
       </div>
     </div>
     <div class="glow-sphere"></div>
   </section>
 </template>
+
+<script setup lang="ts">
+defineProps<{
+  whatsappMessage?: string
+}>()
+</script>
 
 <style scoped>
 .seo-cta {
@@ -88,6 +99,22 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--slate);
+  margin: 0;
+}
+
+.cta-whatsapp {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.cta-whatsapp__label {
+  font-size: 0.85rem;
+  color: var(--slate-light);
   margin: 0;
 }
 

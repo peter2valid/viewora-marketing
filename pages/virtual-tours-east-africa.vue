@@ -59,7 +59,7 @@
       </p>
     </SeoContent>
 
-    <SeoCTA />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° tour shoot. Can you tell me more about availability?" />
   </div>
 </template>
 

@@ -41,7 +41,7 @@
       </p>
     </SeoContent>
 
-    <SeoCTA />
+    <SeoCTA whatsapp-message="Hi Viewora, I'd like to book a 360° tour shoot for my property in Mombasa. Can you tell me more?" />
   </div>
 </template>
 
