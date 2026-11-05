@@ -112,7 +112,13 @@ const lastPhone = ref('')
 const route = useRoute()
 const { $posthog } = useNuxtApp() as any
 
-onMounted(() => $posthog?.capture('demo_request_form_view', { page: route.path }))
+onMounted(() => {
+  $posthog?.capture('demo_request_form_view', { page: route.path })
+  // Load the tour once the page is interactive so it never delays the form.
+  const start = () => { tourOn.value = true }
+  if ('requestIdleCallback' in window) (window as any).requestIdleCallback(start, { timeout: 1500 })
+  else setTimeout(start, 800)
+})
 
 async function submit() {
   error.value = null
