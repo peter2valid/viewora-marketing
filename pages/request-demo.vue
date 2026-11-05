@@ -148,10 +148,10 @@ useHead({ link: [{ rel: 'canonical', href: 'https://viewora.software/request-dem
 </script>
 
 <style scoped>
-.rd-hero { background: var(--paper-dim); border-bottom: 1px solid var(--border); padding: 2.5rem 0 2rem; }
-.rd-eyebrow { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--slate); margin-bottom: 0.5rem; }
-.rd-title { font-size: clamp(1.75rem, 5vw, 2.75rem); line-height: 1.15; margin: 0 0 0.75rem; text-align: left; }
-.rd-sub { max-width: 560px; color: var(--slate); text-align: left; margin: 0; }
+.rd-hero { background: var(--ink); color: #fff; padding: 2.75rem 0 2.25rem; border-bottom: 4px solid var(--accent); }
+.rd-eyebrow { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem; }
+.rd-title { font-size: clamp(1.75rem, 5vw, 2.75rem); line-height: 1.15; margin: 0 0 0.75rem; text-align: left; color: #fff; }
+.rd-sub { max-width: 560px; color: #c9ccd1; text-align: left; margin: 0; }
 .rd-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
 @media (min-width: 900px) {
   .rd-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
@@ -171,7 +171,7 @@ useHead({ link: [{ rel: 'canonical', href: 'https://viewora.software/request-dem
 .rd-consent { display: flex; gap: 0.75rem; align-items: flex-start; margin: 1.25rem 0; font-size: 0.9rem; color: var(--slate); }
 .rd-consent input { width: 22px; height: 22px; margin-top: 2px; flex-shrink: 0; }
 
-.rd-tour { border: 1px solid var(--border); border-radius: 0.75rem; overflow: hidden; background: var(--ink); height: min(70svh, 520px); min-height: 360px; }
+.rd-tour { border: 1px solid var(--ink); border-radius: 0.75rem; overflow: hidden; background: var(--ink); height: min(70svh, 520px); min-height: 360px; }
 .rd-tour iframe { width: 100%; height: 100%; border: 0; display: block; }
 .rd-tour-start { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; gap: 1rem; background: var(--ink); color: #fff; border: 0; cursor: pointer; font: inherit; text-align: left; transition: background 0.15s; }
 .rd-tour-start:hover { background: var(--ink-soft); }
