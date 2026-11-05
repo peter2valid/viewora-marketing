@@ -3260,3 +3260,14 @@ header.nav {
     display: none;
   }
 }
+/* Embedded tour frames: landscape on desktop, tall portrait on phones so the
+   panorama has room to explore (inline aspect-ratio removed from the markup). */
+.tour-frame { aspect-ratio: 16 / 9; }
+.tour-frame--hero { aspect-ratio: 16 / 10; }
+@media (max-width: 767px) {
+  .tour-frame, .tour-frame--hero {
+    aspect-ratio: auto;
+    height: min(75svh, 640px);
+    min-height: 460px;
+  }
+}

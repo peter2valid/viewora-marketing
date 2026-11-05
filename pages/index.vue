@@ -14,7 +14,7 @@
           </p>
           <div class="hero-actions">
             <NuxtLink to="https://app.viewora.software/register" class="btn btn-primary btn-lg btn-float">Start Free — No Card Needed</NuxtLink>
-            <NuxtLink to="/demo" class="btn btn-outline btn-lg">See a Live Demo →</NuxtLink>
+            <NuxtLink to="/request-demo" class="btn btn-outline btn-lg">Request a Demo →</NuxtLink>
           </div>
           <p style="margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);">✓ Free forever plan &nbsp;&nbsp; ✓ No credit card &nbsp;&nbsp; ✓ Publish in 5 minutes</p>
           <p style="margin-top: 0.75rem; font-size: 0.85rem; color: var(--text-muted);">
@@ -26,7 +26,7 @@
           <div style="position: absolute; top: 10%; bottom: 10%; left: 5%; right: 5%; background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%); filter: blur(40px); opacity: 0.25; z-index: 0; border-radius: 2rem; transform: translateZ(0);"></div>
 
           <!-- Live embedded tour — aspect-ratio keeps it well-proportioned at any screen width instead of a fixed pixel height -->
-          <div class="card" style="padding: 0; position: relative; overflow: hidden; border-radius: 1rem; width: 100%; aspect-ratio: 16 / 10; background-color: var(--bg-surface); box-shadow: var(--shadow-xl), 0 0 0 1px rgba(0,0,0,0.05); z-index: 1; border: none;">
+          <div class="card tour-frame--hero" style="padding: 0; position: relative; overflow: hidden; border-radius: 1rem; width: 100%; background-color: var(--bg-surface); box-shadow: var(--shadow-xl), 0 0 0 1px rgba(0,0,0,0.05); z-index: 1; border: none;">
             <!-- src injected after page load to protect LCP -->
             <iframe
               ref="demoIframe"

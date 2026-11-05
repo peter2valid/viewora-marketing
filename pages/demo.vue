@@ -15,7 +15,7 @@
           <h2 class="section-title" style="font-size: 1.75rem;">{{ demo.title }}</h2>
           <p class="section-subtitle" style="max-width: 700px; margin: 0 auto;">{{ demo.description }}</p>
         </div>
-        <div class="card" style="padding: 0; overflow: hidden; max-width: 1000px; margin: 0 auto; border: 1px solid var(--border); box-shadow: var(--shadow-lg); aspect-ratio: 16 / 9;">
+        <div class="card tour-frame" style="padding: 0; overflow: hidden; max-width: 1000px; margin: 0 auto; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
           <iframe
             :src="demo.embedUrl"
             style="width: 100%; height: 100%; border: none; display: block; background: #000;"
