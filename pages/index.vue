@@ -32,7 +32,7 @@
               ref="demoIframe"
               style="width: 100%; height: 100%; border: none; display: block;"
               allowfullscreen
-              allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
+              allow="fullscreen; clipboard-write; gyroscope; accelerometer; magnetometer; xr-spatial-tracking; screen-wake-lock"
               title="Live Viewora Tour — Onyx Apartments"
             ></iframe>
           </div>
@@ -283,6 +283,8 @@ useSeoMeta({
   twitterDescription: 'Upload, connect rooms and go live in 5 minutes. The fastest virtual tour platform for real estate & hospitality.',
 })
 
+// Lets the embedded tour go full screen / VR on iPhone (see app.viewora.software/embed.js)
+useHead({ script: [{ src: "https://app.viewora.software/embed.js", async: true }] })
 useHead({
   bodyAttrs: { class: 'no-css-grid' },
   link: [{ rel: 'canonical', href: 'https://viewora.software' }],

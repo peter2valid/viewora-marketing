@@ -21,7 +21,7 @@
             style="width: 100%; height: 100%; border: none; display: block; background: #000;"
             allowfullscreen
             loading="lazy"
-            allow="fullscreen; gyroscope; accelerometer; xr-spatial-tracking"
+            allow="fullscreen; clipboard-write; gyroscope; accelerometer; magnetometer; xr-spatial-tracking; screen-wake-lock"
             :title="`Live Viewora Tour — ${demo.title}`"
           ></iframe>
         </div>
@@ -74,6 +74,8 @@ useSeoMeta({
 
 useBreadcrumb('Demo', '/demo')
 
+// Lets the embedded tour go full screen / VR on iPhone (see app.viewora.software/embed.js)
+useHead({ script: [{ src: "https://app.viewora.software/embed.js", async: true }] })
 useHead({
   link: [{ rel: 'canonical', href: 'https://viewora.software/demo' }],
 })
