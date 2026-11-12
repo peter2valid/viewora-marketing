@@ -6,6 +6,9 @@
       badge="Automotive Innovation"
     />
 
+    <!-- Real cars listed on Viewora: the spin itself, not a description of it. -->
+    <SeoCarSpinShowcase />
+
     <SeoContent>
       <h2>The Smartest Way to Sell Cars in Kenya in 2026</h2>
       <p>
