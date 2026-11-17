@@ -33,7 +33,7 @@
               </div>
               <div>
                 <h4 class="font-bold mb-1">Email</h4>
-                <p class="text-muted"><a href="mailto:vieworasoftware@gmail.com" style="color: inherit; text-decoration: none;">vieworasoftware@gmail.com</a></p>
+                <p class="text-muted"><a href="mailto:info@viewora.software" style="color: inherit; text-decoration: none;">info@viewora.software</a></p>
                 <p class="text-sm text-muted mt-1">We usually respond within 24 hours.</p>
               </div>
             </div>
@@ -137,7 +137,7 @@ const submitForm = async () => {
       form.value = { name: '', email: '', subject: '', message: '' }
     }
   } catch {
-    formError.value = 'Something went wrong. Please email us directly at vieworasoftware@gmail.com'
+    formError.value = 'Something went wrong. Please email us directly at info@viewora.software'
   } finally {
     submitting.value = false
   }
@@ -170,7 +170,7 @@ useHead({
         '@type': 'Organization',
         name: 'Viewora',
         telephone: '+254117537025',
-        email: 'vieworasoftware@gmail.com',
+        email: 'info@viewora.software',
         address: {
           '@type': 'PostalAddress',
           addressLocality: 'Juja',

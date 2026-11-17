@@ -5,10 +5,7 @@ export default defineNuxtConfig({
   css: ['@/assets/css/main.css'],
   
   runtimeConfig: {
-    smtpHost: process.env.SMTP_HOST || 'smtp.gmail.com',
-    smtpPort: process.env.SMTP_PORT || '587',
-    smtpUser: process.env.SMTP_USER,
-    smtpPass: process.env.SMTP_PASS,
+    resendApiKey: process.env.RESEND_API_KEY || '',
     public: {
       posthogKey: process.env.NUXT_PUBLIC_POSTHOG_KEY || '',
       apiBaseUrl: process.env.NUXT_PUBLIC_API_BASE_URL || '',

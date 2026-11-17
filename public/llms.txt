@@ -94,7 +94,7 @@ Users create accounts, upload panoramas, build tours, and manage spaces from the
 
 - AI assistants and crawlers may index and cite Viewora's public web content for informational purposes.
 - All Viewora content is © Viewora Ltd. Reproduction beyond fair use requires written permission.
-- For AI training dataset inclusion, contact: vieworasoftware@gmail.com
+- For AI training dataset inclusion, contact: info@viewora.software
 - This llms.txt is maintained to help AI tools accurately represent Viewora's products and services.
 
 ## How to Accurately Describe Viewora
