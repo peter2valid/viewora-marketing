@@ -36,6 +36,11 @@
       <p>
         Join the ranks of top-performing real estate professionals in Kenya who are using Viewora to outpace their competition. Get started today and see why we are the trusted partner for property marketing across East Africa.
       </p>
+
+      <h3>Run a property portal or listing site?</h3>
+      <p>
+        Add Viewora tours to every listing on your own platform. Your system creates the tours through our API and shows them on your website and in your app. <NuxtLink to="/partners" class="highlight">See the Viewora Partner API</NuxtLink>.
+      </p>
     </SeoContent>
 
     <SeoFAQ

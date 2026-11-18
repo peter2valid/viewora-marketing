@@ -47,6 +47,7 @@
             <li><NuxtLink to="/matterport-alternative">Matterport Alternative</NuxtLink></li>
             <li><NuxtLink to="/free-virtual-tour-software">Free Virtual Tour Software</NuxtLink></li>
             <li><NuxtLink to="/virtual-tour-software-kenya">Virtual Tour Software Kenya</NuxtLink></li>
+            <li><NuxtLink to="/partners">Partner API</NuxtLink></li>
             <li><NuxtLink to="/glossary">Glossary</NuxtLink></li>
           </ul>
         </div>

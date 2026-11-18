@@ -56,6 +56,11 @@
         With hundreds of dealerships competing for the same buyers in Nairobi's Industrial Area and along Mombasa Road, differentiation is everything. <strong>Car dealership virtual tours</strong> are a powerful way to stand out, command attention, and close deals faster in Kenya's fast-moving automotive market.
       </p>
 
+      <h3>Run a car marketplace or dealer group?</h3>
+      <p>
+        Add 360° car spins to every listing on your own site and app. Your system uploads the photos through our API and Viewora builds the spin. <NuxtLink to="/partners" class="highlight">See the Viewora Partner API</NuxtLink>.
+      </p>
+
       <h2>Start Your Free Automotive Virtual Tour Today</h2>
       <p>
         Give your dealership a 24/7 online showroom. Attract serious buyers, reduce wasted site visits, and sell more cars—all with immersive 360° technology.
